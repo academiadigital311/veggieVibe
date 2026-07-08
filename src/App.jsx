@@ -813,17 +813,43 @@ export default function App() {
           .rv-week-meal-text { display:inline; }
         }
         @media (max-width: 640px) {
-          .rv-hero { padding:40px 18px 84px; }
-          .rv-search-card { margin:-50px 14px 0; padding:16px; }
-          .rv-filters { padding:0 14px; }
-          .rv-grid { padding:0 14px 50px; gap:14px; grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); }
-          .rv-modal-title { font-size:21px; }
-          .rv-nav-tabs { margin:-24px 14px 16px; }
-          .rv-nav-tab { padding:8px 12px; font-size:12px; }
-          .rv-plan-section { padding:0 14px 50px; }
-          .rv-shopping-section { padding:0 14px 50px; }
-          .rv-chef-section { padding:0 14px 50px; }
-          .rv-chef-chat { height:calc(100vh - 300px); min-height:350px; }
+          .rv-hero { padding:32px 14px 74px; }
+          .rv-hero-topbar { gap:6px; justify-content:center; }
+          .rv-hero-badge { font-size:11px; padding:5px 10px; }
+          .rv-hero-icon-btn { font-size:11px; padding:7px 10px; gap:4px; }
+          .rv-hero-title { font-size:28px; }
+          .rv-hero-sub { font-size:13.5px; margin-top:10px; }
+          .rv-search-card { margin:-50px 10px 0; padding:14px; border-radius:16px; }
+          .rv-search-box { padding:10px 12px; }
+          .rv-search-box input { font-size:13px; }
+          .rv-filters { padding:0 10px; }
+          .rv-pill { padding:6px 12px; font-size:12px; }
+          .rv-grid { padding:0 10px 50px; gap:12px; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); }
+          .rv-card-img { height:120px; }
+          .rv-illus { height:120px; }
+          .rv-card-title { font-size:14px; }
+          .rv-modal-overlay { padding:2vh 8px; }
+          .rv-modal { border-radius:16px; }
+          .rv-modal-title { font-size:19px; }
+          .rv-nav-tabs { margin:-24px 10px 16px; gap:2px; padding:4px; border-radius:12px; }
+          .rv-nav-tab { padding:8px 10px; font-size:11px; gap:4px; border-radius:10px; }
+          .rv-plan-section { padding:0 10px 50px; }
+          .rv-week-cell { min-height:60px; min-width:90px; padding:4px; }
+          .rv-week-recipe-name { font-size:9.5px; }
+          .rv-week-recipe-img { width:32px; height:32px; }
+          .rv-shopping-section { padding:0 10px 50px; }
+          .rv-chef-section { padding:0 10px 50px; }
+          .rv-chef-chat { height:calc(100vh - 280px); min-height:320px; }
+          .rv-chef-bubble { font-size:13px; padding:9px 12px; }
+          .rv-chef-input { font-size:13px; padding:10px 12px; }
+          .rv-premium-modal { max-width:95vw; }
+        }
+        @media (max-width: 380px) {
+          .rv-hero-badge { display:none; }
+          .rv-hero-title { font-size:24px; }
+          .rv-nav-tab { padding:7px 8px; font-size:10.5px; gap:3px; }
+          .rv-nav-tab svg { width:12px; height:12px; }
+          .rv-grid { grid-template-columns:repeat(auto-fill, minmax(140px, 1fr)); }
         }
       `}</style>
 
