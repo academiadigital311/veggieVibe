@@ -728,7 +728,7 @@ export default function App() {
         .rv-hero-premium-btn { background:${C.sun}; color:${C.coralDark}; border-color:${C.sun}; }
         .rv-hero-title { font-family:'Quicksand',sans-serif; font-weight:700; font-size:clamp(34px,6vw,52px); color:#fff; margin:0; line-height:1.05; }
         .rv-hero-sub { max-width:540px; margin:14px auto 0; color:rgba(255,255,255,0.92); font-size:15.5px; line-height:1.55; }
-        .rv-search-card { max-width:760px; margin:0 auto; background:#fff; border-radius:22px; padding:22px; box-shadow:0 18px 40px rgba(14,107,78,0.18); position:relative; z-index:2; }
+        .rv-search-card { max-width:760px; margin:0 auto; background:#fff; border-radius:22px; padding:22px; box-shadow:0 18px 40px rgba(14,107,78,0.18); position:relative; z-index:1; }
         .rv-diet-row { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px; }
         .rv-search-box { display:flex; align-items:center; gap:10px; background:${C.bg}; border:1.5px solid ${C.line}; border-radius:14px; padding:13px 16px; }
         .rv-search-box input { border:none; outline:none; background:transparent; font-size:14.5px; width:100%; color:${C.ink}; font-family:'Inter',sans-serif; }
@@ -813,17 +813,20 @@ export default function App() {
           .rv-week-meal-text { display:inline; }
         }
         @media (max-width: 640px) {
-          .rv-hero { padding:32px 14px 74px; }
+          .rv-hero { padding:32px 14px 50px; }
           .rv-hero-topbar { gap:6px; justify-content:center; }
           .rv-hero-badge { font-size:11px; padding:5px 10px; }
           .rv-hero-icon-btn { font-size:11px; padding:7px 10px; gap:4px; }
           .rv-hero-title { font-size:28px; }
           .rv-hero-sub { font-size:13.5px; margin-top:10px; }
-          .rv-search-card { margin:-50px 10px 0; padding:14px; border-radius:16px; }
+          .rv-nav-tabs { margin:-20px 10px 14px; gap:2px; padding:4px; border-radius:12px; z-index:3; position:relative; }
+          .rv-nav-tab { padding:8px 10px; font-size:11px; gap:4px; border-radius:10px; }
+          .rv-search-card { margin:0 10px; padding:14px; border-radius:16px; box-shadow:0 8px 20px rgba(14,107,78,0.10); }
+          .rv-diet-row { gap:6px; }
           .rv-search-box { padding:10px 12px; }
           .rv-search-box input { font-size:13px; }
-          .rv-filters { padding:0 10px; }
-          .rv-pill { padding:6px 12px; font-size:12px; }
+          .rv-filters { padding:0 10px; margin-top:14px; gap:6px; }
+          .rv-pill { padding:5px 10px; font-size:11.5px; }
           .rv-grid { padding:0 10px 50px; gap:12px; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); }
           .rv-card-img { height:120px; }
           .rv-illus { height:120px; }
@@ -831,8 +834,6 @@ export default function App() {
           .rv-modal-overlay { padding:2vh 8px; }
           .rv-modal { border-radius:16px; }
           .rv-modal-title { font-size:19px; }
-          .rv-nav-tabs { margin:-24px 10px 16px; gap:2px; padding:4px; border-radius:12px; }
-          .rv-nav-tab { padding:8px 10px; font-size:11px; gap:4px; border-radius:10px; }
           .rv-plan-section { padding:0 10px 50px; }
           .rv-week-cell { min-height:60px; min-width:90px; padding:4px; }
           .rv-week-recipe-name { font-size:9.5px; }
