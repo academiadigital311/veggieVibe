@@ -369,7 +369,7 @@ function WeeklyPlan({ planData, recetas, isPremiumUser, onAssign, onRemove, onNe
       <div className="rv-week-grid">
         <div className="rv-week-header">
           <div className="rv-week-corner" />
-          {DAY_KEYS.map((dk, i) => (
+          {DAY_KEYS.map((dk) => (
             <div key={dk} className="rv-week-day-label">{t(`week.${dk}`)}</div>
           ))}
         </div>
@@ -393,6 +393,35 @@ function WeeklyPlan({ planData, recetas, isPremiumUser, onAssign, onRemove, onNe
                 </div>
               );
             })}
+          </div>
+        ))}
+      </div>
+      <div className="rv-week-grid-mobile">
+        {DAY_KEYS.map((dk, dayIdx) => (
+          <div key={dk} className="rv-week-day-card">
+            <div className="rv-week-day-card-title">{t(`week.${dk}Full`)}</div>
+            <div className="rv-week-day-meals">
+              {MEAL_TYPES.map((mt) => {
+                const entry = planData.find((p) => p.day_index === dayIdx && p.meal_type === mt);
+                const receta = entry ? getReceta(entry.receta_id) : null;
+                return (
+                  <div key={mt}>
+                    <div className="rv-week-day-meal-label">{MEAL_EMOJI[mt]} {t(`meal.${mt}`)}</div>
+                    <div className="rv-week-cell">
+                      {receta ? (
+                        <div className="rv-week-recipe">
+                          {receta.imagen && <img src={receta.imagen} alt="" className="rv-week-recipe-img" />}
+                          <span className="rv-week-recipe-name">{receta.nombre}</span>
+                          <button onClick={() => onRemove(dayIdx, mt)} className="rv-week-remove" aria-label={t("plan.removeRecipe")}><X size={10} /></button>
+                        </div>
+                      ) : (
+                        <button onClick={() => handleAddClick(dayIdx, mt)} className="rv-week-add" aria-label={t("plan.addRecipe")}><Plus size={14} color={C.inkSoft} /></button>
+                      )}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
           </div>
         ))}
       </div>
@@ -771,6 +800,7 @@ export default function App() {
         .rv-nav-tab-active { background:${C.veganaBg}; color:${C.veganaDark}; }
         .rv-plan-section { max-width:1080px; margin:0 auto; padding:0 24px 64px; }
         .rv-week-grid { overflow-x:auto; }
+        .rv-week-grid-mobile { display:none; }
         .rv-week-header { display:grid; grid-template-columns:80px repeat(7, 1fr); gap:4px; margin-bottom:4px; }
         .rv-week-corner { }
         .rv-week-day-label { text-align:center; font-size:12px; font-weight:700; color:${C.veganaDark}; padding:8px 4px; text-transform:uppercase; letter-spacing:0.3px; }
@@ -839,9 +869,17 @@ export default function App() {
           .rv-modal { border-radius:16px; }
           .rv-modal-title { font-size:19px; }
           .rv-plan-section { padding:0 10px 50px; }
-          .rv-week-cell { min-height:60px; min-width:90px; padding:4px; }
-          .rv-week-recipe-name { font-size:9.5px; }
-          .rv-week-recipe-img { width:32px; height:32px; }
+          .rv-week-grid { overflow-x:visible; }
+          .rv-week-header { display:none; }
+          .rv-week-row { display:none; }
+          .rv-week-grid-mobile { display:flex; flex-direction:column; gap:12px; }
+          .rv-week-day-card { background:#fff; border:1.5px solid ${C.line}; border-radius:14px; padding:12px; }
+          .rv-week-day-card-title { font-size:13px; font-weight:700; color:${C.veganaDark}; text-transform:uppercase; letter-spacing:0.3px; margin-bottom:10px; }
+          .rv-week-day-meals { display:grid; grid-template-columns:repeat(4, 1fr); gap:6px; }
+          .rv-week-day-meal-label { font-size:10px; font-weight:600; color:${C.inkSoft}; text-align:center; margin-bottom:4px; }
+          .rv-week-cell { min-height:60px; min-width:0; padding:4px; }
+          .rv-week-recipe-name { font-size:9px; }
+          .rv-week-recipe-img { width:30px; height:30px; }
           .rv-shopping-section { padding:0 10px 50px; }
           .rv-chef-section { padding:0 10px 50px; }
           .rv-chef-chat { height:calc(100vh - 280px); min-height:320px; }
