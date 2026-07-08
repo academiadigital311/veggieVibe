@@ -813,13 +813,13 @@ export default function App() {
           .rv-week-meal-text { display:inline; }
         }
         @media (max-width: 640px) {
-          .rv-hero { padding:32px 14px 50px; }
+          .rv-hero { padding:32px 14px 24px; }
           .rv-hero-topbar { gap:6px; justify-content:center; }
           .rv-hero-badge { font-size:11px; padding:5px 10px; }
           .rv-hero-icon-btn { font-size:11px; padding:7px 10px; gap:4px; }
           .rv-hero-title { font-size:28px; }
           .rv-hero-sub { font-size:13.5px; margin-top:10px; }
-          .rv-nav-tabs { margin:-20px 10px 14px; gap:2px; padding:4px; border-radius:12px; z-index:3; position:relative; }
+          .rv-nav-tabs { margin:0 10px 14px; gap:2px; padding:4px; border-radius:12px; position:relative; z-index:1; }
           .rv-nav-tab { padding:8px 10px; font-size:11px; gap:4px; border-radius:10px; }
           .rv-search-card { margin:0 10px; padding:14px; border-radius:16px; box-shadow:0 8px 20px rgba(14,107,78,0.10); }
           .rv-diet-row { gap:6px; }
