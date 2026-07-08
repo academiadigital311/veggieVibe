@@ -1,0 +1,345 @@
+{
+  "1": {
+    "nombre": "Cinnamon French Toast",
+    "ingredientes": ["4 slices of bread (day-old works best)", "2 eggs", "1/2 cup milk", "1 tsp cinnamon", "1 tbsp sugar", "Butter", "Honey for serving"],
+    "pasos": ["Beat the eggs with the milk, cinnamon, and sugar.", "Soak each slice of bread for 30 seconds per side.", "Brown in butter for 2-3 minutes per side.", "Serve with honey and fresh fruit."],
+    "tip": "Use day-old bread: it absorbs the mixture better and stays creamy inside without falling apart.",
+    "tags": ["egg", "bread", "milk", "cinnamon"]
+  },
+  "2": {
+    "nombre": "Oatmeal Bowl with Fruit and Peanut Butter",
+    "ingredientes": ["1 cup oats", "1 cup plant-based milk", "1 banana", "1 tbsp peanut butter", "Mixed berries", "Cinnamon"],
+    "pasos": ["Cook the oats with the plant-based milk for 5 minutes.", "Pour into a bowl.", "Top with banana, peanut butter, and berries.", "Sprinkle with cinnamon."],
+    "tip": "Soak the oats overnight: they turn creamy without any cooking needed.",
+    "tags": ["oats", "banana", "plant milk", "peanut butter"]
+  },
+  "3": {
+    "nombre": "Potato and Spinach Tortilla",
+    "ingredientes": ["4 eggs", "2 medium potatoes", "1 handful of spinach", "1/2 onion", "Salt", "Olive oil"],
+    "pasos": ["Slice the potatoes thin and fry gently for 10 minutes.", "Add onion and spinach, cook 3 more minutes.", "Beat the eggs with salt and mix with the potatoes.", "Cook 5 minutes per side."],
+    "tip": "Flip the tortilla using a plate, not a spatula: it will stay whole and even.",
+    "tags": ["potato", "egg", "spinach"]
+  },
+  "4": {
+    "nombre": "Egg-Free Banana Pancakes",
+    "ingredientes": ["1 ripe banana", "1 cup flour", "1 cup plant-based milk", "1 tsp baking powder", "1 tbsp oil", "Cinnamon"],
+    "pasos": ["Mash the banana.", "Mix with plant-based milk and oil.", "Add flour, baking powder, and cinnamon.", "Cook portions for 2 minutes per side."],
+    "tip": "Wait for bubbles to appear on the surface before flipping: that way they won't break.",
+    "tags": ["banana", "flour", "plant milk"]
+  },
+  "5": {
+    "nombre": "Vegetarian Shakshuka",
+    "ingredientes": ["4 eggs", "4 ripe tomatoes (or 1 can)", "1 bell pepper", "1 onion", "Cumin", "Paprika", "Bread for serving"],
+    "pasos": ["Sauté onion and pepper for 5 minutes.", "Add tomato, cumin, and paprika, cook 10 minutes.", "Make wells and crack the eggs in.", "Cover and cook 5-6 minutes until set."],
+    "tip": "If the sauce is too watery, uncover for the last few minutes to reduce it before adding the eggs.",
+    "tags": ["egg", "tomato", "bell pepper"]
+  },
+  "6": {
+    "nombre": "Avocado Toast with Poached Egg",
+    "ingredientes": ["2 slices whole wheat bread", "1 avocado", "2 eggs", "Lime juice", "Salt", "Chili flakes"],
+    "pasos": ["Boil water with a splash of vinegar.", "Create a whirlpool and drop in the egg, cook 3 minutes.", "Toast the bread and mash the avocado with lime and salt.", "Top with the egg and chili flakes."],
+    "tip": "The water whirlpool before dropping the egg is the secret to a compact poached egg.",
+    "tags": ["avocado", "egg", "bread"]
+  },
+  "7": {
+    "nombre": "Mango and Chia Smoothie Bowl",
+    "ingredientes": ["1 frozen mango", "1 banana", "1/2 cup plant-based milk", "1 tbsp chia seeds", "Granola", "Shredded coconut"],
+    "pasos": ["Blend the mango, banana, and plant-based milk.", "Pour into a bowl.", "Top with chia, granola, and coconut."],
+    "tip": "Freeze the fruit beforehand: it gives an ice cream-like texture without needing ice.",
+    "tags": ["mango", "banana", "chia"]
+  },
+  "8": {
+    "nombre": "Homemade Granola with Yogurt and Berries",
+    "ingredientes": ["2 cups oats", "1/2 cup chopped almonds", "3 tbsp honey", "2 tbsp coconut oil", "Cinnamon", "Natural yogurt", "Mixed berries"],
+    "pasos": ["Mix oats, almonds, honey, oil, and cinnamon.", "Spread on a baking sheet and bake 20 minutes at 320°F (160°C), stirring halfway.", "Let cool completely without touching until crunchy.", "Serve over yogurt with berries."],
+    "tip": "Let the granola cool completely without touching it: that's when the crunchy clusters form.",
+    "tags": ["oats", "almonds", "yogurt", "honey"]
+  },
+  "9": {
+    "nombre": "Breakfast Burrito with Scrambled Tofu",
+    "ingredientes": ["200 g firm tofu", "2 large tortillas", "1/2 tsp turmeric", "1/2 bell pepper", "Black beans", "Avocado", "Hot sauce"],
+    "pasos": ["Crumble the tofu with a fork.", "Sauté with turmeric and pepper for 6 minutes until golden.", "Heat the beans and tortillas.", "Assemble the burrito with tofu, beans, avocado, and hot sauce."],
+    "tip": "Turmeric gives the tofu that scrambled-egg yellow color and a subtle flavor boost.",
+    "tags": ["tofu", "tortillas", "beans", "avocado"]
+  },
+  "10": {
+    "nombre": "Roasted Chickpea Buddha Bowl",
+    "ingredientes": ["1 can chickpeas", "1 cup cooked quinoa", "1 carrot", "1/2 cucumber", "Leafy greens", "Tahini", "Cumin", "Paprika"],
+    "pasos": ["Roast the chickpeas with cumin and paprika for 20 minutes at 400°F (200°C).", "Cook the quinoa separately.", "Assemble the bowl with quinoa, raw vegetables, and chickpeas.", "Dress with tahini thinned with water and lemon."],
+    "tip": "Pat the chickpeas dry with a towel before roasting: they'll turn crunchy instead of rubbery.",
+    "tags": ["chickpeas", "quinoa", "carrot"]
+  },
+  "11": {
+    "nombre": "Creamy Spinach and Walnut Pasta",
+    "ingredientes": ["300 g pasta", "2 handfuls of spinach", "1/2 cup walnuts", "1/2 cup cream or cream cheese", "1 garlic clove", "Parmesan"],
+    "pasos": ["Cook the pasta.", "Blend spinach, walnuts, garlic, and cream into a sauce.", "Toss with the hot pasta and a splash of cooking water.", "Serve with Parmesan."],
+    "tip": "Save a cup of pasta water before draining: it helps the sauce come together without getting heavy.",
+    "tags": ["pasta", "spinach", "walnuts", "cheese"]
+  },
+  "12": {
+    "nombre": "Al Pastor Cauliflower Tacos",
+    "ingredientes": ["1 cauliflower in florets", "Achiote or paprika", "Pineapple chunks", "Corn tortillas", "Red onion", "Cilantro", "Lime"],
+    "pasos": ["Marinate the cauliflower with achiote, spices, and pineapple juice for 10 minutes.", "Roast or sauté until golden, about 20 minutes.", "Warm the tortillas.", "Assemble tacos with cauliflower, pineapple, onion, and cilantro."],
+    "tip": "Don't skip the pineapple in the marinade: the acid helps the cauliflower absorb more flavor.",
+    "tags": ["cauliflower", "pineapple", "tortillas"]
+  },
+  "13": {
+    "nombre": "Mushroom Risotto",
+    "ingredientes": ["1 cup arborio rice", "300 g mixed mushrooms", "1 L vegetable broth", "1/2 glass white wine", "1 onion", "Butter", "Parmesan"],
+    "pasos": ["Sauté the mushrooms separately and set aside.", "Sweat the onion, add the rice, and toast for 2 minutes.", "Add the wine and let it evaporate.", "Add the hot broth a ladle at a time for 18-20 minutes.", "Stir in the mushrooms, butter, and Parmesan."],
+    "tip": "Always add the broth hot: cold broth stops the rice from cooking and leaves it hard.",
+    "tags": ["rice", "mushrooms", "cheese"]
+  },
+  "14": {
+    "nombre": "Warm Quinoa and Roasted Vegetable Salad",
+    "ingredientes": ["1 cup quinoa", "1 zucchini", "1 bell pepper", "1 sweet potato", "Olive oil", "Balsamic vinegar", "Fresh herbs"],
+    "pasos": ["Roast the diced vegetables with oil and salt for 25 minutes.", "Cook the quinoa separately.", "Toss everything together while warm with balsamic vinegar and herbs."],
+    "tip": "Cut the vegetables to the same size so they roast evenly — no raw or burnt pieces.",
+    "tags": ["quinoa", "zucchini", "bell pepper"]
+  },
+  "15": {
+    "nombre": "Eggplant and Goat Cheese Sandwich",
+    "ingredientes": ["1 eggplant", "Ciabatta bread", "Goat cheese", "Arugula", "Honey", "Olive oil"],
+    "pasos": ["Slice the eggplant into rounds, salt, and let rest 10 minutes.", "Grill or pan-fry 3 minutes per side.", "Build the sandwich with goat cheese, arugula, and eggplant.", "Finish with a drizzle of honey."],
+    "tip": "Salting the eggplant before cooking keeps it from absorbing too much oil and reduces bitterness.",
+    "tags": ["eggplant", "cheese", "bread"]
+  },
+  "16": {
+    "nombre": "Chickpea and Spinach Curry",
+    "ingredientes": ["1 can chickpeas", "2 handfuls of spinach", "1 can coconut milk", "1 onion", "1 tbsp curry powder", "Ginger and garlic", "Rice"],
+    "pasos": ["Sauté onion, garlic, and ginger for 3 minutes.", "Add the curry powder and toast for 1 minute.", "Add chickpeas and coconut milk, cook 15 minutes.", "Stir in the spinach at the end.", "Serve with rice."],
+    "tip": "Toast the curry powder in the oil before adding liquids: it intensifies the flavor enormously.",
+    "tags": ["chickpeas", "spinach", "coconut milk"]
+  },
+  "17": {
+    "nombre": "Cumin Lentil Soup",
+    "ingredientes": ["1 cup lentils", "1 carrot", "1 potato", "1 onion", "1 tsp cumin", "Vegetable broth", "Bay leaf"],
+    "pasos": ["Sauté onion and carrot for 5 minutes.", "Add lentils, potato, cumin, and bay leaf.", "Cover with broth and cook 25 minutes until the lentils are tender.", "Season with salt and serve."],
+    "tip": "Dry-toast the cumin for one minute before adding it: it releases much more aroma than adding it directly.",
+    "tags": ["lentils", "carrot", "potato"]
+  },
+  "18": {
+    "nombre": "Hummus and Veggie Wrap",
+    "ingredientes": ["2 whole wheat tortillas", "1 cup hummus", "Grated carrot", "Cucumber", "Spinach", "Sprouts"],
+    "pasos": ["Spread a generous layer of hummus on the tortilla.", "Add carrot, cucumber, spinach, and sprouts.", "Roll tightly and cut in half."],
+    "tip": "Place the wetter vegetables like cucumber in the center and away from the edges so the wrap doesn't tear.",
+    "tags": ["hummus", "carrot", "cucumber"]
+  },
+  "19": {
+    "nombre": "Vegetable Lasagna",
+    "ingredientes": ["Lasagna sheets", "1 zucchini", "1 eggplant", "Spinach", "Tomato sauce", "Béchamel", "Mozzarella cheese"],
+    "pasos": ["Grill the zucchini and eggplant in slices.", "Prepare the béchamel.", "Layer alternating pasta, vegetables, tomato sauce, and béchamel.", "Top with mozzarella and bake 35 minutes at 375°F (190°C)."],
+    "tip": "Let the lasagna rest 10 minutes out of the oven before cutting: it holds together instead of falling apart.",
+    "tags": ["eggplant", "zucchini", "cheese", "spinach"]
+  },
+  "20": {
+    "nombre": "Vegan Tofu Pad Thai",
+    "ingredientes": ["200 g firm tofu", "Rice noodles", "Bean sprouts", "1 carrot", "Soy sauce", "Tamarind sauce or lime", "Peanuts", "Scallions"],
+    "pasos": ["Soak the noodles in hot water.", "Sauté the cubed tofu until golden.", "Add carrot and bean sprouts.", "Add the noodles and sauce, stir-fry 3 minutes.", "Serve with peanuts and scallions."],
+    "tip": "Don't overcook the noodles in water: they finish cooking in the pan, and overdoing it makes them sticky.",
+    "tags": ["tofu", "noodles", "peanuts"]
+  },
+  "21": {
+    "nombre": "Rice and Cheese Stuffed Peppers",
+    "ingredientes": ["4 bell peppers", "1 cup cooked rice", "1 cup tomato sauce", "Mozzarella cheese", "1 onion", "Corn", "Oregano"],
+    "pasos": ["Cut the tops off the peppers and hollow them out.", "Mix the rice with tomato sauce, sautéed onion, corn, and half the cheese.", "Stuff the peppers.", "Top with remaining cheese and bake 30 minutes at 375°F (190°C)."],
+    "tip": "Bake the peppers standing up in a dish with a little water at the bottom: they cook evenly without drying out.",
+    "tags": ["bell peppers", "rice", "cheese"]
+  },
+  "22": {
+    "nombre": "Meatless Chili",
+    "ingredientes": ["1 can kidney beans", "1 can black beans", "1 cup corn", "1 onion", "1 bell pepper", "Tomato sauce", "Cumin", "Chili powder"],
+    "pasos": ["Sauté onion and pepper for 5 minutes.", "Add the spices and toast 1 minute.", "Add beans, corn, and tomato sauce.", "Cook on medium heat 20 minutes until thickened."],
+    "tip": "The longer you let it simmer on low heat, the more the flavors concentrate: give it 40 minutes if you have time.",
+    "tags": ["beans", "corn", "tomato"]
+  },
+  "23": {
+    "nombre": "Homemade Roasted Veggie Pizza",
+    "ingredientes": ["Pizza dough", "Tomato sauce", "Mozzarella cheese", "1 zucchini", "1 bell pepper", "Mushrooms", "Red onion", "Fresh basil"],
+    "pasos": ["Preheat the oven to the highest temperature possible.", "Stretch the dough and spread with tomato sauce.", "Add mozzarella and vegetables.", "Bake 12-15 minutes until golden.", "Finish with fresh basil."],
+    "tip": "Preheat the baking sheet too: the dough hits a hot surface and turns out crispy.",
+    "tags": ["dough", "cheese", "zucchini", "mushrooms"]
+  },
+  "24": {
+    "nombre": "Eggplant Parmesan",
+    "ingredientes": ["2 eggplants", "Tomato sauce", "Mozzarella cheese", "Parmesan", "Breadcrumbs", "Fresh basil", "1 egg", "Flour"],
+    "pasos": ["Slice the eggplant and coat in flour, egg, and breadcrumbs.", "Fry or bake until golden.", "Layer with tomato sauce, eggplant, and cheeses.", "Bake 25 minutes at 375°F (190°C) until bubbly."],
+    "tip": "Bake the slices instead of frying for a lighter version with almost the same delicious result.",
+    "tags": ["eggplant", "cheese", "egg"]
+  },
+  "25": {
+    "nombre": "Vegan Miso Ramen",
+    "ingredientes": ["Ramen noodles", "2 tbsp miso paste", "1 L vegetable broth", "Tofu", "Mushrooms", "Spinach", "Scallions", "Corn"],
+    "pasos": ["Dissolve the miso in a little warm broth — don't boil it.", "Heat the rest of the broth and stir in the dissolved miso.", "Sauté the tofu and mushrooms separately.", "Cook the noodles.", "Assemble the bowl with everything."],
+    "tip": "Never boil the miso directly: high heat kills its flavor. Always dissolve it in warm broth.",
+    "tags": ["tofu", "mushrooms", "miso", "noodles"]
+  },
+  "26": {
+    "nombre": "Thai Vegetable Curry",
+    "ingredientes": ["1 can coconut milk", "2 tbsp red curry paste", "Broccoli", "1 carrot", "1 bell pepper", "Tofu", "Soy sauce", "Rice"],
+    "pasos": ["Sauté the tofu until golden and set aside.", "Fry the curry paste for 1 minute.", "Add the coconut milk and bring to medium heat.", "Add the vegetables and cook 10 minutes.", "Add the tofu and a splash of soy sauce; serve with rice."],
+    "tip": "Fry the curry paste before adding liquid: it wakes up all its aroma.",
+    "tags": ["coconut milk", "tofu", "broccoli"]
+  },
+  "27": {
+    "nombre": "Black Bean Veggie Burgers",
+    "ingredientes": ["1 can black beans", "1/2 cup oats", "1 egg", "Cumin", "Garlic powder", "Burger buns", "Cheese", "Vegetables for topping"],
+    "pasos": ["Mash the beans, leaving some texture.", "Mix with oats, egg, cumin, and garlic powder.", "Shape into patties and refrigerate 15 minutes.", "Cook 4 minutes per side.", "Assemble with bun, cheese, and vegetables."],
+    "tip": "Refrigerate the patties before cooking: they firm up and are much less likely to fall apart.",
+    "tags": ["beans", "oats", "egg", "cheese"]
+  },
+  "28": {
+    "nombre": "Homemade Hummus with Veggie Sticks",
+    "ingredientes": ["1 can chickpeas", "2 tbsp tahini", "1 garlic clove", "Lemon juice", "Olive oil", "Carrot and celery sticks"],
+    "pasos": ["Blend chickpeas, tahini, garlic, lemon, and oil until creamy.", "Add cold water gradually if it's too thick.", "Serve with carrot and celery sticks."],
+    "tip": "Peel the chickpeas before blending (even though it's extra work): the hummus turns out much silkier.",
+    "tags": ["chickpeas", "tahini", "carrot"]
+  },
+  "29": {
+    "nombre": "Date and Oat Energy Balls",
+    "ingredientes": ["1 cup pitted dates", "1 cup oats", "2 tbsp cocoa powder", "2 tbsp peanut butter", "A pinch of salt"],
+    "pasos": ["Process the dates into a paste.", "Mix with oats, cocoa, peanut butter, and salt.", "Roll into balls with your hands.", "Refrigerate 20 minutes before eating."],
+    "tip": "If the dates are too dry, soak them in warm water for 10 minutes before processing.",
+    "tags": ["dates", "oats", "cocoa"]
+  },
+  "30": {
+    "nombre": "Spiced Popcorn",
+    "ingredientes": ["1/2 cup popping corn", "2 tbsp oil", "Paprika", "Garlic powder", "Nutritional yeast", "Salt"],
+    "pasos": ["Heat the oil in a pot with a lid.", "Add the corn, cover, and shake occasionally.", "Remove when the popping sounds slow down.", "Toss with paprika, garlic powder, nutritional yeast, and salt."],
+    "tip": "Nutritional yeast gives it a cheesy flavor without dairy: the secret to the best vegan popcorn.",
+    "tags": ["corn", "nutritional yeast"]
+  },
+  "31": {
+    "nombre": "Baked Kale Chips",
+    "ingredientes": ["1 bunch kale", "1 tbsp olive oil", "Salt", "Smoked paprika"],
+    "pasos": ["Remove the tough stems and tear into pieces.", "Toss with oil, salt, and paprika by hand.", "Spread on a baking sheet without crowding.", "Bake 12-15 minutes at 300°F (150°C) until crispy."],
+    "tip": "Bake at low temperature and watch the last few minutes: kale goes from crispy to burnt very quickly.",
+    "tags": ["kale"]
+  },
+  "32": {
+    "nombre": "Guacamole with Tortilla Chips",
+    "ingredientes": ["2 ripe avocados", "1/2 diced onion", "1 tomato", "Cilantro", "Lime juice", "Salt", "Corn tortilla chips"],
+    "pasos": ["Mash the avocados, leaving some texture.", "Add onion, tomato, cilantro, and lime.", "Season with salt.", "Serve immediately with chips."],
+    "tip": "Leave an avocado pit in the guacamole and cover well: it takes longer to oxidize.",
+    "tags": ["avocado", "tomato", "tortilla chips"]
+  },
+  "33": {
+    "nombre": "Coconut and Date Balls",
+    "ingredientes": ["1 cup pitted dates", "1/2 cup shredded coconut", "2 tbsp coconut oil", "Vanilla"],
+    "pasos": ["Process the dates into a sticky paste.", "Mix with half the coconut, oil, and vanilla.", "Roll into balls.", "Roll in the remaining shredded coconut."],
+    "tip": "Wet your hands before rolling: the sticky mixture won't stick to your fingers.",
+    "tags": ["dates", "coconut"]
+  },
+  "34": {
+    "nombre": "Edamame with Sea Salt",
+    "ingredientes": ["300 g edamame in pods", "Coarse sea salt", "Chili flakes (optional)"],
+    "pasos": ["Boil salted water.", "Cook the edamame for 4-5 minutes.", "Drain and cool briefly under cold water.", "Sprinkle with sea salt and chili to taste."],
+    "tip": "Serve the edamame while still warm: the salt sticks better to the moist pods than when cold.",
+    "tags": ["edamame"]
+  },
+  "35": {
+    "nombre": "Spiced Toasted Mixed Nuts",
+    "ingredientes": ["1 cup almonds", "1/2 cup walnuts", "1/2 cup cashews", "1 tbsp oil", "Cumin", "Paprika", "A pinch of salt"],
+    "pasos": ["Toss the nuts with oil, cumin, paprika, and salt.", "Spread on a baking sheet.", "Bake 10-12 minutes at 340°F (170°C), stirring halfway.", "Let cool before storing."],
+    "tip": "Let them cool completely before putting them in a jar: storing them warm creates steam that softens them.",
+    "tags": ["almonds", "walnuts", "cashews"]
+  },
+  "36": {
+    "nombre": "Energizing Green Smoothie",
+    "ingredientes": ["1 cup spinach", "1 banana", "1/2 cup pineapple", "1 cup plant-based milk or water", "Juice of 1/2 lemon", "Ginger to taste"],
+    "pasos": ["Place all ingredients in the blender.", "Blend until completely smooth.", "Serve cold immediately."],
+    "tip": "Freeze the banana in slices ahead of time: besides chilling the smoothie, it makes it creamier.",
+    "tags": ["spinach", "banana", "pineapple"]
+  },
+  "37": {
+    "nombre": "Belgian Waffles with Mixed Berries",
+    "ingredientes": ["2 cups flour", "2 eggs", "1 3/4 cup milk", "1/2 cup melted butter", "2 tbsp sugar", "Baking powder", "Mixed berries and syrup"],
+    "pasos": ["Mix dry ingredients on one side and wet on another.", "Combine both without overmixing.", "Cook in a hot waffle iron 4-5 minutes until golden.", "Serve with berries and syrup."],
+    "tip": "Don't overmix the batter: a few lumps are fine — overmixing makes waffles tough instead of fluffy.",
+    "tags": ["flour", "egg", "milk", "berries"]
+  },
+  "38": {
+    "nombre": "Green Shakshuka with Kale and Feta",
+    "ingredientes": ["4 eggs", "2 cups chopped kale", "1 handful cilantro", "1 onion", "1 green chili", "Feta cheese", "Cumin"],
+    "pasos": ["Blend cilantro with a bit of broth or water into a sauce.", "Sauté onion, chili, and kale for 5 minutes.", "Add the green sauce and cumin, cook 5 more minutes.", "Crack the eggs on top, cover, and cook 5-6 minutes.", "Finish with crumbled feta."],
+    "tip": "If the kale releases too much water, raise the heat for the last few minutes so the sauce doesn't get watery.",
+    "tags": ["egg", "kale", "cheese", "cilantro"]
+  },
+  "39": {
+    "nombre": "Sweet Oat Crepes",
+    "ingredientes": ["1 cup ground oats", "1 cup plant-based milk", "1 banana", "1 tsp vanilla", "Oil for the pan", "Fruit and cinnamon for serving"],
+    "pasos": ["Blend the oats, milk, banana, and vanilla into a thin batter.", "Let rest 5 minutes.", "Cook thin portions in a greased pan, 1-2 minutes per side.", "Fill or top with fruit and cinnamon."],
+    "tip": "Use a ladle and swirl the pan as soon as you pour the batter: the crepes come out thin and even.",
+    "tags": ["oats", "banana", "plant milk"]
+  },
+  "40": {
+    "nombre": "Marinated Tofu Poke Bowl",
+    "ingredientes": ["200 g firm tofu", "1 cup sushi rice", "Soy sauce", "Sesame oil", "Edamame", "Cucumber", "Carrot", "Nori seaweed", "Sesame seeds"],
+    "pasos": ["Marinate cubed tofu in soy sauce and sesame oil for 15 minutes.", "Cook the sushi rice and let it cool slightly.", "Sear the marinated tofu in a hot pan for 3 minutes.", "Build the bowl with rice, tofu, edamame, cucumber, and carrot.", "Top with nori and sesame seeds."],
+    "tip": "Let the rice cool to room temperature before assembling: hot rice overcooks the other ingredients.",
+    "tags": ["tofu", "rice", "edamame", "cucumber"]
+  },
+  "41": {
+    "nombre": "Baked Falafel with Tahini Sauce",
+    "ingredientes": ["1 can chickpeas", "1 garlic clove", "Parsley and cilantro", "Cumin", "1 tbsp flour", "Pita bread", "Tahini", "Lemon"],
+    "pasos": ["Process the chickpeas with garlic, herbs, cumin, and flour into a thick dough.", "Shape into small balls or ovals.", "Bake 20-25 minutes at 400°F (200°C), flipping halfway.", "Make the tahini sauce with lemon and water.", "Serve in pita bread with the sauce."],
+    "tip": "Refrigerate the falafel mixture 15 minutes before shaping: they hold together much better and won't fall apart when baked.",
+    "tags": ["chickpeas", "tahini", "pita bread"]
+  },
+  "42": {
+    "nombre": "Caprese Salad with Vegan Pesto",
+    "ingredientes": ["3 large tomatoes", "1 ball fresh mozzarella", "Fresh basil", "1/2 cup walnuts or pine nuts", "Olive oil", "Balsamic vinegar"],
+    "pasos": ["Slice the tomatoes and mozzarella.", "Blend basil, nuts, olive oil, and a pinch of salt for the pesto.", "Alternate tomato and mozzarella slices on a plate.", "Drizzle with pesto and balsamic."],
+    "tip": "Take the mozzarella out of the fridge 15 minutes before serving: its flavor and texture improve a lot at room temperature.",
+    "tags": ["tomato", "cheese", "basil"]
+  },
+  "43": {
+    "nombre": "Vegetarian Lentil Moussaka",
+    "ingredientes": ["2 eggplants", "1 cup cooked lentils", "1 cup tomato sauce", "Béchamel", "Cinnamon", "1 onion", "Parmesan cheese"],
+    "pasos": ["Roast the eggplant in slices with a little oil.", "Sauté the onion, add lentils, tomato sauce, and a pinch of cinnamon, cook 10 minutes.", "Prepare the béchamel.", "Layer eggplant and lentil filling.", "Top with béchamel and Parmesan, bake 30 minutes at 375°F (190°C)."],
+    "tip": "The pinch of cinnamon in the lentil filling is the classic Greek touch that makes the difference: don't skip it.",
+    "tags": ["eggplant", "lentils", "cheese"]
+  },
+  "44": {
+    "nombre": "Potato Gnocchi with Tomato and Basil",
+    "ingredientes": ["4 large potatoes", "1 1/2 cups flour", "1 egg", "Tomato sauce", "Fresh basil", "Parmesan", "Salt"],
+    "pasos": ["Bake or boil the potatoes until very soft and mash them.", "Mix the mash with egg, flour, and salt into a dough.", "Roll into thin logs and cut into pieces, mark with a fork.", "Boil the gnocchi until they float, 2-3 minutes.", "Serve with tomato sauce, basil, and Parmesan."],
+    "tip": "Don't overwork the potato dough: the less you knead it, the lighter the gnocchi turn out.",
+    "tags": ["potato", "flour", "egg", "tomato"]
+  },
+  "45": {
+    "nombre": "Asparagus and Goat Cheese Tart",
+    "ingredientes": ["1 tart shell", "1 bunch asparagus", "Goat cheese", "3 eggs", "1/2 cup heavy cream", "Chives", "Salt and pepper"],
+    "pasos": ["Line a mold with the tart shell and prick with a fork.", "Blanch the asparagus 2 minutes in boiling water.", "Beat the eggs with cream, salt, and pepper.", "Arrange the asparagus and goat cheese pieces on the shell.", "Pour the egg mixture and bake 30-35 minutes at 375°F (190°C) until set."],
+    "tip": "Blind-bake the shell 10 minutes before adding the filling: it keeps the center from being raw.",
+    "tags": ["asparagus", "cheese", "egg"]
+  },
+  "46": {
+    "nombre": "Vegetarian Avocado and Cucumber Sushi Rolls",
+    "ingredientes": ["2 cups sushi rice", "Rice vinegar", "Nori seaweed", "1 avocado", "1 cucumber", "Carrot", "Cream cheese", "Sesame seeds", "Soy sauce"],
+    "pasos": ["Cook the sushi rice and mix with rice vinegar, let cool.", "Spread the rice on nori, leaving a free edge.", "Place avocado, cucumber, carrot, and cream cheese in a line.", "Roll tightly using a bamboo mat.", "Slice into pieces and serve with soy sauce."],
+    "tip": "Wet the knife before each cut: the rice won't stick and the pieces come out much cleaner.",
+    "tags": ["rice", "avocado", "cucumber", "cheese"]
+  },
+  "47": {
+    "nombre": "Baked Vegan Lentil Empanadas",
+    "ingredientes": ["Vegan empanada dough", "1 cup cooked lentils", "1 onion", "1/2 bell pepper", "Cumin", "Paprika", "Tomato sauce"],
+    "pasos": ["Sauté onion and pepper for 5 minutes.", "Add the half-mashed lentils, spices, and a little tomato sauce.", "Cook 5 minutes until thickened and let cool.", "Fill the dough rounds, close, and seal the edges.", "Bake 20 minutes at 400°F (200°C) until golden."],
+    "tip": "Mash only half the lentils: it gives the filling body without losing the texture.",
+    "tags": ["lentils", "onion", "bell pepper"]
+  },
+  "48": {
+    "nombre": "Vegan Black Bean Brownies",
+    "ingredientes": ["1 can black beans", "1/2 cup cocoa powder", "1/2 cup brown sugar", "1/4 cup oil", "1 tsp vanilla", "Baking powder", "Vegan chocolate chips"],
+    "pasos": ["Blend the drained beans with oil and vanilla into a smooth paste.", "Mix with cocoa, sugar, and baking powder.", "Fold in chocolate chips and pour into a baking pan.", "Bake 25 minutes at 350°F (180°C).", "Let cool completely before cutting."],
+    "tip": "You can't taste the beans: the cocoa and sugar cover them completely, and they come out moist like a classic brownie.",
+    "tags": ["black beans", "cocoa", "chocolate"]
+  },
+  "49": {
+    "nombre": "Baked Spring Rolls",
+    "ingredientes": ["Spring roll wrappers", "1 carrot", "1 cup cabbage", "1 bell pepper", "Bean sprouts", "Soy sauce", "Ginger", "Cooking spray"],
+    "pasos": ["Stir-fry the julienned vegetables with soy sauce and ginger for 4 minutes, let cool.", "Fill the wrappers and roll tightly, sealing the edges with water.", "Place on a baking sheet and spray lightly with oil.", "Bake 18-20 minutes at 400°F (200°C), flipping halfway, until golden and crispy."],
+    "tip": "Let the filling cool before assembling: if it's hot, the wrapper gets soggy and tears when rolling.",
+    "tags": ["carrot", "cabbage", "bell pepper"]
+  }
+}

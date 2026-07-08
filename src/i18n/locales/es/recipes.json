@@ -1,0 +1,1186 @@
+{
+    "11":  {
+               "ingredientes":  [
+                                    "300 g de pasta",
+                                    "2 puñados de espinaca",
+                                    "1/2 taza de nueces",
+                                    "1/2 taza de crema o queso crema",
+                                    "1 diente de ajo",
+                                    "Parmesano"
+                                ],
+               "nombre":  "Pasta cremosa de espinaca y nuez",
+               "tags":  [
+                            "pasta",
+                            "espinaca",
+                            "nueces",
+                            "queso"
+                        ],
+               "tip":  "Guarda una taza de agua de la pasta antes de colar: ayuda a que la salsa se integre sin quedar pesada.",
+               "pasos":  [
+                             "Cocina la pasta.",
+                             "Licúa espinaca, nueces, ajo y crema hasta obtener salsa.",
+                             "Mezcla con la pasta caliente y un poco de agua de cocción.",
+                             "Sirve con parmesano."
+                         ]
+           },
+    "41":  {
+               "ingredientes":  [
+                                    "1 lata de garbanzos",
+                                    "1 diente de ajo",
+                                    "Perejil y cilantro",
+                                    "Comino",
+                                    "1 cda de harina",
+                                    "Pan pita",
+                                    "Tahini",
+                                    "Limón"
+                                ],
+               "nombre":  "Falafel horneado con salsa tahini",
+               "tags":  [
+                            "garbanzos",
+                            "tahini",
+                            "pan pita"
+                        ],
+               "tip":  "Refrigera la masa de falafel 15 minutos antes de formar las bolitas: se manejan mucho mejor y no se desarman al hornear.",
+               "pasos":  [
+                             "Procesa los garbanzos con ajo, hierbas, comino y harina hasta obtener una masa espesa.",
+                             "Forma bolitas u ovalitos.",
+                             "Hornea 20-25 minutos a 200°C, volteando a la mitad.",
+                             "Prepara la salsa de tahini con limón y agua.",
+                             "Sirve en pan pita con la salsa."
+                         ]
+           },
+    "45":  {
+               "ingredientes":  [
+                                    "1 masa de tarta",
+                                    "1 manojo de espárragos",
+                                    "Queso de cabra",
+                                    "3 huevos",
+                                    "1/2 taza de crema de leche",
+                                    "Cebollín",
+                                    "Sal y pimienta"
+                                ],
+               "nombre":  "Tarta de espárragos y queso de cabra",
+               "tags":  [
+                            "espárragos",
+                            "queso",
+                            "huevo"
+                        ],
+               "tip":  "Hornea la masa sola 10 minutos antes de rellenarla (horneado en blanco): evita que quede cruda en el centro.",
+               "pasos":  [
+                             "Cubre un molde con la masa de tarta y pínchala con un tenedor.",
+                             "Blanquea los espárragos 2 minutos en agua hirviendo.",
+                             "Bate los huevos con la crema, sal y pimienta.",
+                             "Coloca los espárragos y trozos de queso de cabra sobre la masa.",
+                             "Vierte la mezcla de huevo y hornea 30-35 minutos a 190°C hasta cuajar."
+                         ]
+           },
+    "42":  {
+               "ingredientes":  [
+                                    "3 tomates grandes",
+                                    "1 bola de mozzarella fresca",
+                                    "Albahaca fresca",
+                                    "1/2 taza de nueces o piñones",
+                                    "Aceite de oliva",
+                                    "Vinagre balsámico"
+                                ],
+               "nombre":  "Ensalada caprese con pesto vegano",
+               "tags":  [
+                            "tomate",
+                            "queso",
+                            "albahaca"
+                        ],
+               "tip":  "Saca la mozzarella de la nevera 15 minutos antes de servir: a temperatura ambiente su sabor y textura mejoran mucho.",
+               "pasos":  [
+                             "Corta los tomates y la mozzarella en rodajas.",
+                             "Licúa albahaca, nueces, aceite de oliva y un poco de sal para el pesto.",
+                             "Alterna rodajas de tomate y mozzarella en un plato.",
+                             "Baña con el pesto y un hilo de balsámico."
+                         ]
+           },
+    "3":  {
+              "ingredientes":  [
+                                   "4 huevos",
+                                   "2 papas medianas",
+                                   "1 puñado de espinaca",
+                                   "1/2 cebolla",
+                                   "Sal",
+                                   "Aceite de oliva"
+                               ],
+              "nombre":  "Tortilla de papas y espinaca",
+              "tags":  [
+                           "papa",
+                           "huevo",
+                           "espinaca"
+                       ],
+              "tip":  "Voltea la tortilla con ayuda de un plato, no con la espátula: te quedará entera y pareja.",
+              "pasos":  [
+                            "Corta las papas en láminas finas y fríelas suave 10 minutos.",
+                            "Agrega cebolla y espinaca, 3 minutos más.",
+                            "Bate los huevos con sal y mezcla con las papas.",
+                            "Cocina 5 minutos por lado."
+                        ]
+          },
+    "20":  {
+               "ingredientes":  [
+                                    "200 g de tofu firme",
+                                    "Fideos de arroz",
+                                    "Brotes de soja",
+                                    "1 zanahoria",
+                                    "Salsa de soja",
+                                    "Salsa de tamarindo o limón",
+                                    "Maní",
+                                    "Cebollín"
+                                ],
+               "nombre":  "Pad thai vegano de tofu",
+               "tags":  [
+                            "tofu",
+                            "fideos",
+                            "maní"
+                        ],
+               "tip":  "No cocines de más los fideos en agua: terminan de cocinarse en el sartén y si te pasas quedan pegajosos.",
+               "pasos":  [
+                             "Remoja los fideos en agua caliente.",
+                             "Saltea el tofu en cubos hasta dorar.",
+                             "Agrega zanahoria y brotes de soja.",
+                             "Añade los fideos y la salsa, saltea 3 minutos.",
+                             "Sirve con maní y cebollín."
+                         ]
+           },
+    "12":  {
+               "ingredientes":  [
+                                    "1 coliflor en floretes",
+                                    "Achiote o pimentón",
+                                    "Piña en trozos",
+                                    "Tortillas de maíz",
+                                    "Cebolla morada",
+                                    "Cilantro",
+                                    "Limón"
+                                ],
+               "nombre":  "Tacos de coliflor al pastor",
+               "tags":  [
+                            "coliflor",
+                            "piña",
+                            "tortillas"
+                        ],
+               "tip":  "No te saltes la piña en el marinado: el ácido ayuda a que la coliflor absorba mejor el sabor.",
+               "pasos":  [
+                             "Marina la coliflor con achiote, especias y jugo de piña 10 minutos.",
+                             "Hornea o saltea hasta dorar, 20 minutos.",
+                             "Calienta las tortillas.",
+                             "Arma los tacos con coliflor, piña, cebolla y cilantro."
+                         ]
+           },
+    "10":  {
+               "ingredientes":  [
+                                    "1 lata de garbanzos",
+                                    "1 taza de quinoa cocida",
+                                    "1 zanahoria",
+                                    "1/2 pepino",
+                                    "Hojas verdes",
+                                    "Tahini",
+                                    "Comino",
+                                    "Pimentón"
+                                ],
+               "nombre":  "Buddha bowl de garbanzos asados",
+               "tags":  [
+                            "garbanzos",
+                            "quinoa",
+                            "zanahoria"
+                        ],
+               "tip":  "Seca bien los garbanzos con un paño antes de hornear: quedan crujientes en vez de gomosos.",
+               "pasos":  [
+                             "Hornea los garbanzos con comino y pimentón 20 minutos a 200°C.",
+                             "Cocina la quinoa aparte.",
+                             "Arma el bowl con quinoa, vegetales crudos y garbanzos.",
+                             "Aliña con tahini diluido en agua y limón."
+                         ]
+           },
+    "17":  {
+               "ingredientes":  [
+                                    "1 taza de lentejas",
+                                    "1 zanahoria",
+                                    "1 papa",
+                                    "1 cebolla",
+                                    "1 cdta de comino",
+                                    "Caldo de vegetales",
+                                    "Laurel"
+                                ],
+               "nombre":  "Sopa de lentejas con comino",
+               "tags":  [
+                            "lentejas",
+                            "zanahoria",
+                            "papa"
+                        ],
+               "tip":  "Tuesta el comino en seco un minuto antes de agregarlo: libera mucho más aroma que si lo echas directo.",
+               "pasos":  [
+                             "Sofríe cebolla y zanahoria 5 minutos.",
+                             "Agrega lentejas, papa, comino y laurel.",
+                             "Cubre con caldo y cocina 25 minutos hasta que las lentejas estén suaves.",
+                             "Ajusta sal y sirve."
+                         ]
+           },
+    "44":  {
+               "ingredientes":  [
+                                    "4 papas grandes",
+                                    "1 1/2 taza de harina",
+                                    "1 huevo",
+                                    "Salsa de tomate",
+                                    "Albahaca fresca",
+                                    "Parmesano",
+                                    "Sal"
+                                ],
+               "nombre":  "Gnocchi de papa con tomate y albahaca",
+               "tags":  [
+                            "papa",
+                            "harina",
+                            "huevo",
+                            "tomate"
+                        ],
+               "tip":  "No amases de más la masa de papa: mientras menos la trabajes, más ligeros quedan los gnocchi.",
+               "pasos":  [
+                             "Hornea o hierve las papas hasta que estén muy suaves y hazlas puré.",
+                             "Mezcla el puré con huevo, harina y sal hasta formar una masa.",
+                             "Forma rollos finos y corta trocitos, marca con un tenedor.",
+                             "Hierve los gnocchi hasta que floten, 2-3 minutos.",
+                             "Sirve con salsa de tomate, albahaca y parmesano."
+                         ]
+           },
+    "40":  {
+               "ingredientes":  [
+                                    "200 g de tofu firme",
+                                    "1 taza de arroz sushi",
+                                    "Salsa de soja",
+                                    "Aceite de sésamo",
+                                    "Edamame",
+                                    "Pepino",
+                                    "Zanahoria",
+                                    "Alga nori",
+                                    "Sésamo"
+                                ],
+               "nombre":  "Poke bowl de tofu marinado",
+               "tags":  [
+                            "tofu",
+                            "arroz",
+                            "edamame",
+                            "pepino"
+                        ],
+               "tip":  "Deja enfriar el arroz a temperatura ambiente antes de armar el bowl: si está caliente, cocina de más los demás ingredientes.",
+               "pasos":  [
+                             "Marina el tofu en cubos con soja y aceite de sésamo 15 minutos.",
+                             "Cocina el arroz sushi y deja enfriar un poco.",
+                             "Sella el tofu marinado en sartén caliente 3 minutos.",
+                             "Arma el bowl con arroz, tofu, edamame, pepino y zanahoria.",
+                             "Termina con nori y sésamo."
+                         ]
+           },
+    "13":  {
+               "ingredientes":  [
+                                    "1 taza de arroz arborio",
+                                    "300 g de hongos mixtos",
+                                    "1 L de caldo de vegetales",
+                                    "1/2 vaso de vino blanco",
+                                    "1 cebolla",
+                                    "Mantequilla",
+                                    "Parmesano"
+                                ],
+               "nombre":  "Risotto de hongos",
+               "tags":  [
+                            "arroz",
+                            "hongos",
+                            "queso"
+                        ],
+               "tip":  "Agrega el caldo siempre caliente: si lo enfrías cortas la cocción del arroz y queda duro.",
+               "pasos":  [
+                             "Saltea los hongos aparte y resérvalos.",
+                             "Sofríe la cebolla, agrega el arroz y nácaralo 2 minutos.",
+                             "Añade el vino y deja evaporar.",
+                             "Incorpora el caldo caliente de a poco por 18-20 minutos.",
+                             "Agrega los hongos, mantequilla y parmesano."
+                         ]
+           },
+    "27":  {
+               "ingredientes":  [
+                                    "1 lata de frijoles negros",
+                                    "1/2 taza de avena",
+                                    "1 huevo",
+                                    "Comino",
+                                    "Ajo en polvo",
+                                    "Pan de hamburguesa",
+                                    "Queso",
+                                    "Vegetales para armar"
+                                ],
+               "nombre":  "Hamburguesas vegetarianas de frijol negro",
+               "tags":  [
+                            "frijoles",
+                            "avena",
+                            "huevo",
+                            "queso"
+                        ],
+               "tip":  "Refrigera las hamburguesas antes de cocinarlas: se compactan y es mucho más difícil que se desarmen.",
+               "pasos":  [
+                             "Tritura los frijoles dejando algo de textura.",
+                             "Mezcla con avena, huevo, comino y ajo en polvo.",
+                             "Forma hamburguesas y refrigera 15 minutos.",
+                             "Cocina 4 minutos por lado.",
+                             "Arma con pan, queso y vegetales."
+                         ]
+           },
+    "30":  {
+               "ingredientes":  [
+                                    "1/2 taza de maíz para palomitas",
+                                    "2 cdas de aceite",
+                                    "Pimentón",
+                                    "Ajo en polvo",
+                                    "Levadura nutricional",
+                                    "Sal"
+                                ],
+               "nombre":  "Palomitas con especias",
+               "tags":  [
+                            "maíz",
+                            "levadura nutricional"
+                        ],
+               "tip":  "La levadura nutricional le da un toque a queso sin usar lácteos: el secreto de las palomitas veganas más sabrosas.",
+               "pasos":  [
+                             "Calienta el aceite en una olla con tapa.",
+                             "Agrega el maíz, tapa y mueve de vez en cuando.",
+                             "Retira cuando el sonido de los estallidos se espacie.",
+                             "Mezcla con pimentón, ajo en polvo, levadura nutricional y sal."
+                         ]
+           },
+    "18":  {
+               "ingredientes":  [
+                                    "2 tortillas integrales",
+                                    "1 taza de hummus",
+                                    "Zanahoria rallada",
+                                    "Pepino",
+                                    "Espinaca",
+                                    "Brotes"
+                                ],
+               "nombre":  "Wrap de hummus y vegetales",
+               "tags":  [
+                            "hummus",
+                            "zanahoria",
+                            "pepino"
+                        ],
+               "tip":  "Pon las verduras más húmedas, como el pepino, al centro y lejos de los bordes para que el wrap no se rompa.",
+               "pasos":  [
+                             "Unta una capa generosa de hummus sobre la tortilla.",
+                             "Agrega zanahoria, pepino, espinaca y brotes.",
+                             "Enrolla firme y corta al medio."
+                         ]
+           },
+    "36":  {
+               "ingredientes":  [
+                                    "1 taza de espinaca",
+                                    "1 banana",
+                                    "1/2 taza de piña",
+                                    "1 taza de leche vegetal o agua",
+                                    "Jugo de 1/2 limón",
+                                    "Jengibre al gusto"
+                                ],
+               "nombre":  "Smoothie verde energizante",
+               "tags":  [
+                            "espinaca",
+                            "banana",
+                            "piña"
+                        ],
+               "tip":  "Congela la banana en rodajas con anticipación: además de enfriar el smoothie, le da una textura más cremosa.",
+               "pasos":  [
+                             "Coloca todos los ingredientes en la licuadora.",
+                             "Licúa hasta que quede completamente suave.",
+                             "Sirve frío de inmediato."
+                         ]
+           },
+    "29":  {
+               "ingredientes":  [
+                                    "1 taza de dátiles sin hueso",
+                                    "1 taza de avena",
+                                    "2 cdas de cacao en polvo",
+                                    "2 cdas de crema de maní",
+                                    "Una pizca de sal"
+                                ],
+               "nombre":  "Energy balls de dátil y avena",
+               "tags":  [
+                            "dátiles",
+                            "avena",
+                            "cacao"
+                        ],
+               "tip":  "Si los dátiles están muy secos, remójalos en agua tibia 10 minutos antes de procesarlos.",
+               "pasos":  [
+                             "Procesa los dátiles hasta formar una pasta.",
+                             "Mezcla con avena, cacao, crema de maní y sal.",
+                             "Forma bolitas con las manos.",
+                             "Refrigera 20 minutos antes de comer."
+                         ]
+           },
+    "23":  {
+               "ingredientes":  [
+                                    "Masa de pizza",
+                                    "Salsa de tomate",
+                                    "Queso mozzarella",
+                                    "1 calabacín",
+                                    "1 pimiento",
+                                    "Champiñones",
+                                    "Cebolla morada",
+                                    "Albahaca"
+                                ],
+               "nombre":  "Pizza casera de vegetales asados",
+               "tags":  [
+                            "masa",
+                            "queso",
+                            "calabacín",
+                            "hongos"
+                        ],
+               "tip":  "Precalienta también la bandeja del horno: la masa hace contacto con superficie caliente y queda crujiente.",
+               "pasos":  [
+                             "Precalienta el horno a la temperatura más alta posible.",
+                             "Estira la masa y cúbrela con salsa de tomate.",
+                             "Agrega mozzarella y vegetales.",
+                             "Hornea 12-15 minutos hasta dorar.",
+                             "Termina con albahaca fresca."
+                         ]
+           },
+    "19":  {
+               "ingredientes":  [
+                                    "Láminas de lasaña",
+                                    "1 calabacín",
+                                    "1 berenjena",
+                                    "Espinaca",
+                                    "Salsa de tomate",
+                                    "Bechamel",
+                                    "Queso mozzarella"
+                                ],
+               "nombre":  "Lasaña de vegetales",
+               "tags":  [
+                            "berenjena",
+                            "calabacín",
+                            "queso",
+                            "espinaca"
+                        ],
+               "tip":  "Deja reposar la lasaña 10 minutos fuera del horno antes de cortarla: se mantiene unida en vez de desarmarse.",
+               "pasos":  [
+                             "Asa el calabacín y la berenjena en láminas.",
+                             "Prepara la bechamel.",
+                             "Arma capas alternando pasta, vegetales, salsa de tomate y bechamel.",
+                             "Cubre con mozzarella y hornea 35 minutos a 190°C."
+                         ]
+           },
+    "1":  {
+              "ingredientes":  [
+                                   "4 rebanadas de pan (mejor del día anterior)",
+                                   "2 huevos",
+                                   "1/2 taza de leche",
+                                   "1 cdta de canela",
+                                   "1 cda de azúcar",
+                                   "Mantequilla",
+                                   "Miel para servir"
+                               ],
+              "nombre":  "Tostadas francesas con canela",
+              "tags":  [
+                           "huevo",
+                           "pan",
+                           "leche",
+                           "canela"
+                       ],
+              "tip":  "Usa pan de un día atrás: absorbe mejor la mezcla y queda cremoso por dentro sin desarmarse.",
+              "pasos":  [
+                            "Bate los huevos con la leche, la canela y el azúcar.",
+                            "Remoja cada rebanada de pan 30 segundos por lado.",
+                            "Dora en mantequilla 2-3 minutos por lado.",
+                            "Sirve con miel y fruta fresca."
+                        ]
+          },
+    "47":  {
+               "ingredientes":  [
+                                    "Tapas de empanada veganas",
+                                    "1 taza de lentejas cocidas",
+                                    "1 cebolla",
+                                    "1/2 pimiento",
+                                    "Comino",
+                                    "Pimentón",
+                                    "Salsa de tomate"
+                                ],
+               "nombre":  "Empanadas veganas de lentejas al horno",
+               "tags":  [
+                            "lentejas",
+                            "cebolla",
+                            "pimiento"
+                        ],
+               "tip":  "Machaca solo la mitad de las lentejas: le da cuerpo al relleno sin perder la textura.",
+               "pasos":  [
+                             "Sofríe cebolla y pimiento 5 minutos.",
+                             "Agrega las lentejas machacadas a la mitad, las especias y un poco de salsa de tomate.",
+                             "Cocina 5 minutos hasta que espese y deja enfriar.",
+                             "Rellena las tapas, cierra y sella los bordes.",
+                             "Hornea 20 minutos a 200°C hasta dorar."
+                         ]
+           },
+    "5":  {
+              "ingredientes":  [
+                                   "4 huevos",
+                                   "4 tomates maduros (o 1 lata)",
+                                   "1 pimiento",
+                                   "1 cebolla",
+                                   "Comino",
+                                   "Pimentón",
+                                   "Pan para acompañar"
+                               ],
+              "nombre":  "Shakshuka vegetariana",
+              "tags":  [
+                           "huevo",
+                           "tomate",
+                           "pimiento"
+                       ],
+              "tip":  "Si la salsa queda muy líquida, destápala los últimos minutos para que reduzca antes de poner los huevos.",
+              "pasos":  [
+                            "Sofríe cebolla y pimiento 5 minutos.",
+                            "Agrega tomate, comino y pimentón, cocina 10 minutos.",
+                            "Haz huecos y casca los huevos encima.",
+                            "Tapa y cocina 5-6 minutos hasta cuajar."
+                        ]
+          },
+    "49":  {
+               "ingredientes":  [
+                                    "Obleas para rollitos",
+                                    "1 zanahoria",
+                                    "1 taza de repollo",
+                                    "1 pimiento",
+                                    "Brotes de soja",
+                                    "Salsa de soja",
+                                    "Jengibre",
+                                    "Aceite en spray"
+                                ],
+               "nombre":  "Rollitos primavera al horno",
+               "tags":  [
+                            "zanahoria",
+                            "repollo",
+                            "pimiento"
+                        ],
+               "tip":  "Deja enfriar el relleno antes de armar los rollitos: si está caliente, la oblea se humedece y se rompe al enrollar.",
+               "pasos":  [
+                             "Saltea las verduras en juliana con soja y jengibre 4 minutos, deja enfriar.",
+                             "Rellena las obleas y enrolla firme, sellando los bordes con agua.",
+                             "Coloca en bandeja y rocía con un poco de aceite.",
+                             "Hornea 18-20 minutos a 200°C, volteando a la mitad, hasta dorar y quedar crujientes."
+                         ]
+           },
+    "4":  {
+              "ingredientes":  [
+                                   "1 banana madura",
+                                   "1 taza de harina",
+                                   "1 taza de leche vegetal",
+                                   "1 cdta de polvo de hornear",
+                                   "1 cda de aceite",
+                                   "Canela"
+                               ],
+              "nombre":  "Pancakes de banana sin huevo",
+              "tags":  [
+                           "banana",
+                           "harina",
+                           "leche vegetal"
+                       ],
+              "tip":  "Espera a que aparezcan burbujas en la superficie antes de voltearlos: así no se rompen.",
+              "pasos":  [
+                            "Tritura la banana.",
+                            "Mezcla con leche vegetal y aceite.",
+                            "Agrega harina, polvo de hornear y canela.",
+                            "Cocina porciones 2 minutos por lado."
+                        ]
+          },
+    "8":  {
+              "ingredientes":  [
+                                   "2 tazas de avena",
+                                   "1/2 taza de almendras picadas",
+                                   "3 cdas de miel",
+                                   "2 cdas de aceite de coco",
+                                   "Canela",
+                                   "Yogur natural",
+                                   "Frutos rojos"
+                               ],
+              "nombre":  "Granola casera con yogur y frutos rojos",
+              "tags":  [
+                           "avena",
+                           "almendras",
+                           "yogur",
+                           "miel"
+                       ],
+              "tip":  "Deja que la granola se enfríe completamente sin tocarla: ahí se forman los grumos crujientes.",
+              "pasos":  [
+                            "Mezcla avena, almendras, miel, aceite y canela.",
+                            "Extiende en una bandeja y hornea 20 minutos a 160°C, removiendo a la mitad.",
+                            "Deja enfriar sin tocar hasta que esté crocante.",
+                            "Sirve sobre yogur con frutos rojos."
+                        ]
+          },
+    "26":  {
+               "ingredientes":  [
+                                    "1 lata de leche de coco",
+                                    "2 cdas de pasta de curry rojo",
+                                    "Brócoli",
+                                    "1 zanahoria",
+                                    "1 pimiento",
+                                    "Tofu",
+                                    "Salsa de soja",
+                                    "Arroz"
+                                ],
+               "nombre":  "Curry tailandés de vegetales",
+               "tags":  [
+                            "leche de coco",
+                            "tofu",
+                            "brócoli"
+                        ],
+               "tip":  "Sofríe la pasta de curry antes de agregar el líquido: así se despierta todo su aroma.",
+               "pasos":  [
+                             "Saltea el tofu hasta dorar y reserva.",
+                             "Sofríe la pasta de curry 1 minuto.",
+                             "Agrega la leche de coco y lleva a fuego medio.",
+                             "Añade los vegetales y cocina 10 minutos.",
+                             "Incorpora el tofu y un chorrito de soja; sirve con arroz."
+                         ]
+           },
+    "39":  {
+               "ingredientes":  [
+                                    "1 taza de avena molida",
+                                    "1 taza de leche vegetal",
+                                    "1 banana",
+                                    "1 cdta de vainilla",
+                                    "Aceite para la sartén",
+                                    "Fruta y canela para servir"
+                                ],
+               "nombre":  "Crepes dulces de avena",
+               "tags":  [
+                            "avena",
+                            "banana",
+                            "leche vegetal"
+                        ],
+               "tip":  "Usa un cucharón y gira la sartén en círculo apenas viertas la masa: así los crepes quedan finos y parejos.",
+               "pasos":  [
+                             "Licúa la avena, la leche, la banana y la vainilla hasta obtener una masa líquida.",
+                             "Deja reposar 5 minutos.",
+                             "Cocina porciones finas en sartén engrasada, 1-2 minutos por lado.",
+                             "Rellena o cubre con fruta y canela."
+                         ]
+           },
+    "14":  {
+               "ingredientes":  [
+                                    "1 taza de quinoa",
+                                    "1 calabacín",
+                                    "1 pimiento",
+                                    "1 batata",
+                                    "Aceite de oliva",
+                                    "Vinagre balsámico",
+                                    "Hierbas frescas"
+                                ],
+               "nombre":  "Ensalada tibia de quinoa y vegetales asados",
+               "tags":  [
+                            "quinoa",
+                            "calabacín",
+                            "pimiento"
+                        ],
+               "tip":  "Corta los vegetales del mismo tamaño para que se horneen parejo y ninguno quede crudo o quemado.",
+               "pasos":  [
+                             "Hornea los vegetales en cubos con aceite y sal 25 minutos.",
+                             "Cocina la quinoa aparte.",
+                             "Mezcla todo tibio con vinagre balsámico y hierbas."
+                         ]
+           },
+    "37":  {
+               "ingredientes":  [
+                                    "2 tazas de harina",
+                                    "2 huevos",
+                                    "1 3/4 taza de leche",
+                                    "1/2 taza de mantequilla derretida",
+                                    "2 cdas de azúcar",
+                                    "Polvo de hornear",
+                                    "Frutos rojos y sirope"
+                                ],
+               "nombre":  "Waffles belgas con frutos rojos",
+               "tags":  [
+                            "harina",
+                            "huevo",
+                            "leche",
+                            "frutos rojos"
+                        ],
+               "tip":  "No mezcles de más la masa: unos grumos están bien, si la bates mucho los waffles quedan duros en vez de esponjosos.",
+               "pasos":  [
+                             "Mezcla los secos por un lado y los húmedos por otro.",
+                             "Combina ambos sin batir de más.",
+                             "Cocina en wafflera caliente 4-5 minutos hasta dorar.",
+                             "Sirve con frutos rojos y sirope."
+                         ]
+           },
+    "22":  {
+               "ingredientes":  [
+                                    "1 lata de frijoles rojos",
+                                    "1 lata de frijoles negros",
+                                    "1 taza de maíz",
+                                    "1 cebolla",
+                                    "1 pimiento",
+                                    "Salsa de tomate",
+                                    "Comino",
+                                    "Chile en polvo"
+                                ],
+               "nombre":  "Chili sin carne",
+               "tags":  [
+                            "frijoles",
+                            "maíz",
+                            "tomate"
+                        ],
+               "tip":  "Mientras más tiempo lo dejes a fuego bajo, más se concentran los sabores: si tienes tiempo, dale 40 minutos.",
+               "pasos":  [
+                             "Sofríe cebolla y pimiento 5 minutos.",
+                             "Agrega las especias y tuesta 1 minuto.",
+                             "Añade frijoles, maíz y salsa de tomate.",
+                             "Cocina a fuego medio 20 minutos hasta espesar."
+                         ]
+           },
+    "28":  {
+               "ingredientes":  [
+                                    "1 lata de garbanzos",
+                                    "2 cdas de tahini",
+                                    "1 diente de ajo",
+                                    "Jugo de limón",
+                                    "Aceite de oliva",
+                                    "Zanahoria y apio en bastones"
+                                ],
+               "nombre":  "Hummus casero con bastones de vegetales",
+               "tags":  [
+                            "garbanzos",
+                            "tahini",
+                            "zanahoria"
+                        ],
+               "tip":  "Pela los garbanzos antes de licuar (aunque parezca trabajo extra): el hummus queda mucho más sedoso.",
+               "pasos":  [
+                             "Licúa garbanzos, tahini, ajo, limón y aceite hasta cremoso.",
+                             "Agrega agua fría poco a poco si queda muy espeso.",
+                             "Sirve con bastones de zanahoria y apio."
+                         ]
+           },
+    "25":  {
+               "ingredientes":  [
+                                    "Fideos ramen",
+                                    "2 cdas de pasta de miso",
+                                    "1 L de caldo de vegetales",
+                                    "Tofu",
+                                    "Champiñones",
+                                    "Espinaca",
+                                    "Cebollín",
+                                    "Maíz"
+                                ],
+               "nombre":  "Ramen vegano de miso",
+               "tags":  [
+                            "tofu",
+                            "hongos",
+                            "miso",
+                            "fideos"
+                        ],
+               "tip":  "Nunca hiervas el miso directamente: el calor extremo le quita el sabor. Disuélvelo siempre en caldo tibio.",
+               "pasos":  [
+                             "Disuelve el miso en un poco de caldo tibio, sin hervirlo.",
+                             "Calienta el resto del caldo y agrega el miso disuelto.",
+                             "Saltea el tofu y los champiñones aparte.",
+                             "Cocina los fideos.",
+                             "Arma el bowl con todo."
+                         ]
+           },
+    "9":  {
+              "ingredientes":  [
+                                   "200 g de tofu firme",
+                                   "2 tortillas grandes",
+                                   "1/2 cdta de cúrcuma",
+                                   "1/2 pimiento",
+                                   "Frijoles negros",
+                                   "Aguacate",
+                                   "Salsa picante"
+                               ],
+              "nombre":  "Burrito de desayuno con tofu revuelto",
+              "tags":  [
+                           "tofu",
+                           "tortillas",
+                           "frijoles",
+                           "aguacate"
+                       ],
+              "tip":  "La cúrcuma le da al tofu ese color amarillo de huevo revuelto, y un toque de sabor sutil.",
+              "pasos":  [
+                            "Desmenuza el tofu con un tenedor.",
+                            "Saltea con cúrcuma y pimiento 6 minutos hasta dorar.",
+                            "Calienta los frijoles y las tortillas.",
+                            "Arma el burrito con tofu, frijoles, aguacate y salsa."
+                        ]
+          },
+    "33":  {
+               "ingredientes":  [
+                                    "1 taza de dátiles sin hueso",
+                                    "1/2 taza de coco rallado",
+                                    "2 cdas de aceite de coco",
+                                    "Vainilla"
+                                ],
+               "nombre":  "Bolitas de coco y dátil",
+               "tags":  [
+                            "dátiles",
+                            "coco"
+                        ],
+               "tip":  "Humedécete las manos antes de formar las bolitas: la mezcla pegajosa no se te quedará pegada a los dedos.",
+               "pasos":  [
+                             "Procesa los dátiles hasta formar una pasta pegajosa.",
+                             "Mezcla con la mitad del coco, el aceite y la vainilla.",
+                             "Forma bolitas.",
+                             "Pásalas por el resto del coco rallado."
+                         ]
+           },
+    "15":  {
+               "ingredientes":  [
+                                    "1 berenjena",
+                                    "Pan ciabatta",
+                                    "Queso de cabra",
+                                    "Rúcula",
+                                    "Miel",
+                                    "Aceite de oliva"
+                                ],
+               "nombre":  "Sándwich de berenjena con queso de cabra",
+               "tags":  [
+                            "berenjena",
+                            "queso",
+                            "pan"
+                        ],
+               "tip":  "Salar la berenjena antes de cocinarla evita que absorba demasiado aceite y la deja menos amarga.",
+               "pasos":  [
+                             "Corta la berenjena en rodajas, sala y deja reposar 10 minutos.",
+                             "Asa a la parrilla o sartén 3 minutos por lado.",
+                             "Arma el sándwich con queso de cabra, rúcula y berenjena.",
+                             "Termina con un hilo de miel."
+                         ]
+           },
+    "34":  {
+               "ingredientes":  [
+                                    "300 g de edamame con vaina",
+                                    "Sal marina gruesa",
+                                    "Hojuelas de chile (opcional)"
+                                ],
+               "nombre":  "Edamame con sal marina",
+               "tags":  [
+                            "edamame"
+                        ],
+               "tip":  "Sirve el edamame todavía tibio: la sal se adhiere mejor a la vaina húmeda que cuando está frío.",
+               "pasos":  [
+                             "Hierve agua con sal.",
+                             "Cocina el edamame 4-5 minutos.",
+                             "Escurre y enfría un poco bajo agua fría.",
+                             "Espolvorea con sal marina y chile al gusto."
+                         ]
+           },
+    "21":  {
+               "ingredientes":  [
+                                    "4 pimientos",
+                                    "1 taza de arroz cocido",
+                                    "1 taza de salsa de tomate",
+                                    "Queso mozzarella",
+                                    "1 cebolla",
+                                    "Maíz",
+                                    "Orégano"
+                                ],
+               "nombre":  "Pimientos rellenos de arroz y queso",
+               "tags":  [
+                            "pimientos",
+                            "arroz",
+                            "queso"
+                        ],
+               "tip":  "Hornea los pimientos parados en una fuente con un poco de agua en el fondo: se cocinan parejo sin secarse.",
+               "pasos":  [
+                             "Corta la tapa de los pimientos y vacíalos.",
+                             "Mezcla el arroz con salsa de tomate, cebolla salteada, maíz y la mitad del queso.",
+                             "Rellena los pimientos.",
+                             "Cubre con el resto del queso y hornea 30 minutos a 190°C."
+                         ]
+           },
+    "24":  {
+               "ingredientes":  [
+                                    "2 berenjenas",
+                                    "Salsa de tomate",
+                                    "Queso mozzarella",
+                                    "Parmesano",
+                                    "Pan rallado",
+                                    "Albahaca",
+                                    "1 huevo",
+                                    "Harina"
+                                ],
+               "nombre":  "Berenjenas a la parmesana",
+               "tags":  [
+                            "berenjena",
+                            "queso",
+                            "huevo"
+                        ],
+               "tip":  "Hornea las rodajas en vez de freírlas si quieres una versión más liviana, con resultado casi igual de rico.",
+               "pasos":  [
+                             "Corta la berenjena en rodajas y pásalas por harina, huevo y pan rallado.",
+                             "Fríe u hornea hasta dorar.",
+                             "Arma capas con salsa de tomate, berenjena y quesos.",
+                             "Hornea 25 minutos a 190°C hasta gratinar."
+                         ]
+           },
+    "46":  {
+               "ingredientes":  [
+                                    "2 tazas de arroz sushi",
+                                    "Vinagre de arroz",
+                                    "Alga nori",
+                                    "1 aguacate",
+                                    "1 pepino",
+                                    "Zanahoria",
+                                    "Queso crema",
+                                    "Sésamo",
+                                    "Salsa de soja"
+                                ],
+               "nombre":  "Rolls de sushi vegetariano de aguacate y pepino",
+               "tags":  [
+                            "arroz",
+                            "aguacate",
+                            "pepino",
+                            "queso"
+                        ],
+               "tip":  "Humedece el cuchillo antes de cada corte: el arroz no se pega y las piezas quedan mucho más limpias.",
+               "pasos":  [
+                             "Cocina el arroz sushi y mézclalo con vinagre de arroz, deja enfriar.",
+                             "Extiende el arroz sobre el alga nori dejando un borde libre.",
+                             "Coloca aguacate, pepino, zanahoria y queso crema en una línea.",
+                             "Enrolla firme con ayuda de una esterilla.",
+                             "Corta en piezas y sirve con soja."
+                         ]
+           },
+    "16":  {
+               "ingredientes":  [
+                                    "1 lata de garbanzos",
+                                    "2 puñados de espinaca",
+                                    "1 lata de leche de coco",
+                                    "1 cebolla",
+                                    "1 cda de curry en polvo",
+                                    "Jengibre y ajo",
+                                    "Arroz"
+                                ],
+               "nombre":  "Curry de garbanzos y espinaca",
+               "tags":  [
+                            "garbanzos",
+                            "espinaca",
+                            "leche de coco"
+                        ],
+               "tip":  "Tuesta el curry en polvo en el aceite antes de añadir líquidos: potencia muchísimo el sabor.",
+               "pasos":  [
+                             "Sofríe cebolla, ajo y jengibre 3 minutos.",
+                             "Agrega el curry en polvo y tuesta 1 minuto.",
+                             "Añade garbanzos y leche de coco, cocina 15 minutos.",
+                             "Incorpora la espinaca al final.",
+                             "Sirve con arroz."
+                         ]
+           },
+    "35":  {
+               "ingredientes":  [
+                                    "1 taza de almendras",
+                                    "1/2 taza de nueces",
+                                    "1/2 taza de anacardos",
+                                    "1 cda de aceite",
+                                    "Comino",
+                                    "Pimentón",
+                                    "Una pizca de sal"
+                                ],
+               "nombre":  "Mix de frutos secos tostados con especias",
+               "tags":  [
+                            "almendras",
+                            "nueces",
+                            "anacardos"
+                        ],
+               "tip":  "Déjalos enfriar completamente antes de guardarlos en un frasco: si los guardas calientes, el vapor los reblandece.",
+               "pasos":  [
+                             "Mezcla los frutos secos con aceite, comino, pimentón y sal.",
+                             "Extiende en una bandeja.",
+                             "Hornea 10-12 minutos a 170°C, moviendo a la mitad.",
+                             "Deja enfriar antes de guardar."
+                         ]
+           },
+    "32":  {
+               "ingredientes":  [
+                                    "2 aguacates maduros",
+                                    "1/2 cebolla picada",
+                                    "1 tomate",
+                                    "Cilantro",
+                                    "Jugo de limón",
+                                    "Sal",
+                                    "Totopos de maíz"
+                                ],
+               "nombre":  "Guacamole con totopos",
+               "tags":  [
+                            "aguacate",
+                            "tomate",
+                            "totopos"
+                        ],
+               "tip":  "Deja una semilla de aguacate dentro del guacamole y tápalo bien: tarda más en oxidarse.",
+               "pasos":  [
+                             "Machaca los aguacates dejando algo de textura.",
+                             "Agrega cebolla, tomate, cilantro y limón.",
+                             "Sazona con sal.",
+                             "Sirve de inmediato con totopos."
+                         ]
+           },
+    "7":  {
+              "ingredientes":  [
+                                   "1 mango congelado",
+                                   "1 banana",
+                                   "1/2 taza de leche vegetal",
+                                   "1 cda de semillas de chía",
+                                   "Granola",
+                                   "Coco rallado"
+                               ],
+              "nombre":  "Smoothie bowl de mango y chía",
+              "tags":  [
+                           "mango",
+                           "banana",
+                           "chía"
+                       ],
+              "tip":  "Congela la fruta de antemano: da una textura espesa de helado sin necesidad de hielo.",
+              "pasos":  [
+                            "Licúa el mango, la banana y la leche vegetal.",
+                            "Vierte en un bowl.",
+                            "Decora con chía, granola y coco."
+                        ]
+          },
+    "43":  {
+               "ingredientes":  [
+                                    "2 berenjenas",
+                                    "1 taza de lentejas cocidas",
+                                    "1 taza de salsa de tomate",
+                                    "Bechamel",
+                                    "Canela",
+                                    "1 cebolla",
+                                    "Queso parmesano"
+                                ],
+               "nombre":  "Moussaka vegetariana de lentejas",
+               "tags":  [
+                            "berenjena",
+                            "lentejas",
+                            "queso"
+                        ],
+               "tip":  "La pizca de canela en el relleno de lentejas es el toque clásico griego que hace la diferencia: no la omitas.",
+               "pasos":  [
+                             "Asa la berenjena en láminas con un poco de aceite.",
+                             "Sofríe la cebolla, agrega lentejas, salsa de tomate y una pizca de canela, cocina 10 minutos.",
+                             "Prepara la bechamel.",
+                             "Arma capas de berenjena y relleno de lentejas.",
+                             "Cubre con bechamel y parmesano, hornea 30 minutos a 190°C."
+                         ]
+           },
+    "48":  {
+               "ingredientes":  [
+                                    "1 lata de frijoles negros",
+                                    "1/2 taza de cacao en polvo",
+                                    "1/2 taza de azúcar morena",
+                                    "1/4 taza de aceite",
+                                    "1 cdta de vainilla",
+                                    "Polvo de hornear",
+                                    "Chips de chocolate vegano"
+                                ],
+               "nombre":  "Brownies veganos de frijol negro",
+               "tags":  [
+                            "frijoles negros",
+                            "cacao",
+                            "chocolate"
+                        ],
+               "tip":  "No se nota el sabor a frijol: el cacao y el azúcar lo cubren por completo, y quedan húmedos como un brownie clásico.",
+               "pasos":  [
+                             "Licúa los frijoles escurridos con el aceite y la vainilla hasta obtener una pasta lisa.",
+                             "Mezcla con el cacao, azúcar y polvo de hornear.",
+                             "Agrega chips de chocolate y vierte en un molde.",
+                             "Hornea 25 minutos a 180°C.",
+                             "Deja enfriar completamente antes de cortar."
+                         ]
+           },
+    "2":  {
+              "ingredientes":  [
+                                   "1 taza de avena",
+                                   "1 taza de leche vegetal",
+                                   "1 banana",
+                                   "1 cda de crema de maní",
+                                   "Frutos rojos",
+                                   "Canela"
+                               ],
+              "nombre":  "Bowl de avena con frutas y crema de maní",
+              "tags":  [
+                           "avena",
+                           "banana",
+                           "leche vegetal",
+                           "maní"
+                       ],
+              "tip":  "Deja la avena en remojo desde la noche anterior: queda cremosa sin necesidad de cocinarla.",
+              "pasos":  [
+                            "Cocina la avena con la leche vegetal 5 minutos.",
+                            "Sirve en un bowl.",
+                            "Agrega banana, crema de maní y frutos rojos.",
+                            "Espolvorea canela."
+                        ]
+          },
+    "38":  {
+               "ingredientes":  [
+                                    "4 huevos",
+                                    "2 tazas de kale picado",
+                                    "1 puñado de cilantro",
+                                    "1 cebolla",
+                                    "1 chile verde",
+                                    "Queso feta",
+                                    "Comino"
+                                ],
+               "nombre":  "Shakshuka verde con kale y queso feta",
+               "tags":  [
+                            "huevo",
+                            "kale",
+                            "queso",
+                            "cilantro"
+                        ],
+               "tip":  "Si el kale suelta mucha agua, sube el fuego los últimos minutos para que la salsa no quede aguada.",
+               "pasos":  [
+                             "Licúa el cilantro con un poco de caldo o agua hasta obtener una salsa.",
+                             "Sofríe cebolla, chile y kale 5 minutos.",
+                             "Agrega la salsa verde y el comino, cocina 5 minutos más.",
+                             "Casca los huevos encima, tapa y cocina 5-6 minutos.",
+                             "Termina con queso feta desmenuzado."
+                         ]
+           },
+    "6":  {
+              "ingredientes":  [
+                                   "2 rebanadas de pan integral",
+                                   "1 aguacate",
+                                   "2 huevos",
+                                   "Jugo de limón",
+                                   "Sal",
+                                   "Chile en polvo"
+                               ],
+              "nombre":  "Tostadas de aguacate con huevo poché",
+              "tags":  [
+                           "aguacate",
+                           "huevo",
+                           "pan"
+                       ],
+              "tip":  "El remolino de agua antes de echar el huevo es el secreto para que el poché quede compacto.",
+              "pasos":  [
+                            "Hierve agua con un chorrito de vinagre.",
+                            "Haz un remolino y agrega el huevo, cocina 3 minutos.",
+                            "Tuesta el pan y machaca el aguacate con limón y sal.",
+                            "Corona con el huevo y chile en polvo."
+                        ]
+          },
+    "31":  {
+               "ingredientes":  [
+                                    "1 manojo de kale",
+                                    "1 cda de aceite de oliva",
+                                    "Sal",
+                                    "Pimentón ahumado"
+                                ],
+               "nombre":  "Chips de kale al horno",
+               "tags":  [
+                            "kale"
+                        ],
+               "tip":  "Hornea a temperatura baja y vigila los últimos minutos: el kale pasa de crujiente a quemado muy rápido.",
+               "pasos":  [
+                             "Quita los tallos duros del kale y rasga en trozos.",
+                             "Mezcla con aceite, sal y pimentón con las manos.",
+                             "Extiende en una bandeja sin amontonar.",
+                             "Hornea 12-15 minutos a 150°C hasta que estén crujientes."
+                         ]
+           }
+}
