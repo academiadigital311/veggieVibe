@@ -812,25 +812,29 @@ export default function App() {
         @media (min-width: 800px) {
           .rv-week-meal-text { display:inline; }
         }
+        @media (max-width: 768px) {
+          .rv-grid { grid-template-columns:repeat(2, 1fr); }
+        }
         @media (max-width: 640px) {
-          .rv-hero { padding:32px 14px 24px; }
+          .rv-hero { padding:28px 14px 20px; }
           .rv-hero-topbar { gap:6px; justify-content:center; }
           .rv-hero-badge { font-size:11px; padding:5px 10px; }
           .rv-hero-icon-btn { font-size:11px; padding:7px 10px; gap:4px; }
-          .rv-hero-title { font-size:28px; }
-          .rv-hero-sub { font-size:13.5px; margin-top:10px; }
-          .rv-nav-tabs { margin:0 10px 14px; gap:2px; padding:4px; border-radius:12px; position:relative; z-index:1; }
-          .rv-nav-tab { padding:8px 10px; font-size:11px; gap:4px; border-radius:10px; }
-          .rv-search-card { margin:0 10px; padding:14px; border-radius:16px; box-shadow:0 8px 20px rgba(14,107,78,0.10); }
-          .rv-diet-row { gap:6px; }
-          .rv-search-box { padding:10px 12px; }
+          .rv-hero-title { font-size:26px; }
+          .rv-hero-sub { font-size:13px; margin-top:8px; }
+          .rv-nav-tabs { margin:0 10px 12px; gap:2px; padding:4px; border-radius:12px; position:relative; z-index:1; box-shadow:0 4px 12px rgba(14,107,78,0.08); }
+          .rv-nav-tab { padding:8px 8px; font-size:11px; gap:3px; border-radius:10px; }
+          .rv-nav-tab svg { width:13px; height:13px; }
+          .rv-search-card { margin:0 10px; padding:12px; border-radius:14px; box-shadow:0 4px 12px rgba(14,107,78,0.08); }
+          .rv-diet-row { gap:5px; margin-bottom:10px; }
+          .rv-search-box { padding:9px 12px; border-radius:10px; }
           .rv-search-box input { font-size:13px; }
-          .rv-filters { padding:0 10px; margin-top:14px; gap:6px; }
-          .rv-pill { padding:5px 10px; font-size:11.5px; }
-          .rv-grid { padding:0 10px 50px; gap:12px; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); }
-          .rv-card-img { height:120px; }
-          .rv-illus { height:120px; }
-          .rv-card-title { font-size:14px; }
+          .rv-filters { padding:0 10px; margin-top:12px; gap:6px; }
+          .rv-pill { padding:5px 10px; font-size:11px; }
+          .rv-grid { padding:0 14px 50px; gap:14px; grid-template-columns:1fr; }
+          .rv-card-img { height:180px; }
+          .rv-illus { height:180px; }
+          .rv-card-title { font-size:16px; }
           .rv-modal-overlay { padding:2vh 8px; }
           .rv-modal { border-radius:16px; }
           .rv-modal-title { font-size:19px; }
@@ -847,10 +851,8 @@ export default function App() {
         }
         @media (max-width: 380px) {
           .rv-hero-badge { display:none; }
-          .rv-hero-title { font-size:24px; }
-          .rv-nav-tab { padding:7px 8px; font-size:10.5px; gap:3px; }
-          .rv-nav-tab svg { width:12px; height:12px; }
-          .rv-grid { grid-template-columns:repeat(auto-fill, minmax(140px, 1fr)); }
+          .rv-hero-title { font-size:23px; }
+          .rv-hero-sub { font-size:12.5px; }
         }
       `}</style>
 
