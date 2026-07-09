@@ -1,4 +1,4 @@
-const CACHE_NAME = 'recetas-verdes-v1';
+const CACHE_NAME = 'viridia-v2';
 const STATIC_ASSETS = [
   '/',
   '/icon-192.png',
