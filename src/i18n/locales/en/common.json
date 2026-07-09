@@ -57,6 +57,8 @@
   "auth.login": "Sign in",
   "auth.signup": "Create account",
   "auth.switchToSignup": "Don't have an account? Sign up",
+  "auth.google": "Continue with Google",
+  "auth.or": "or",
   "auth.switchToLogin": "Already have an account? Sign in",
   "empty.message": "No recipes match that combination yet.\nTry a different ingredient or remove a filter.",
   "footer.text": "Made with love for cooking delicious food, meat-free and stress-free. 🌿",

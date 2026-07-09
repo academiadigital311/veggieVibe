@@ -57,6 +57,8 @@
   "auth.login": "Entrar",
   "auth.signup": "Crear cuenta",
   "auth.switchToSignup": "¿No tienes cuenta? Regístrate",
+  "auth.google": "Continuar con Google",
+  "auth.or": "o",
   "auth.switchToLogin": "¿Ya tienes cuenta? Inicia sesión",
   "empty.message": "No hay recetas con esa combinación todavía.\nPrueba con otro ingrediente o quita algún filtro.",
   "footer.text": "Hecho con cariño para cocinar rico, sin carne y sin complicarse. 🌿",
