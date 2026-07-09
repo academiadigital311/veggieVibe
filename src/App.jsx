@@ -94,7 +94,9 @@ function RecipeCard({ receta, isFav, isPremiumUser, onToggleFav, onOpen, t }) {
   );
 }
 
-function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQuierePremium, t }) {
+function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQuierePremium, onAddToPlan, user, t }) {
+  const [showPlanPicker, setShowPlanPicker] = useState(false);
+  const [addedMsg, setAddedMsg] = useState("");
   if (!receta) return null;
   const style = DIET_STYLE[receta.tipo];
   const bloqueada = PREMIUM_IDS.has(receta.id) && !isPremiumUser;
@@ -115,7 +117,35 @@ function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQui
             <button onClick={() => onToggleFav(receta.id)} className="rv-save-btn" style={{ background: isFav ? C.coral : "#fff", color: isFav ? "#fff" : C.ink, borderColor: isFav ? C.coral : C.line }}>
               <Heart size={13} fill={isFav ? "#fff" : "none"} /> {isFav ? t("modal.saved") : t("modal.save")}
             </button>
+            {!bloqueada && (
+              <button onClick={() => user ? setShowPlanPicker(!showPlanPicker) : null} className="rv-save-btn" style={{ borderColor: C.veganaDark, color: C.veganaDark }}>
+                <CalendarDays size={13} /> {t("modal.addToPlan")}
+              </button>
+            )}
           </div>
+          {showPlanPicker && (
+            <div style={{ marginTop: 12, padding: 12, background: C.veganaBg, borderRadius: 12 }}>
+              {addedMsg ? (
+                <p style={{ fontSize: 13, fontWeight: 600, color: C.veganaDark, textAlign: "center", margin: 0 }}>{addedMsg}</p>
+              ) : (
+                <>
+                  <p style={{ fontSize: 12, fontWeight: 700, color: C.veganaDark, margin: "0 0 8px" }}>{t("modal.pickDayMeal")}</p>
+                  <div style={{ display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: 4 }}>
+                    {DAY_KEYS.map((dk, dayIdx) => (
+                      <div key={dk} style={{ textAlign: "center" }}>
+                        <div style={{ fontSize: 10, fontWeight: 700, color: C.veganaDark, marginBottom: 4, textTransform: "uppercase" }}>{t(`week.${dk}`)}</div>
+                        {MEAL_TYPES.map((mt) => (
+                          <button key={mt} onClick={() => { onAddToPlan(dayIdx, mt, receta.id); setAddedMsg(t("modal.addedToPlan")); setTimeout(() => { setAddedMsg(""); setShowPlanPicker(false); }, 1500); }} style={{ display: "block", width: "100%", marginBottom: 3, padding: "4px 2px", border: `1px solid ${C.line}`, borderRadius: 6, background: "#fff", fontSize: 10, cursor: "pointer", color: C.ink }}>
+                            {MEAL_EMOJI[mt]}
+                          </button>
+                        ))}
+                      </div>
+                    ))}
+                  </div>
+                </>
+              )}
+            </div>
+          )}
 
           {bloqueada ? (
             <div className="rv-paywall">
@@ -329,11 +359,12 @@ function RecipePicker({ recetas, isPremiumUser, onPick, onClose, t }) {
   const [q, setQ] = useState("");
   const filtered = useMemo(() => {
     const term = norm(q.trim());
-    if (!term) return recetas.slice(0, 12);
-    return recetas.filter((r) => {
+    const list = recetas.filter((r) => {
       if (PREMIUM_IDS.has(r.id) && !isPremiumUser) return false;
+      if (!term) return true;
       return norm(r.nombre).includes(term) || r.tags.some((tag) => norm(tag).includes(term));
-    }).slice(0, 12);
+    });
+    return list;
   }, [recetas, q, isPremiumUser]);
 
   return (
@@ -1009,6 +1040,8 @@ export default function App() {
         onToggleFav={toggleFav}
         onClose={() => setSeleccionada(null)}
         onQuierePremium={() => { setSeleccionada(null); setMostrarPremium(true); }}
+        onAddToPlan={assignPlan}
+        user={user}
         t={t}
       />
 
