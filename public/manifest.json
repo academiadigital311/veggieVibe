@@ -1,0 +1,26 @@
+{
+  "name": "Recetas Verdes",
+  "short_name": "Recetas Verdes",
+  "description": "Recetas vegetarianas y veganas para cada día. Busca por ingredientes, planifica tu semana y cocina con IA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3FAF1",
+  "theme_color": "#0E6B4E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "lifestyle"],
+  "lang": "es"
+}
