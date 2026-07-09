@@ -1,11 +1,11 @@
 {
-  "name": "Recetas Verdes",
-  "short_name": "Recetas Verdes",
-  "description": "Recetas vegetarianas y veganas para cada día. Busca por ingredientes, planifica tu semana y cocina con IA.",
+  "name": "Viridia",
+  "short_name": "Viridia",
+  "description": "Come mejor, vive mejor. Recetas vegetarianas y veganas para cada día.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#F3FAF1",
-  "theme_color": "#0E6B4E",
+  "background_color": "#B8D8B0",
+  "theme_color": "#2D5A27",
   "orientation": "portrait-primary",
   "icons": [
     {
