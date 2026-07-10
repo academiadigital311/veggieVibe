@@ -7,6 +7,7 @@ import {
 import { useTranslation } from "react-i18next";
 import { supabase, supabaseConfigured } from "./supabaseClient";
 import { useRecetas, PREMIUM_IDS } from "./data/recetas";
+import { loadPaddle, PADDLE_PRICE_IDS } from "./paddleClient";
 
 const C = {
   bg: "#F3FAF1", card: "#FFFFFF", ink: "#1E2E24", inkSoft: "#5E7468",
@@ -750,16 +751,22 @@ export default function App() {
 
   const iniciarCheckout = async (planId) => {
     if (!user) { setMostrarAuth(true); return; }
+    const priceId = PADDLE_PRICE_IDS[planId];
+    if (!priceId) { alert(t("error.paymentGeneric")); return; }
     setCargandoCheckout(true);
     try {
-      const res = await fetch("/api/create-checkout-session", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ planId, userId: user.id, email: user.email }),
+      const Paddle = await loadPaddle((event) => {
+        if (event.name === "checkout.completed") {
+          setMostrarPremium(false);
+          if (user) setTimeout(() => cargarDatosUsuario(user.id), 2000);
+        }
       });
-      const data = await res.json();
-      if (data.url) window.location.href = data.url;
-      else throw new Error(data.error || t("error.paymentGeneric"));
+      Paddle.Checkout.open({
+        items: [{ priceId, quantity: 1 }],
+        customer: { email: user.email },
+        customData: { user_id: user.id },
+        settings: { locale: currentLang === "es" ? "es" : "en" },
+      });
     } catch (e) {
       alert(t("error.payment") + e.message);
     } finally {

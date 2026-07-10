@@ -1,11 +1,12 @@
 -- Ejecuta este archivo completo en Supabase: Dashboard → SQL Editor → New query → pega y "Run"
 
--- Tabla de perfiles: guarda si el usuario es Premium y su ID de cliente en Stripe
+-- Tabla de perfiles: guarda si el usuario es Premium y su ID de cliente en Paddle
 create table if not exists profiles (
   id uuid references auth.users on delete cascade primary key,
   is_premium boolean default false,
   plan text default 'free' check (plan in ('free', 'premium', 'chef')),
-  stripe_customer_id text,
+  paddle_customer_id text,
+  paddle_subscription_id text,
   created_at timestamp with time zone default now()
 );
 
