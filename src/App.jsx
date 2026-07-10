@@ -1056,6 +1056,12 @@ export default function App() {
       {mostrarPremium && (
         <PremiumModal isPremiumUser={isPremiumUser} userPlan={userPlan} cargando={cargandoCheckout} onClose={() => setMostrarPremium(false)} onSuscribirse={iniciarCheckout} t={t} />
       )}
+
+      <footer style={{ textAlign: "center", padding: "20px 24px 32px", display: "flex", justifyContent: "center", gap: 18, flexWrap: "wrap" }}>
+        <a href="/terminos.html" style={{ fontSize: 12, color: C.inkSoft }}>{t("footer.terms")}</a>
+        <a href="/privacidad.html" style={{ fontSize: 12, color: C.inkSoft }}>{t("footer.privacy")}</a>
+        <a href="/reembolsos.html" style={{ fontSize: 12, color: C.inkSoft }}>{t("footer.refunds")}</a>
+      </footer>
     </div>
   );
 }
