@@ -1062,6 +1062,7 @@ export default function App() {
         <a href="/terminos.html" style={{ fontSize: 12, color: C.inkSoft }}>{t("footer.terms")}</a>
         <a href="/privacidad.html" style={{ fontSize: 12, color: C.inkSoft }}>{t("footer.privacy")}</a>
         <a href="/reembolsos.html" style={{ fontSize: 12, color: C.inkSoft }}>{t("footer.refunds")}</a>
+        <a href="mailto:academiadigital311@gmail.com" style={{ fontSize: 12, color: C.inkSoft }}>{t("footer.contact")}</a>
       </footer>
     </div>
   );

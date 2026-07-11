@@ -69,6 +69,7 @@
   "footer.terms": "Términos de servicio",
   "footer.privacy": "Política de privacidad",
   "footer.refunds": "Política de reembolsos",
+  "footer.contact": "Contacto",
   "error.payment": "Hubo un problema iniciando el pago: ",
   "error.paymentGeneric": "No se pudo iniciar el pago",
   "nav.recipes": "Recetas",
