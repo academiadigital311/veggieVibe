@@ -4,6 +4,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Precios — Viridia</title>
+<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+<link rel="apple-touch-icon" href="/icon-192.png" />
 <style>
   * { box-sizing: border-box; }
   body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 960px; margin: 0 auto; padding: 40px 24px 80px; color: #1E2E24; line-height: 1.6; background: #F3FAF1; }
@@ -19,6 +21,9 @@
   .free .price { color: #1E2E24; }
   .premium .price, .chef .price { color: #0E6B4E; }
   a.back { display: inline-block; margin-bottom: 24px; color: #0E6B4E; font-size: 14px; }
+  .cta { display: block; text-align: center; margin-top: 20px; padding: 12px 16px; border-radius: 999px; font-size: 14px; font-weight: 700; text-decoration: none; }
+  .cta.free-cta { background: #F3FAF1; color: #1E2E24; border: 1.5px solid #E1F0DD; }
+  .cta.paid-cta { background: #FF6F59; color: #fff; }
 </style>
 </head>
 <body>
@@ -37,6 +42,7 @@
         <li>Lista de compras automática</li>
         <li>Guarda tus favoritas</li>
       </ul>
+      <a class="cta free-cta" href="/">Empezar gratis</a>
     </div>
 
     <div class="plan premium">
@@ -48,6 +54,7 @@
         <li>Nuevas recetas cada mes, primero para ti</li>
         <li>Sin anuncios, para siempre</li>
       </ul>
+      <a class="cta paid-cta" href="/?premium=premium">Suscribirme</a>
     </div>
 
     <div class="plan chef">
@@ -58,6 +65,7 @@
         <li>Todo lo incluido en Premium</li>
         <li>Chef IA: recetas personalizadas con inteligencia artificial</li>
       </ul>
+      <a class="cta paid-cta" href="/?premium=chef">Suscribirme</a>
     </div>
   </div>
 

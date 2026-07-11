@@ -272,8 +272,8 @@ function AuthModal({ onClose, onAuthed, t }) {
   );
 }
 
-function PremiumModal({ onClose, isPremiumUser, userPlan, onSuscribirse, cargando, t }) {
-  const [tier, setTier] = useState("chef");
+function PremiumModal({ onClose, isPremiumUser, userPlan, onSuscribirse, cargando, initialTier, t }) {
+  const [tier, setTier] = useState(initialTier === "premium" ? "premium" : "chef");
   const [periodo, setPeriodo] = useState("mensual");
 
   const tiers = {
@@ -684,6 +684,7 @@ export default function App() {
   const [userPlan, setUserPlan] = useState("free");
   const [mostrarAuth, setMostrarAuth] = useState(false);
   const [mostrarPremium, setMostrarPremium] = useState(false);
+  const [premiumTier, setPremiumTier] = useState(null);
   const [cargandoCheckout, setCargandoCheckout] = useState(false);
   const [vista, setVista] = useState("recetas");
   const [planData, setPlanData] = useState([]);
@@ -705,6 +706,16 @@ export default function App() {
       setUser(session?.user ?? null);
     });
     return () => listener.subscription.unsubscribe();
+  }, []);
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const premiumParam = params.get("premium");
+    if (premiumParam === "premium" || premiumParam === "chef") {
+      setPremiumTier(premiumParam);
+      setMostrarPremium(true);
+      window.history.replaceState({}, "", window.location.pathname);
+    }
   }, []);
 
   const cargarDatosUsuario = useCallback(async (uid) => {
@@ -1054,7 +1065,7 @@ export default function App() {
 
       {mostrarAuth && <AuthModal onClose={() => setMostrarAuth(false)} onAuthed={() => setMostrarAuth(false)} t={t} />}
       {mostrarPremium && (
-        <PremiumModal isPremiumUser={isPremiumUser} userPlan={userPlan} cargando={cargandoCheckout} onClose={() => setMostrarPremium(false)} onSuscribirse={iniciarCheckout} t={t} />
+        <PremiumModal isPremiumUser={isPremiumUser} userPlan={userPlan} cargando={cargandoCheckout} initialTier={premiumTier} onClose={() => setMostrarPremium(false)} onSuscribirse={iniciarCheckout} t={t} />
       )}
 
       <footer style={{ textAlign: "center", padding: "20px 24px 32px", display: "flex", justifyContent: "center", gap: 18, flexWrap: "wrap" }}>
