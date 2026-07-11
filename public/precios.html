@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Precios — Viridia</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 960px; margin: 0 auto; padding: 40px 24px 80px; color: #1E2E24; line-height: 1.6; background: #F3FAF1; }
+  h1 { font-size: 32px; margin-bottom: 4px; text-align: center; }
+  .subtitle { text-align: center; color: #5E7468; font-size: 15px; margin-bottom: 40px; }
+  .plans { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-bottom: 40px; }
+  .plan { background: #fff; border: 1.5px solid #E1F0DD; border-radius: 16px; padding: 24px; }
+  .plan h2 { font-size: 18px; margin: 0 0 4px; color: #0E6B4E; }
+  .plan .price { font-size: 28px; font-weight: 700; margin: 12px 0 4px; }
+  .plan .period { font-size: 13px; color: #5E7468; margin-bottom: 16px; }
+  .plan ul { padding-left: 18px; margin: 0; font-size: 14px; color: #333; }
+  .plan li { margin-bottom: 6px; }
+  .free .price { color: #1E2E24; }
+  .premium .price, .chef .price { color: #0E6B4E; }
+  a.back { display: inline-block; margin-bottom: 24px; color: #0E6B4E; font-size: 14px; }
+</style>
+</head>
+<body>
+  <a class="back" href="/">&larr; Volver a Viridia</a>
+  <h1>Planes y precios</h1>
+  <p class="subtitle">Elige el plan que mejor se adapte a ti. Cancela cuando quieras.</p>
+
+  <div class="plans">
+    <div class="plan free">
+      <h2>Gratis</h2>
+      <div class="price">$0</div>
+      <div class="period">para siempre</div>
+      <ul>
+        <li>30 recetas vegetarianas y veganas</li>
+        <li>Planificador de comidas semanal</li>
+        <li>Lista de compras automática</li>
+        <li>Guarda tus favoritas</li>
+      </ul>
+    </div>
+
+    <div class="plan premium">
+      <h2>Premium</h2>
+      <div class="price">$3.99 <span style="font-size:15px;font-weight:400;">/ mes</span></div>
+      <div class="period">o $24.99 / año (ahorra 48%)</div>
+      <ul>
+        <li>Todas las recetas Premium desbloqueadas</li>
+        <li>Nuevas recetas cada mes, primero para ti</li>
+        <li>Sin anuncios, para siempre</li>
+      </ul>
+    </div>
+
+    <div class="plan chef">
+      <h2>Premium Chef</h2>
+      <div class="price">$6.99 <span style="font-size:15px;font-weight:400;">/ mes</span></div>
+      <div class="period">o $49.99 / año (ahorra 48%)</div>
+      <ul>
+        <li>Todo lo incluido en Premium</li>
+        <li>Chef IA: recetas personalizadas con inteligencia artificial</li>
+      </ul>
+    </div>
+  </div>
+
+  <p style="text-align:center; font-size:13px; color:#5E7468;">
+    Pagos procesados de forma segura por Paddle. Consulta nuestros
+    <a href="/terminos.html">términos de servicio</a>,
+    <a href="/privacidad.html">política de privacidad</a> y
+    <a href="/reembolsos.html">política de reembolsos</a>.
+  </p>
+</body>
+</html>
