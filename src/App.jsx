@@ -272,9 +272,9 @@ function AuthModal({ onClose, onAuthed, t }) {
   );
 }
 
-function PremiumModal({ onClose, isPremiumUser, userPlan, onSuscribirse, cargando, initialTier, t }) {
+function PremiumModal({ onClose, isPremiumUser, userPlan, onSuscribirse, cargando, initialTier, initialPeriod, t }) {
   const [tier, setTier] = useState(initialTier === "premium" ? "premium" : "chef");
-  const [periodo, setPeriodo] = useState("mensual");
+  const [periodo, setPeriodo] = useState(initialPeriod === "anual" ? "anual" : "mensual");
 
   const tiers = {
     premium: {
@@ -685,6 +685,7 @@ export default function App() {
   const [mostrarAuth, setMostrarAuth] = useState(false);
   const [mostrarPremium, setMostrarPremium] = useState(false);
   const [premiumTier, setPremiumTier] = useState(null);
+  const [premiumPeriod, setPremiumPeriod] = useState(null);
   const [cargandoCheckout, setCargandoCheckout] = useState(false);
   const [vista, setVista] = useState("recetas");
   const [planData, setPlanData] = useState([]);
@@ -711,8 +712,10 @@ export default function App() {
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const premiumParam = params.get("premium");
+    const periodParam = params.get("period");
     if (premiumParam === "premium" || premiumParam === "chef") {
       setPremiumTier(premiumParam);
+      if (periodParam === "mensual" || periodParam === "anual") setPremiumPeriod(periodParam);
       setMostrarPremium(true);
       window.history.replaceState({}, "", window.location.pathname);
     }
@@ -1065,7 +1068,7 @@ export default function App() {
 
       {mostrarAuth && <AuthModal onClose={() => setMostrarAuth(false)} onAuthed={() => setMostrarAuth(false)} t={t} />}
       {mostrarPremium && (
-        <PremiumModal isPremiumUser={isPremiumUser} userPlan={userPlan} cargando={cargandoCheckout} initialTier={premiumTier} onClose={() => setMostrarPremium(false)} onSuscribirse={iniciarCheckout} t={t} />
+        <PremiumModal isPremiumUser={isPremiumUser} userPlan={userPlan} cargando={cargandoCheckout} initialTier={premiumTier} initialPeriod={premiumPeriod} onClose={() => setMostrarPremium(false)} onSuscribirse={iniciarCheckout} t={t} />
       )}
 
       <footer style={{ textAlign: "center", padding: "20px 24px 32px", display: "flex", justifyContent: "center", gap: 18, flexWrap: "wrap" }}>
