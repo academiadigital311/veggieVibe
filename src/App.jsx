@@ -195,7 +195,7 @@ function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQui
   );
 }
 
-function AuthModal({ onClose, onAuthed, t }) {
+function AuthModal({ onClose, onAuthed, pendingCheckoutPlan, t }) {
   const [modo, setModo] = useState("login");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -239,6 +239,7 @@ function AuthModal({ onClose, onAuthed, t }) {
           <button
             onClick={async () => {
               if (!supabaseConfigured) { setError("Supabase no está configurado"); return; }
+              if (pendingCheckoutPlan) localStorage.setItem("viridia_pending_checkout", pendingCheckoutPlan);
               const { error: err } = await supabase.auth.signInWithOAuth({
                 provider: "google",
                 options: { redirectTo: window.location.origin },
@@ -687,6 +688,7 @@ export default function App() {
   const [premiumTier, setPremiumTier] = useState(null);
   const [premiumPeriod, setPremiumPeriod] = useState(null);
   const [cargandoCheckout, setCargandoCheckout] = useState(false);
+  const [pendingCheckoutPlan, setPendingCheckoutPlan] = useState(null);
   const [vista, setVista] = useState("recetas");
   const [planData, setPlanData] = useState([]);
 
@@ -702,7 +704,16 @@ export default function App() {
   };
 
   useEffect(() => {
-    supabase.auth.getSession().then(({ data }) => setUser(data.session?.user ?? null));
+    supabase.auth.getSession().then(({ data }) => {
+      const sessionUser = data.session?.user ?? null;
+      setUser(sessionUser);
+      const pendingPlan = localStorage.getItem("viridia_pending_checkout");
+      if (pendingPlan && sessionUser) {
+        localStorage.removeItem("viridia_pending_checkout");
+        setMostrarPremium(true);
+        iniciarCheckout(pendingPlan, sessionUser);
+      }
+    });
     const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => {
       setUser(session?.user ?? null);
     });
@@ -763,8 +774,9 @@ export default function App() {
     await supabase.from("meal_plans").delete().eq("user_id", user.id).eq("day_index", dayIdx).eq("meal_type", mealType);
   };
 
-  const iniciarCheckout = async (planId) => {
-    if (!user) { setMostrarAuth(true); return; }
+  const iniciarCheckout = async (planId, userOverride) => {
+    const effectiveUser = userOverride || user;
+    if (!effectiveUser) { setPendingCheckoutPlan(planId); setMostrarAuth(true); return; }
     const priceId = PADDLE_PRICE_IDS[planId];
     if (!priceId) { alert(t("error.paymentGeneric")); return; }
     setCargandoCheckout(true);
@@ -772,13 +784,13 @@ export default function App() {
       const Paddle = await loadPaddle((event) => {
         if (event.name === "checkout.completed") {
           setMostrarPremium(false);
-          if (user) setTimeout(() => cargarDatosUsuario(user.id), 2000);
+          setTimeout(() => cargarDatosUsuario(effectiveUser.id), 2000);
         }
       });
       Paddle.Checkout.open({
         items: [{ priceId, quantity: 1 }],
-        customer: { email: user.email },
-        customData: { user_id: user.id },
+        customer: { email: effectiveUser.email },
+        customData: { user_id: effectiveUser.id },
         settings: { locale: currentLang === "es" ? "es" : "en" },
       });
     } catch (e) {
@@ -1066,7 +1078,21 @@ export default function App() {
         t={t}
       />
 
-      {mostrarAuth && <AuthModal onClose={() => setMostrarAuth(false)} onAuthed={() => setMostrarAuth(false)} t={t} />}
+      {mostrarAuth && (
+        <AuthModal
+          pendingCheckoutPlan={pendingCheckoutPlan}
+          onClose={() => { setMostrarAuth(false); setPendingCheckoutPlan(null); }}
+          onAuthed={(authedUser) => {
+            setMostrarAuth(false);
+            if (pendingCheckoutPlan) {
+              const plan = pendingCheckoutPlan;
+              setPendingCheckoutPlan(null);
+              iniciarCheckout(plan, authedUser);
+            }
+          }}
+          t={t}
+        />
+      )}
       {mostrarPremium && (
         <PremiumModal isPremiumUser={isPremiumUser} userPlan={userPlan} cargando={cargandoCheckout} initialTier={premiumTier} initialPeriod={premiumPeriod} onClose={() => setMostrarPremium(false)} onSuscribirse={iniciarCheckout} t={t} />
       )}
