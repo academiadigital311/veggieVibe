@@ -12,6 +12,7 @@
     "@anthropic-ai/sdk": "^0.110.0",
     "@paddle/paddle-node-sdk": "^2.5.0",
     "@supabase/supabase-js": "^2.45.4",
+    "@vercel/analytics": "^1.6.1",
     "i18next": "^23.15.1",
     "i18next-browser-languagedetector": "^8.0.0",
     "lucide-react": "^0.383.0",

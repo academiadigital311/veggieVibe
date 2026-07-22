@@ -5,6 +5,7 @@ import {
   UtensilsCrossed, Plus, Trash2, Check, RotateCcw, Send, Bot, User,
 } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { track } from "@vercel/analytics";
 import { supabase, supabaseConfigured } from "./supabaseClient";
 import { useRecetas, PREMIUM_IDS } from "./data/recetas";
 import { loadPaddle, PADDLE_PRICE_IDS } from "./paddleClient";
@@ -220,6 +221,7 @@ function AuthModal({ onClose, onAuthed, pendingCheckoutPlan, t }) {
       ]);
       setCargando(false);
       if (result.error) { setError(result.error.message); return; }
+      if (modo === "signup") track("signup", { method: "email" });
       onAuthed(result.data.user);
     } catch (err) {
       setCargando(false);
@@ -779,10 +781,12 @@ export default function App() {
     if (!effectiveUser) { setPendingCheckoutPlan(planId); setMostrarAuth(true); return; }
     const priceId = PADDLE_PRICE_IDS[planId];
     if (!priceId) { alert(t("error.paymentGeneric")); return; }
+    track("checkout_started", { plan: planId });
     setCargandoCheckout(true);
     try {
       const Paddle = await loadPaddle((event) => {
         if (event.name === "checkout.completed") {
+          track("checkout_completed", { plan: planId });
           setMostrarPremium(false);
           setTimeout(() => cargarDatosUsuario(effectiveUser.id), 2000);
         }
