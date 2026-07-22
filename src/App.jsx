@@ -724,6 +724,15 @@ export default function App() {
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
+    const recetaParam = params.get("receta");
+    if (recetaParam && RECETAS.length) {
+      const receta = RECETAS.find((r) => String(r.id) === recetaParam);
+      if (receta) setSeleccionada(receta);
+    }
+  }, [RECETAS]);
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
     const premiumParam = params.get("premium");
     const periodParam = params.get("period");
     if (premiumParam === "premium" || premiumParam === "chef") {
@@ -774,6 +783,13 @@ export default function App() {
     if (!user) return;
     setPlanData((prev) => prev.filter((p) => !(p.day_index === dayIdx && p.meal_type === mealType)));
     await supabase.from("meal_plans").delete().eq("user_id", user.id).eq("day_index", dayIdx).eq("meal_type", mealType);
+  };
+
+  const abrirReceta = (receta) => {
+    setSeleccionada(receta);
+    const url = new URL(window.location.href);
+    url.searchParams.set("receta", receta.id);
+    window.history.replaceState({}, "", url);
   };
 
   const iniciarCheckout = async (planId, userOverride) => {
@@ -1050,7 +1066,7 @@ export default function App() {
           ) : (
             <div className="rv-grid">
               {recetasFiltradas.map((r) => (
-                <RecipeCard key={r.id} receta={r} isFav={favoritas.includes(r.id)} isPremiumUser={isPremiumUser} onToggleFav={toggleFav} onOpen={setSeleccionada} t={t} />
+                <RecipeCard key={r.id} receta={r} isFav={favoritas.includes(r.id)} isPremiumUser={isPremiumUser} onToggleFav={toggleFav} onOpen={abrirReceta} t={t} />
               ))}
             </div>
           )}
@@ -1075,7 +1091,7 @@ export default function App() {
         isFav={seleccionada ? favoritas.includes(seleccionada.id) : false}
         isPremiumUser={isPremiumUser}
         onToggleFav={toggleFav}
-        onClose={() => setSeleccionada(null)}
+        onClose={() => { setSeleccionada(null); window.history.replaceState({}, "", window.location.pathname); }}
         onQuierePremium={() => { setSeleccionada(null); setMostrarPremium(true); }}
         onAddToPlan={assignPlan}
         user={user}
