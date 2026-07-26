@@ -87,3 +87,30 @@ create policy "El usuario actualiza su propio plan"
 create policy "El usuario borra de su propio plan"
   on meal_plans for delete
   using (auth.uid() = user_id);
+
+-- Recetas que el usuario guarda del Chef IA.
+-- Se conservan aunque cancele la suscripción: puede seguir leyéndolas,
+-- solo pierde la capacidad de generar nuevas.
+create table if not exists recetas_ia (
+  id uuid primary key default gen_random_uuid(),
+  user_id uuid references auth.users on delete cascade not null,
+  titulo text not null,
+  contenido text not null,
+  created_at timestamp with time zone default now()
+);
+
+create index if not exists recetas_ia_user_idx on recetas_ia (user_id, created_at desc);
+
+alter table recetas_ia enable row level security;
+
+create policy "El usuario ve solo sus propias recetas de IA"
+  on recetas_ia for select
+  using (auth.uid() = user_id);
+
+create policy "El usuario guarda sus propias recetas de IA"
+  on recetas_ia for insert
+  with check (auth.uid() = user_id);
+
+create policy "El usuario borra sus propias recetas de IA"
+  on recetas_ia for delete
+  using (auth.uid() = user_id);

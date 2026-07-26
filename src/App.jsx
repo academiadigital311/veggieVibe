@@ -609,15 +609,76 @@ function ShoppingList({ planData, recetas, t }) {
   );
 }
 
+// Saca un título legible de la receta que devuelve la IA. El prompt le pide
+// empezar con "**Nombre:** ...", pero si el formato cambia caemos en la
+// primera línea con texto, y en último caso en un título genérico.
+function tituloDeRecetaIA(texto, fallback) {
+  const porEtiqueta = texto.match(/\*\*Nombre:?\*\*[:\s]*(.+)/i);
+  if (porEtiqueta) {
+    const limpio = porEtiqueta[1].replace(/[*_#]/g, "").trim();
+    if (limpio) return limpio.slice(0, 120);
+  }
+  const primeraLinea = texto
+    .split("\n")
+    .map((l) => l.replace(/[*_#]/g, "").trim())
+    .find((l) => l.length > 3);
+  return (primeraLinea || fallback).slice(0, 120);
+}
+
 function ChefIA({ user, userPlan, onNeedAuth, onNeedUpgrade, t }) {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
+  const [panel, setPanel] = useState("chat");
+  const [guardadas, setGuardadas] = useState([]);
+  const [cargandoGuardadas, setCargandoGuardadas] = useState(false);
+  const [guardando, setGuardando] = useState(null);
+  const [abierta, setAbierta] = useState(null);
   const chatRef = React.useRef(null);
+
+  const esChef = userPlan === "chef";
 
   useEffect(() => {
     if (chatRef.current) chatRef.current.scrollTop = chatRef.current.scrollHeight;
   }, [messages, loading]);
+
+  const cargarGuardadas = useCallback(async () => {
+    if (!user) return;
+    setCargandoGuardadas(true);
+    const { data } = await supabase
+      .from("recetas_ia")
+      .select("id, titulo, contenido, created_at")
+      .eq("user_id", user.id)
+      .order("created_at", { ascending: false });
+    setGuardadas(data || []);
+    setCargandoGuardadas(false);
+  }, [user]);
+
+  useEffect(() => {
+    if (user) cargarGuardadas();
+  }, [user, cargarGuardadas]);
+
+  const guardarReceta = async (contenido, idx) => {
+    if (!user || guardando !== null) return;
+    setGuardando(idx);
+    const titulo = tituloDeRecetaIA(contenido, t("chef.savedFallbackTitle"));
+    const { data, error } = await supabase
+      .from("recetas_ia")
+      .insert({ user_id: user.id, titulo, contenido })
+      .select("id, titulo, contenido, created_at")
+      .single();
+    if (!error && data) {
+      setGuardadas((prev) => [data, ...prev]);
+      track("ai_recipe_saved");
+    }
+    setGuardando(null);
+  };
+
+  const borrarReceta = async (id) => {
+    setGuardadas((prev) => prev.filter((r) => r.id !== id));
+    if (abierta?.id === id) setAbierta(null);
+    await supabase.from("recetas_ia").delete().eq("id", id);
+  };
 
   if (!user) {
     return (
@@ -627,22 +688,6 @@ function ChefIA({ user, userPlan, onNeedAuth, onNeedUpgrade, t }) {
           <h3 style={{ fontFamily: "'Quicksand',sans-serif", fontSize: 20, fontWeight: 700, margin: "12px 0 6px" }}>{t("chef.title")}</h3>
           <p style={{ color: C.inkSoft, fontSize: 14, margin: "0 0 16px" }}>{t("chef.loginRequired")}</p>
           <button className="rv-upgrade-btn" onClick={onNeedAuth}><LogIn size={15} /> {t("nav.login")}</button>
-        </div>
-      </div>
-    );
-  }
-
-  if (userPlan !== "chef") {
-    return (
-      <div className="rv-chef-section">
-        <div className="rv-chef-gate">
-          <div style={{ width: 56, height: 56, borderRadius: "50%", background: `linear-gradient(135deg, ${C.heroFrom}, ${C.heroTo})`, display: "flex", alignItems: "center", justifyContent: "center" }}>
-            <Bot size={28} color="#fff" />
-          </div>
-          <h3 style={{ fontFamily: "'Quicksand',sans-serif", fontSize: 20, fontWeight: 700, margin: "12px 0 6px" }}>{t("chef.needChef")}</h3>
-          <p style={{ color: C.inkSoft, fontSize: 14, margin: "0 0 6px" }}>{t("chef.needChefDesc")}</p>
-          <p style={{ color: C.inkSoft, fontSize: 13, margin: "0 0 16px" }}>{t("premium.chefMonthly")} {t("plan.perMonth")}</p>
-          <button className="rv-upgrade-btn" onClick={onNeedUpgrade}><Crown size={15} /> {t("chef.upgrade")}</button>
         </div>
       </div>
     );
@@ -675,32 +720,115 @@ function ChefIA({ user, userPlan, onNeedAuth, onNeedUpgrade, t }) {
     }
   };
 
+  const guardadaIds = new Set(guardadas.map((r) => r.contenido));
+
   return (
     <div className="rv-chef-section">
-      <div className="rv-chef-chat">
-        <div className="rv-chef-messages" ref={chatRef}>
-          <div className="rv-chef-msg rv-chef-msg-bot">
-            <div className="rv-chef-avatar"><Bot size={16} color="#fff" /></div>
-            <div className="rv-chef-bubble">{t("chef.welcome")}</div>
+      <div className="rv-chef-panels">
+        <button
+          className={`rv-chef-panel-tab ${panel === "chat" ? "rv-chef-panel-active" : ""}`}
+          onClick={() => setPanel("chat")}
+        >
+          <Bot size={14} /> {t("chef.tabChat")}
+        </button>
+        <button
+          className={`rv-chef-panel-tab ${panel === "guardadas" ? "rv-chef-panel-active" : ""}`}
+          onClick={() => setPanel("guardadas")}
+        >
+          <Heart size={14} /> {t("chef.tabSaved")}
+          {guardadas.length > 0 && <span className="rv-chef-count">{guardadas.length}</span>}
+        </button>
+      </div>
+
+      {panel === "chat" && !esChef && (
+        <div className="rv-chef-gate">
+          <div style={{ width: 56, height: 56, borderRadius: "50%", background: `linear-gradient(135deg, ${C.heroFrom}, ${C.heroTo})`, display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto" }}>
+            <Bot size={28} color="#fff" />
           </div>
-          {messages.map((m, i) => (
-            <div key={i} className={`rv-chef-msg ${m.role === "user" ? "rv-chef-msg-user" : "rv-chef-msg-bot"}`}>
-              <div className="rv-chef-avatar">{m.role === "user" ? <User size={16} color="#fff" /> : <Bot size={16} color="#fff" />}</div>
-              <div className="rv-chef-bubble" style={{ whiteSpace: "pre-wrap" }}>{m.content}</div>
-            </div>
-          ))}
-          {loading && (
-            <div className="rv-chef-msg rv-chef-msg-bot">
-              <div className="rv-chef-avatar"><Bot size={16} color="#fff" /></div>
-              <div className="rv-chef-bubble rv-chef-thinking">{t("chef.thinking")}</div>
-            </div>
+          <h3 style={{ fontFamily: "'Quicksand',sans-serif", fontSize: 20, fontWeight: 700, margin: "12px 0 6px" }}>{t("chef.needChef")}</h3>
+          <p style={{ color: C.inkSoft, fontSize: 14, margin: "0 0 6px" }}>{t("chef.needChefDesc")}</p>
+          <p style={{ color: C.inkSoft, fontSize: 13, margin: "0 0 16px" }}>{t("premium.chefMonthly")} {t("plan.perMonth")}</p>
+          <button className="rv-upgrade-btn" onClick={onNeedUpgrade}><Crown size={15} /> {t("chef.upgrade")}</button>
+          {guardadas.length > 0 && (
+            <p style={{ color: C.inkSoft, fontSize: 12.5, margin: "16px 0 0" }}>{t("chef.savedStillAvailable")}</p>
           )}
         </div>
-        <form className="rv-chef-input-row" onSubmit={(e) => { e.preventDefault(); sendMessage(); }}>
-          <input type="text" value={input} onChange={(e) => setInput(e.target.value)} placeholder={t("chef.placeholder")} className="rv-chef-input" disabled={loading} />
-          <button type="submit" className="rv-chef-send" disabled={loading || !input.trim()}><Send size={18} /></button>
-        </form>
-      </div>
+      )}
+
+      {panel === "chat" && esChef && (
+        <div className="rv-chef-chat">
+          <div className="rv-chef-messages" ref={chatRef}>
+            <div className="rv-chef-msg rv-chef-msg-bot">
+              <div className="rv-chef-avatar"><Bot size={16} color="#fff" /></div>
+              <div className="rv-chef-bubble">{t("chef.welcome")}</div>
+            </div>
+            {messages.map((m, i) => (
+              <div key={i} className={`rv-chef-msg ${m.role === "user" ? "rv-chef-msg-user" : "rv-chef-msg-bot"}`}>
+                <div className="rv-chef-avatar">{m.role === "user" ? <User size={16} color="#fff" /> : <Bot size={16} color="#fff" />}</div>
+                <div>
+                  <div className="rv-chef-bubble" style={{ whiteSpace: "pre-wrap" }}>{m.content}</div>
+                  {m.role === "assistant" && m.content !== t("chef.error") && (
+                    <button
+                      className="rv-chef-save"
+                      onClick={() => guardarReceta(m.content, i)}
+                      disabled={guardando === i || guardadaIds.has(m.content)}
+                    >
+                      <Heart size={12} fill={guardadaIds.has(m.content) ? C.coral : "none"} />
+                      {guardadaIds.has(m.content) ? t("chef.saved") : t("chef.save")}
+                    </button>
+                  )}
+                </div>
+              </div>
+            ))}
+            {loading && (
+              <div className="rv-chef-msg rv-chef-msg-bot">
+                <div className="rv-chef-avatar"><Bot size={16} color="#fff" /></div>
+                <div className="rv-chef-bubble rv-chef-thinking">{t("chef.thinking")}</div>
+              </div>
+            )}
+          </div>
+          <form className="rv-chef-input-row" onSubmit={(e) => { e.preventDefault(); sendMessage(); }}>
+            <input type="text" value={input} onChange={(e) => setInput(e.target.value)} placeholder={t("chef.placeholder")} className="rv-chef-input" disabled={loading} />
+            <button type="submit" className="rv-chef-send" disabled={loading || !input.trim()}><Send size={18} /></button>
+          </form>
+        </div>
+      )}
+
+      {panel === "guardadas" && (
+        <div className="rv-chef-saved-list">
+          {cargandoGuardadas ? (
+            <p style={{ textAlign: "center", color: C.inkSoft, fontSize: 14, padding: 32 }}>{t("chef.loadingSaved")}</p>
+          ) : guardadas.length === 0 ? (
+            <div className="rv-chef-gate">
+              <Heart size={34} color={C.inkSoft} />
+              <p style={{ color: C.inkSoft, fontSize: 14, margin: "12px 0 0" }}>{t("chef.noSaved")}</p>
+            </div>
+          ) : (
+            guardadas.map((r) => (
+              <div key={r.id} className="rv-chef-saved-item">
+                <button className="rv-chef-saved-head" onClick={() => setAbierta(abierta?.id === r.id ? null : r)}>
+                  <div>
+                    <div className="rv-chef-saved-title">{r.titulo}</div>
+                    <div className="rv-chef-saved-date">
+                      {new Date(r.created_at).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" })}
+                    </div>
+                  </div>
+                  <Plus size={16} color={C.inkSoft} style={{ transform: abierta?.id === r.id ? "rotate(45deg)" : "none", transition: "transform .15s" }} />
+                </button>
+                {abierta?.id === r.id && (
+                  <div className="rv-chef-saved-body">
+                    <div style={{ whiteSpace: "pre-wrap", fontSize: 14, lineHeight: 1.55 }}>{r.contenido}</div>
+                    <p className="rv-chef-ai-note">{t("chef.aiDisclaimer")}</p>
+                    <button className="rv-chef-delete" onClick={() => borrarReceta(r.id)}>
+                      <Trash2 size={13} /> {t("chef.deleteSaved")}
+                    </button>
+                  </div>
+                )}
+              </div>
+            ))
+          )}
+        </div>
+      )}
     </div>
   );
 }
@@ -977,6 +1105,21 @@ export default function App() {
         .rv-chef-input:focus { border-color:${C.veganaDark}; }
         .rv-chef-send { width:42px; height:42px; border-radius:50%; background:linear-gradient(135deg, ${C.heroFrom}, ${C.heroTo}); border:none; color:#fff; display:flex; align-items:center; justify-content:center; cursor:pointer; flex-shrink:0; }
         .rv-chef-send:disabled { opacity:0.4; cursor:default; }
+        .rv-chef-panels { display:flex; gap:6px; margin-bottom:14px; }
+        .rv-chef-panel-tab { display:inline-flex; align-items:center; gap:6px; padding:8px 16px; border:1.5px solid ${C.line}; border-radius:999px; background:#fff; font-size:13px; font-weight:600; color:${C.inkSoft}; cursor:pointer; font-family:'Inter',sans-serif; }
+        .rv-chef-panel-active { background:${C.veganaBg}; border-color:${C.veganaDark}; color:${C.veganaDark}; }
+        .rv-chef-count { background:${C.veganaDark}; color:#fff; font-size:10.5px; font-weight:700; border-radius:999px; padding:1px 6px; min-width:18px; text-align:center; }
+        .rv-chef-save { display:inline-flex; align-items:center; gap:5px; margin-top:6px; padding:5px 11px; border:1.5px solid ${C.line}; border-radius:999px; background:#fff; font-size:11.5px; font-weight:700; color:${C.inkSoft}; cursor:pointer; font-family:'Inter',sans-serif; }
+        .rv-chef-save:disabled { opacity:0.75; cursor:default; }
+        .rv-chef-saved-list { display:flex; flex-direction:column; gap:10px; }
+        .rv-chef-saved-item { background:#fff; border:1px solid ${C.line}; border-radius:14px; overflow:hidden; }
+        .rv-chef-saved-head { width:100%; display:flex; align-items:center; justify-content:space-between; gap:12px; padding:14px 16px; background:none; border:none; cursor:pointer; text-align:left; font-family:'Inter',sans-serif; }
+        .rv-chef-saved-title { font-size:14.5px; font-weight:700; color:${C.ink}; line-height:1.3; }
+        .rv-chef-saved-date { font-size:11.5px; color:${C.inkSoft}; margin-top:2px; }
+        .rv-chef-saved-body { padding:0 16px 16px; border-top:1px solid ${C.line}; padding-top:14px; color:${C.ink}; }
+        .rv-chef-ai-note { font-size:11.5px; color:${C.inkSoft}; background:${C.bg}; border-radius:8px; padding:8px 10px; margin:14px 0 0; line-height:1.45; }
+        .rv-chef-delete { display:inline-flex; align-items:center; gap:6px; margin-top:12px; padding:6px 12px; border:1.5px solid ${C.line}; border-radius:999px; background:#fff; font-size:12px; font-weight:600; color:${C.coralDark}; cursor:pointer; font-family:'Inter',sans-serif; }
+        .rv-chef-delete:hover { border-color:${C.coral}; }
         @media (min-width: 800px) {
           .rv-week-meal-text { display:inline; }
         }
