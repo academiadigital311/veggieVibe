@@ -3,6 +3,7 @@ import {
   Heart, X, Leaf, Egg, Flame, Clock, ChefHat, Search, Sparkles,
   Lock, Crown, LogIn, LogOut, Globe, CalendarDays, ShoppingCart,
   UtensilsCrossed, Plus, Trash2, Check, RotateCcw, Send, Bot, User,
+  Share2,
 } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { track } from "@vercel/analytics";
@@ -99,7 +100,36 @@ function RecipeCard({ receta, isFav, isPremiumUser, onToggleFav, onOpen, t }) {
 function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQuierePremium, onAddToPlan, user, t }) {
   const [showPlanPicker, setShowPlanPicker] = useState(false);
   const [addedMsg, setAddedMsg] = useState("");
+  const [sharedMsg, setSharedMsg] = useState("");
   if (!receta) return null;
+
+  const compartir = async () => {
+    const url = `${window.location.origin}/?receta=${receta.id}&utm_source=share&utm_medium=social`;
+
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: `${receta.nombre} — Viridia 🌿`,
+          text: t("modal.shareText", { name: receta.nombre }),
+          url,
+        });
+        track("recipe_shared", { recipe: receta.id, method: "native" });
+      } catch {
+        // el usuario cerró el diálogo de compartir: no es un error
+      }
+      return;
+    }
+
+    try {
+      await navigator.clipboard.writeText(url);
+      track("recipe_shared", { recipe: receta.id, method: "clipboard" });
+      setSharedMsg(t("modal.linkCopied"));
+    } catch {
+      window.prompt(t("modal.copyManually"), url);
+    }
+    setTimeout(() => setSharedMsg(""), 2000);
+  };
+
   const style = DIET_STYLE[receta.tipo];
   const bloqueada = PREMIUM_IDS.has(receta.id) && !isPremiumUser;
   return (
@@ -124,6 +154,9 @@ function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQui
                 <CalendarDays size={13} /> {t("modal.addToPlan")}
               </button>
             )}
+            <button onClick={compartir} className="rv-save-btn" style={{ borderColor: C.line, color: C.inkSoft }}>
+              <Share2 size={13} /> {sharedMsg || t("modal.share")}
+            </button>
           </div>
           {showPlanPicker && (
             <div style={{ marginTop: 12, padding: 12, background: C.veganaBg, borderRadius: 12 }}>
