@@ -104,7 +104,9 @@ function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQui
   if (!receta) return null;
 
   const compartir = async () => {
-    const url = `${window.location.origin}/?receta=${receta.id}&utm_source=share&utm_medium=social`;
+    // /r/:id entrega la vista previa con foto y nombre en WhatsApp y redes,
+    // y desde ahí manda a la persona a la receta dentro de la app.
+    const url = `${window.location.origin}/r/${receta.id}`;
 
     if (navigator.share) {
       try {
