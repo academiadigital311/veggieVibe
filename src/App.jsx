@@ -104,9 +104,11 @@ function RecipeModal({ receta, isFav, isPremiumUser, onToggleFav, onClose, onQui
   if (!receta) return null;
 
   const compartir = async () => {
+    // Siempre el dominio propio, sin importar desde cuál se esté navegando
+    // (p. ej. el antiguo *.vercel.app) — es el que queremos que la gente conozca.
     // /r/:id entrega la vista previa con foto y nombre en WhatsApp y redes,
     // y desde ahí manda a la persona a la receta dentro de la app.
-    const url = `${window.location.origin}/r/${receta.id}`;
+    const url = `https://viridia.site/r/${receta.id}`;
 
     if (navigator.share) {
       try {
