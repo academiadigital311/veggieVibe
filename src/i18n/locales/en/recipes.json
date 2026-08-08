@@ -1700,5 +1700,264 @@
       "breadcrumbs",
       "oven"
     ]
+  },
+  "70": {
+    "nombre": "Bircher Muesli with Apple and Almonds",
+    "ingredientes": [
+      "1 cup rolled oats",
+      "1 cup milk or yogurt",
+      "1 grated apple",
+      "2 tbsp chopped almonds",
+      "2 tbsp shredded coconut",
+      "1 tsp honey",
+      "Sliced apple to garnish"
+    ],
+    "pasos": [
+      "Mix the oats with the milk or yogurt in a jar.",
+      "Add the grated apple, honey, and stir well.",
+      "Cover and refrigerate overnight, at least 6 hours.",
+      "Before serving, top with chopped almonds, shredded coconut and fresh apple slices."
+    ],
+    "tip": "Grate the apple right before mixing it in, don't let it sit peeled. It browns fast and discolors the whole mix.",
+    "tags": [
+      "oats",
+      "apple",
+      "almond",
+      "coconut"
+    ]
+  },
+  "71": {
+    "nombre": "Ricotta Toast with Roasted Tomatoes and Arugula",
+    "ingredientes": [
+      "4 slices artisan bread",
+      "1 cup ricotta cheese",
+      "1 cup cherry tomatoes",
+      "1 cup fresh arugula",
+      "1 cucumber, thinly sliced",
+      "Olive oil, salt and pepper"
+    ],
+    "pasos": [
+      "Roast the cherry tomatoes whole with olive oil at 200 °C / 390 °F for 15 minutes, until they blister a little.",
+      "Toast the bread until golden and crisp.",
+      "Spread a generous layer of ricotta over each toast.",
+      "Arrange the cucumber, roasted tomatoes and arugula on top.",
+      "Finish with olive oil, salt, pepper and chili flakes to taste."
+    ],
+    "tip": "Roast the tomatoes whole, not halved. Blistering under heat concentrates their sweetness inside instead of losing it to the pan.",
+    "tags": [
+      "ricotta",
+      "tomato",
+      "arugula",
+      "cucumber"
+    ]
+  },
+  "72": {
+    "nombre": "Vegetarian Caesar Salad",
+    "ingredientes": [
+      "2 romaine lettuces",
+      "1 cup homemade croutons",
+      "1/2 cup shaved parmesan",
+      "1/3 cup mayonnaise",
+      "2 cloves garlic",
+      "Juice of 1 lemon",
+      "1 tsp dijon mustard"
+    ],
+    "pasos": [
+      "Make the dressing: mix mayonnaise, crushed garlic, lemon juice, mustard and grated parmesan.",
+      "Wash and cut the romaine lettuce into large pieces.",
+      "Toss the lettuce with the dressing until each leaf is well coated.",
+      "Add the croutons right before serving.",
+      "Finish with shaved parmesan on top."
+    ],
+    "tip": "Add the croutons at the end, never before. Mixed into the dressing, they lose their crunch within minutes.",
+    "tags": [
+      "lettuce",
+      "parmesan",
+      "croutons",
+      "dressing"
+    ]
+  },
+  "73": {
+    "nombre": "Pesto Pasta with Cherry Tomatoes",
+    "ingredientes": [
+      "300 g spaghetti",
+      "2 cups fresh basil",
+      "1/2 cup pine nuts or walnuts",
+      "1/2 cup grated parmesan",
+      "1/2 cup olive oil",
+      "2 cloves garlic",
+      "1 cup cherry tomatoes"
+    ],
+    "pasos": [
+      "Blend the basil, pine nuts, garlic, parmesan and olive oil into a smooth paste.",
+      "Cook the spaghetti in salted water until al dente.",
+      "Reserve a bit of the cooking water before draining.",
+      "Toss the hot pasta with the pesto, adding cooking water if needed for creaminess.",
+      "Serve with halved fresh cherry tomatoes and more parmesan."
+    ],
+    "tip": "Never cook the pesto over heat. Direct heat darkens the basil and kills its fresh flavor — always fold it in cold with the already-cooked pasta.",
+    "tags": [
+      "basil",
+      "pesto",
+      "tomato",
+      "parmesan"
+    ]
+  },
+  "74": {
+    "nombre": "Mediterranean Chickpea and Quinoa Bowl",
+    "ingredientes": [
+      "1 cup cooked quinoa",
+      "1 cup spiced roasted chickpeas",
+      "1/2 avocado",
+      "1 cup sautéed kale",
+      "1/4 red onion",
+      "Diced peach or mango",
+      "Chopped pistachios",
+      "Tahini-lemon dressing"
+    ],
+    "pasos": [
+      "Roast the drained chickpeas with cumin and paprika at 200 °C / 390 °F for 20 minutes until crispy.",
+      "Quickly sauté the kale with a little oil and garlic.",
+      "Assemble the bowl: quinoa as the base, then kale, chickpeas, avocado and fruit arranged in sections.",
+      "Sprinkle red onion and chopped pistachios.",
+      "Finish with the tahini-lemon dressing."
+    ],
+    "tip": "Pat the chickpeas very dry with paper towel before roasting. Extra moisture is the only thing standing between you and a crispy result.",
+    "tags": [
+      "quinoa",
+      "chickpea",
+      "avocado",
+      "kale"
+    ]
+  },
+  "75": {
+    "nombre": "Quinoa and Vegetable Stuffed Eggplant",
+    "ingredientes": [
+      "2 large eggplants",
+      "1 cup cooked quinoa",
+      "1/2 cup diced tomato",
+      "1/4 cup chopped onion",
+      "1/2 cup shredded mozzarella",
+      "Fresh parsley",
+      "Olive oil, salt and pepper"
+    ],
+    "pasos": [
+      "Cut the eggplants in half lengthwise and scoop out some of the center flesh, leaving a firm border.",
+      "Chop the scooped flesh and sauté it with the onion and tomato for 5 minutes.",
+      "Mix that sauté with the cooked quinoa.",
+      "Fill the eggplants with the mixture and top with mozzarella.",
+      "Bake at 200 °C / 390 °F for 25-30 minutes, until the eggplant is tender and the cheese golden."
+    ],
+    "tip": "Salt the scooped eggplant flesh and let it sit 10 minutes before filling. It releases the natural bitterness before it ever reaches the oven.",
+    "tags": [
+      "eggplant",
+      "quinoa",
+      "tomato",
+      "mozzarella"
+    ]
+  },
+  "76": {
+    "nombre": "Asparagus Risotto",
+    "ingredientes": [
+      "1 cup arborio rice",
+      "1 bunch asparagus",
+      "4 cups hot vegetable stock",
+      "1/2 cup white wine",
+      "1/2 onion, chopped",
+      "1/2 cup grated parmesan",
+      "2 tbsp butter"
+    ],
+    "pasos": [
+      "Cut the asparagus tips and set aside; chop the rest into small pieces.",
+      "Sauté the onion in butter for 3 minutes, add the rice and toast 2 minutes, stirring.",
+      "Pour in the white wine and let it evaporate.",
+      "Add the hot stock gradually, one ladle at a time, stirring constantly, waiting for it to absorb before adding more.",
+      "Add the chopped asparagus halfway through cooking; add the tips in the last 2 minutes.",
+      "Remove from heat, stir in the parmesan and one more spoon of butter. Stir vigorously for a creamy finish."
+    ],
+    "tip": "The stock must always be hot, never cold. Adding it cold stops the rice from cooking for a moment, leaving the risotto with an uneven texture.",
+    "tags": [
+      "arborio rice",
+      "asparagus",
+      "parmesan",
+      "white wine"
+    ]
+  },
+  "77": {
+    "nombre": "Udon Noodles with Sautéed Vegetables",
+    "ingredientes": [
+      "300 g udon noodles",
+      "1 carrot, in strips",
+      "1 cup purple cabbage, shredded",
+      "1 bell pepper, in strips",
+      "3 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "Spring onion and sesame seeds to serve"
+    ],
+    "pasos": [
+      "Cook the udon noodles per package instructions and drain.",
+      "Sauté the carrot, cabbage and bell pepper in very hot oil for 3-4 minutes, keeping them crisp.",
+      "Add the noodles to the pan with the soy sauce and sesame oil.",
+      "Stir-fry everything together for 2 minutes, mixing well.",
+      "Serve with chopped spring onion and toasted sesame seeds on top."
+    ],
+    "tip": "Sauté the vegetables over very high heat and briefly. That's what keeps them crisp instead of releasing water and going limp.",
+    "tags": [
+      "udon",
+      "carrot",
+      "cabbage",
+      "soy"
+    ]
+  },
+  "78": {
+    "nombre": "Vegan Patatas Bravas",
+    "ingredientes": [
+      "4 large potatoes, cubed",
+      "3 tbsp olive oil",
+      "2 ripe tomatoes",
+      "1 clove garlic",
+      "1 tsp sweet paprika",
+      "1/2 tsp hot paprika",
+      "1 tsp vinegar",
+      "Vegan mayonnaise to serve"
+    ],
+    "pasos": [
+      "Bake the cubed potatoes with olive oil and salt at 220 °C / 425 °F for 30-35 minutes, until golden and crispy.",
+      "For the brava sauce: blend the tomato, garlic, sweet and hot paprika, and vinegar. Cook the mixture 10 minutes until it thickens.",
+      "Serve the hot potatoes drenched in the brava sauce.",
+      "Add a touch of vegan mayonnaise on top."
+    ],
+    "tip": "Bake the potatoes in a single layer, not crowded. Stacked, they steam against each other and never turn crispy.",
+    "tags": [
+      "potato",
+      "tomato",
+      "paprika",
+      "spicy"
+    ]
+  },
+  "79": {
+    "nombre": "Vegetarian Nachos with Cheese and Jalapeños",
+    "ingredientes": [
+      "1 bag corn tortilla chips",
+      "2 cups shredded mozzarella and cheddar",
+      "1 cup black beans",
+      "1/2 cup corn kernels",
+      "Sliced jalapeños",
+      "Guacamole, sour cream and pico de gallo to serve"
+    ],
+    "pasos": [
+      "Preheat the oven to 200 °C / 390 °F.",
+      "Spread the tortilla chips on a baking sheet in a single layer.",
+      "Scatter the cheese, black beans, corn and jalapeños on top.",
+      "Bake 8-10 minutes, until the cheese is fully melted.",
+      "Serve immediately with guacamole, sour cream and pico de gallo."
+    ],
+    "tip": "Spread the chips in a single layer, never piled up. The ones buried underneath never get covered in melted cheese.",
+    "tags": [
+      "tortilla chips",
+      "cheese",
+      "beans",
+      "jalapeno"
+    ]
   }
 }

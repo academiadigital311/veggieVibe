@@ -2183,5 +2183,334 @@
       "Sirve calientes con una ensalada fresca."
     ],
     "tip": "Refrigera las croquetas formadas 20 minutos antes de hornear. Frías, mantienen la forma; recién hechas, se aplanan en el horno."
+  },
+  {
+    "id": 70,
+    "nombre": "Bircher muesli con manzana y almendras",
+    "tipo": "vegetariana",
+    "comida": "desayuno",
+    "tiempo": "10 min",
+    "dificultad": 1,
+    "emoji": "🍎",
+    "imagen": "/recipes/bircher-muesli.png",
+    "tags": [
+      "avena",
+      "manzana",
+      "almendra",
+      "coco"
+    ],
+    "ingredientes": [
+      "1 taza de avena en hojuelas",
+      "1 taza de leche o yogur",
+      "1 manzana rallada",
+      "2 cucharadas de almendras picadas",
+      "2 cucharadas de coco rallado",
+      "1 cucharadita de miel",
+      "Manzana en láminas para decorar"
+    ],
+    "pasos": [
+      "Mezcla la avena con la leche o el yogur en un frasco.",
+      "Agrega la manzana rallada, la miel y revuelve bien.",
+      "Tapa y refrigera toda la noche, mínimo 6 horas.",
+      "Antes de servir, decora con almendras picadas, coco rallado y láminas de manzana fresca."
+    ],
+    "tip": "Ralla la manzana justo antes de mezclarla, no la dejes reposar pelada. Se oxida rápido y le cambia el color a toda la mezcla."
+  },
+  {
+    "id": 71,
+    "nombre": "Tostadas de ricotta con tomates asados y rúgula",
+    "tipo": "vegetariana",
+    "comida": "desayuno",
+    "tiempo": "20 min",
+    "dificultad": 1,
+    "emoji": "🍅",
+    "imagen": "/recipes/ricotta-toast.png",
+    "tags": [
+      "ricotta",
+      "tomate",
+      "rúgula",
+      "pepino"
+    ],
+    "ingredientes": [
+      "4 rebanadas de pan artesanal",
+      "1 taza de queso ricotta",
+      "1 taza de tomates cherry",
+      "1 taza de rúgula fresca",
+      "1 pepino en rodajas finas",
+      "Aceite de oliva, sal y pimienta"
+    ],
+    "pasos": [
+      "Asa los tomates cherry enteros con aceite de oliva a 200 °C por 15 minutos, hasta que revienten un poco.",
+      "Tuesta el pan hasta que esté dorado y crujiente.",
+      "Unta una capa generosa de ricotta sobre cada tostada.",
+      "Acomoda el pepino, los tomates asados y la rúgula encima.",
+      "Termina con aceite de oliva, sal, pimienta y hojuelas de chile al gusto."
+    ],
+    "tip": "Asa los tomates enteros, no en mitades. Al reventar con el calor concentran el dulce por dentro en vez de perderlo en la bandeja."
+  },
+  {
+    "id": 72,
+    "nombre": "Ensalada césar vegetariana",
+    "tipo": "vegetariana",
+    "comida": "almuerzo",
+    "tiempo": "20 min",
+    "dificultad": 1,
+    "emoji": "🥬",
+    "imagen": "https://images.unsplash.com/photo-1746211108786-ca20c8f80ecd?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "lechuga",
+      "parmesano",
+      "crutones",
+      "aderezo"
+    ],
+    "ingredientes": [
+      "2 lechugas romanas",
+      "1 taza de crutones caseros",
+      "1/2 taza de queso parmesano en láminas",
+      "1/3 taza de mayonesa",
+      "2 dientes de ajo",
+      "Jugo de 1 limón",
+      "1 cucharadita de mostaza dijon"
+    ],
+    "pasos": [
+      "Prepara el aderezo: mezcla mayonesa, ajo machacado, jugo de limón, mostaza y parmesano rallado.",
+      "Lava y corta la lechuga romana en trozos grandes.",
+      "Mezcla la lechuga con el aderezo hasta cubrir bien cada hoja.",
+      "Agrega los crutones justo antes de servir.",
+      "Termina con láminas de parmesano encima."
+    ],
+    "tip": "Agrega los crutones al final, nunca antes. Si se mezclan con el aderezo pierden el crujiente en minutos."
+  },
+  {
+    "id": 73,
+    "nombre": "Pasta con pesto y tomates cherry",
+    "tipo": "vegetariana",
+    "comida": "almuerzo",
+    "tiempo": "25 min",
+    "dificultad": 2,
+    "emoji": "🍝",
+    "imagen": "https://images.unsplash.com/photo-1587206668283-c21d974993c3?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "albahaca",
+      "pesto",
+      "tomate",
+      "parmesano"
+    ],
+    "ingredientes": [
+      "300 g de espagueti",
+      "2 tazas de albahaca fresca",
+      "1/2 taza de piñones o nueces",
+      "1/2 taza de queso parmesano rallado",
+      "1/2 taza de aceite de oliva",
+      "2 dientes de ajo",
+      "1 taza de tomates cherry"
+    ],
+    "pasos": [
+      "Licúa la albahaca, los piñones, el ajo, el parmesano y el aceite de oliva hasta lograr una pasta homogénea.",
+      "Cocina el espagueti en agua con sal hasta que esté al dente.",
+      "Reserva un poco del agua de cocción antes de escurrir.",
+      "Mezcla la pasta caliente con el pesto, agregando agua de cocción si hace falta para que quede cremoso.",
+      "Sirve con tomates cherry frescos partidos por la mitad y más parmesano."
+    ],
+    "tip": "Nunca cocines el pesto al fuego. El calor directo oscurece la albahaca y le quita el sabor fresco — se mezcla siempre en frío con la pasta ya cocida."
+  },
+  {
+    "id": 74,
+    "nombre": "Bowl mediterráneo de garbanzos y quinoa",
+    "tipo": "vegana",
+    "comida": "almuerzo",
+    "tiempo": "35 min",
+    "dificultad": 2,
+    "emoji": "🥙",
+    "imagen": "https://images.unsplash.com/photo-1623428186429-e76984bf48ad?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "quinoa",
+      "garbanzo",
+      "aguacate",
+      "kale"
+    ],
+    "ingredientes": [
+      "1 taza de quinoa cocida",
+      "1 taza de garbanzos asados con especias",
+      "1/2 aguacate",
+      "1 taza de kale salteado",
+      "1/4 de cebolla morada",
+      "Duraznos o mango en cubos",
+      "Pistachos picados",
+      "Aderezo de tahini y limón"
+    ],
+    "pasos": [
+      "Asa los garbanzos escurridos con comino y paprika a 200 °C por 20 minutos hasta que estén crujientes.",
+      "Saltea el kale rápido con un poco de aceite y ajo.",
+      "Arma el bowl: quinoa como base, y encima el kale, los garbanzos, el aguacate y la fruta en secciones.",
+      "Espolvorea cebolla morada y pistachos picados.",
+      "Termina con el aderezo de tahini y limón."
+    ],
+    "tip": "Seca muy bien los garbanzos con papel de cocina antes de hornearlos. La humedad extra es lo único que impide que queden crujientes."
+  },
+  {
+    "id": 75,
+    "nombre": "Berenjena rellena de quinoa y vegetales",
+    "tipo": "vegana",
+    "comida": "cena",
+    "tiempo": "45 min",
+    "dificultad": 2,
+    "emoji": "🍆",
+    "imagen": "https://images.unsplash.com/photo-1636044989306-e9fc5eeb118b?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "berenjena",
+      "quinoa",
+      "tomate",
+      "mozzarella"
+    ],
+    "ingredientes": [
+      "2 berenjenas grandes",
+      "1 taza de quinoa cocida",
+      "1/2 taza de tomate en cubos",
+      "1/4 de taza de cebolla picada",
+      "1/2 taza de queso mozzarella rallado",
+      "Perejil fresco",
+      "Aceite de oliva, sal y pimienta"
+    ],
+    "pasos": [
+      "Corta las berenjenas por la mitad a lo largo y retira parte de la pulpa del centro, dejando un borde firme.",
+      "Pica la pulpa retirada y saltéala con la cebolla y el tomate 5 minutos.",
+      "Mezcla ese salteado con la quinoa cocida.",
+      "Rellena las berenjenas con la mezcla y cubre con queso mozzarella.",
+      "Hornea a 200 °C por 25-30 minutos, hasta que la berenjena esté tierna y el queso dorado."
+    ],
+    "tip": "Sala la pulpa de la berenjena y déjala reposar 10 minutos antes de rellenar. Suelta el amargor natural antes de que llegue al horno."
+  },
+  {
+    "id": 76,
+    "nombre": "Risotto de espárragos",
+    "tipo": "vegetariana",
+    "comida": "cena",
+    "tiempo": "40 min",
+    "dificultad": 3,
+    "emoji": "🍚",
+    "imagen": "https://images.unsplash.com/photo-1621341258668-b2bf005a9f97?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "arroz arborio",
+      "espárragos",
+      "parmesano",
+      "vino blanco"
+    ],
+    "ingredientes": [
+      "1 taza de arroz arborio",
+      "1 manojo de espárragos",
+      "4 tazas de caldo de vegetales caliente",
+      "1/2 taza de vino blanco",
+      "1/2 cebolla picada",
+      "1/2 taza de queso parmesano rallado",
+      "2 cucharadas de mantequilla"
+    ],
+    "pasos": [
+      "Corta las puntas de los espárragos y resérvalas; pica el resto en trozos pequeños.",
+      "Sofríe la cebolla en mantequilla 3 minutos, agrega el arroz y tuesta 2 minutos revolviendo.",
+      "Vierte el vino blanco y deja que se evapore.",
+      "Agrega el caldo caliente de a poco, un cucharón a la vez, sin dejar de revolver, esperando a que se absorba antes de agregar más.",
+      "A mitad de cocción agrega los espárragos picados; en los últimos 2 minutos, las puntas.",
+      "Retira del fuego, agrega el parmesano y una cucharada más de mantequilla. Revuelve fuerte para que quede cremoso."
+    ],
+    "tip": "El caldo siempre caliente, nunca frío. Si lo agregas frío, el arroz deja de cocinarse por un momento y el risotto queda con textura desigual."
+  },
+  {
+    "id": 77,
+    "nombre": "Fideos udon con vegetales salteados",
+    "tipo": "vegana",
+    "comida": "cena",
+    "tiempo": "20 min",
+    "dificultad": 1,
+    "emoji": "🍜",
+    "imagen": "https://images.unsplash.com/photo-1558985212-324add95595a?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "udon",
+      "zanahoria",
+      "repollo",
+      "soya"
+    ],
+    "ingredientes": [
+      "300 g de fideos udon",
+      "1 zanahoria en tiras",
+      "1 taza de repollo morado en tiras",
+      "1 pimentón en tiras",
+      "3 cucharadas de salsa de soya",
+      "1 cucharada de aceite de sésamo",
+      "Cebolla larga y ajonjolí para servir"
+    ],
+    "pasos": [
+      "Cocina los fideos udon según las instrucciones del paquete y escurre.",
+      "Saltea la zanahoria, el repollo y el pimentón en aceite bien caliente 3-4 minutos, que queden crujientes.",
+      "Agrega los fideos a la sartén con la salsa de soya y el aceite de sésamo.",
+      "Saltea todo junto 2 minutos, mezclando bien.",
+      "Sirve con cebolla larga picada y ajonjolí tostado por encima."
+    ],
+    "tip": "Saltea los vegetales a fuego muy alto y en poco tiempo. Es lo que los mantiene crujientes en vez de soltar agua y quedar blandos."
+  },
+  {
+    "id": 78,
+    "nombre": "Papas bravas veganas",
+    "tipo": "vegana",
+    "comida": "snack",
+    "tiempo": "40 min",
+    "dificultad": 2,
+    "emoji": "🥔",
+    "imagen": "https://images.unsplash.com/photo-1565599837634-134bc3aadce8?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "papa",
+      "tomate",
+      "pimentón",
+      "picante"
+    ],
+    "ingredientes": [
+      "4 papas grandes en cubos",
+      "3 cucharadas de aceite de oliva",
+      "2 tomates maduros",
+      "1 diente de ajo",
+      "1 cucharadita de pimentón dulce",
+      "1/2 cucharadita de pimentón picante",
+      "1 cucharadita de vinagre",
+      "Mayonesa vegana para servir"
+    ],
+    "pasos": [
+      "Hornea las papas en cubos con aceite de oliva y sal a 220 °C por 30-35 minutos, hasta que estén doradas y crujientes.",
+      "Para la salsa brava: licúa el tomate, el ajo, el pimentón dulce y picante, y el vinagre. Cocina la mezcla 10 minutos hasta que espese.",
+      "Sirve las papas calientes bañadas con la salsa brava.",
+      "Agrega un toque de mayonesa vegana encima."
+    ],
+    "tip": "Hornea las papas en una sola capa, sin amontonar. Si se apilan se cocinan al vapor entre ellas y nunca quedan crujientes."
+  },
+  {
+    "id": 79,
+    "nombre": "Nachos vegetarianos con queso y jalapeños",
+    "tipo": "vegetariana",
+    "comida": "snack",
+    "tiempo": "20 min",
+    "dificultad": 1,
+    "emoji": "🧀",
+    "imagen": "https://images.unsplash.com/photo-1775708856908-aafcf9baa5d0?w=600&h=400&fit=crop&auto=format&q=80",
+    "tags": [
+      "totopos",
+      "queso",
+      "frijoles",
+      "jalapeño"
+    ],
+    "ingredientes": [
+      "1 bolsa de totopos de maíz",
+      "2 tazas de queso mozzarella y cheddar rallados",
+      "1 taza de frijoles negros",
+      "1/2 taza de elote",
+      "Jalapeños en rodajas",
+      "Guacamole, crema y pico de gallo para servir"
+    ],
+    "pasos": [
+      "Precalienta el horno a 200 °C.",
+      "Extiende los totopos en una bandeja para horno en una sola capa.",
+      "Reparte el queso, los frijoles negros, el elote y los jalapeños encima.",
+      "Hornea 8-10 minutos, hasta que el queso se derrita completamente.",
+      "Sirve de inmediato con guacamole, crema y pico de gallo."
+    ],
+    "tip": "Extiende los totopos en una sola capa, nunca amontonados. Los que quedan tapados por otros nunca se cubren de queso derretido."
   }
 ]
