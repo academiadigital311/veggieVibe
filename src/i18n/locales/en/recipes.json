@@ -1959,5 +1959,264 @@
       "beans",
       "jalapeno"
     ]
+  },
+  "80": {
+    "nombre": "Oat and Blueberry Waffles",
+    "ingredientes": [
+      "1 cup oat flour",
+      "1 cup milk",
+      "2 eggs",
+      "1 tsp baking powder",
+      "1 cup fresh blueberries",
+      "Maple syrup",
+      "Sliced almonds"
+    ],
+    "pasos": [
+      "Mix the oat flour with the baking powder.",
+      "Beat the eggs with the milk and add to the dry ingredients, mixing until smooth.",
+      "Fold in half the blueberries gently.",
+      "Cook in the hot waffle iron until golden, 4-5 minutes.",
+      "Serve with the remaining blueberries, maple syrup and almonds."
+    ],
+    "tip": "Don't open the waffle iron before steam stops coming out the sides. That's the sign it has released itself; forcing it open early splits the waffle in half.",
+    "tags": [
+      "oats",
+      "blueberries",
+      "waffle",
+      "maple"
+    ]
+  },
+  "81": {
+    "nombre": "Bagel with Cream Cheese and Cucumber",
+    "ingredientes": [
+      "2 bagels",
+      "1/2 cup cream cheese",
+      "1/2 cucumber, thinly sliced",
+      "Chopped chives",
+      "Sesame and poppy seeds",
+      "Salt and pepper"
+    ],
+    "pasos": [
+      "Toast the halved bagels until golden.",
+      "Spread a generous layer of cream cheese on each half.",
+      "Arrange the cucumber slices on top, overlapping.",
+      "Sprinkle chopped chives, seeds and salt.",
+      "Serve right away, while the bagel is still warm."
+    ],
+    "tip": "Pat the cucumber slices dry with paper towel before adding them. Cucumber releases water and turns the cream cheese soggy if served straight off the cutting board.",
+    "tags": [
+      "bagel",
+      "cream cheese",
+      "cucumber",
+      "sesame"
+    ]
+  },
+  "82": {
+    "nombre": "Waldorf Salad with Spinach and Goat Cheese",
+    "ingredientes": [
+      "4 cups baby spinach",
+      "2 green apples, sliced",
+      "1/2 cup walnuts",
+      "100 g crumbled goat cheese",
+      "1/4 cup pomegranate seeds",
+      "Olive oil and balsamic vinegar"
+    ],
+    "pasos": [
+      "Wash and dry the spinach well.",
+      "Thinly slice the apples right before assembling the salad.",
+      "Toss the spinach with the apples in a large bowl.",
+      "Add the walnuts, goat cheese and pomegranate seeds.",
+      "Dress with olive oil and balsamic vinegar when serving."
+    ],
+    "tip": "Squeeze a little lemon over the apple slices if you're not serving right away. They oxidize and brown within minutes in open air.",
+    "tags": [
+      "spinach",
+      "apple",
+      "walnuts",
+      "goat cheese"
+    ]
+  },
+  "83": {
+    "nombre": "Baked Spinach Empanadas",
+    "ingredientes": [
+      "12 empanada dough discs",
+      "3 cups fresh spinach",
+      "1 onion, chopped",
+      "200 g crumbled feta cheese",
+      "2 cloves garlic",
+      "Nutmeg",
+      "1 egg for brushing"
+    ],
+    "pasos": [
+      "Sauté the onion and garlic for 3 minutes, add the spinach and cook until wilted. Let cool.",
+      "Mix the sautéed spinach with the feta cheese and nutmeg to taste.",
+      "Fill each dough disc with a spoonful of the mixture.",
+      "Seal the empanadas by pressing the edges with a fork.",
+      "Brush with beaten egg and bake at 200 °C / 390 °F for 20-25 minutes, until golden."
+    ],
+    "tip": "Squeeze the cooked spinach well before mixing it with the cheese. Excess water is what makes the dough tear open while baking.",
+    "tags": [
+      "spinach",
+      "feta",
+      "empanada",
+      "oven"
+    ]
+  },
+  "84": {
+    "nombre": "Mac and Cheese",
+    "ingredientes": [
+      "350 g macaroni or shells",
+      "3 cups shredded cheddar cheese",
+      "2 cups milk",
+      "3 tbsp butter",
+      "3 tbsp flour",
+      "Salt, pepper and paprika"
+    ],
+    "pasos": [
+      "Cook the pasta in salted water until al dente. Drain.",
+      "Melt the butter, add the flour and cook 1 minute stirring, without letting it brown.",
+      "Pour in the milk gradually, whisking constantly, until you get a thick, lump-free sauce.",
+      "Remove from heat and add the shredded cheese, stirring until fully melted.",
+      "Toss with the hot pasta and serve right away with a dusting of paprika."
+    ],
+    "tip": "Add the cheese off the heat, never while boiling. Direct heat makes the cheese's fat separate, leaving the sauce oily instead of creamy.",
+    "tags": [
+      "macaroni",
+      "cheddar",
+      "pasta",
+      "creamy"
+    ]
+  },
+  "85": {
+    "nombre": "Homemade Margherita Pizza",
+    "ingredientes": [
+      "1 pizza base (raw dough)",
+      "1/2 cup tomato sauce",
+      "200 g fresh mozzarella, sliced",
+      "Fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt to taste"
+    ],
+    "pasos": [
+      "Preheat the oven to the highest temperature possible, at least 250 °C / 480 °F.",
+      "Stretch the dough thin.",
+      "Spread the tomato sauce, leaving the border clear.",
+      "Distribute the mozzarella slices over the sauce.",
+      "Bake 10-12 minutes, until the crust is golden and bubbly.",
+      "Remove from the oven, add fresh basil leaves and a drizzle of olive oil."
+    ],
+    "tip": "Add the fresh basil after baking, never before. Oven heat wilts it and strips away all its aroma.",
+    "tags": [
+      "pizza",
+      "mozzarella",
+      "basil",
+      "tomato"
+    ]
+  },
+  "86": {
+    "nombre": "Sweet Potato and Chickpea Curry",
+    "ingredientes": [
+      "2 large sweet potatoes, cubed",
+      "1 cup cooked chickpeas",
+      "1 can coconut milk",
+      "2 tbsp yellow curry paste",
+      "1 onion, chopped",
+      "2 cloves garlic",
+      "White rice to serve",
+      "Fresh cilantro"
+    ],
+    "pasos": [
+      "Sauté the onion and garlic for 3 minutes.",
+      "Add the curry paste and cook 1 minute until fragrant.",
+      "Add the sweet potato and sauté 2 more minutes.",
+      "Pour in the coconut milk and cook over medium heat for 20 minutes, until the sweet potato is tender.",
+      "Add the chickpeas in the last 5 minutes.",
+      "Serve over white rice with fresh cilantro on top."
+    ],
+    "tip": "Cut the sweet potato into even 2 cm cubes. Any bigger, and the center stays raw while the outside already falls apart in the curry.",
+    "tags": [
+      "sweet potato",
+      "chickpea",
+      "coconut",
+      "curry"
+    ]
+  },
+  "87": {
+    "nombre": "Mixed Tomato and Pesto Bruschetta",
+    "ingredientes": [
+      "1 baguette",
+      "3 ripe tomatoes, small diced",
+      "1/4 cup basil pesto",
+      "1/2 cup ricotta or mozzarella cheese",
+      "Olive oil",
+      "Garlic and salt"
+    ],
+    "pasos": [
+      "Slice the baguette and toast until golden.",
+      "Rub each toasted slice with a halved garlic clove.",
+      "Mix the diced tomato with salt, olive oil and a little chopped basil.",
+      "Top half the toasts with the tomato mixture, and the other half with pesto and ricotta.",
+      "Serve right away, freshly assembled."
+    ],
+    "tip": "Assemble the bruschetta right before serving, never ahead of time. The toast turns soggy from the tomato and loses its crunch within 10 minutes.",
+    "tags": [
+      "tomato",
+      "pesto",
+      "baguette",
+      "ricotta"
+    ]
+  },
+  "88": {
+    "nombre": "Baked Potato Stuffed with Cheese and Broccoli",
+    "ingredientes": [
+      "4 large potatoes",
+      "2 cups broccoli florets",
+      "1 1/2 cups shredded cheddar cheese",
+      "1/4 cup sour cream",
+      "2 tbsp butter",
+      "Chopped chives"
+    ],
+    "pasos": [
+      "Bake the whole potatoes, pierced with a fork, at 200 °C / 390 °F for 45-50 minutes, until tender inside.",
+      "Steam the broccoli for 5 minutes, keeping it firm.",
+      "Cut each potato in half and scoop out a bit of the center.",
+      "Mix the scooped flesh with butter and sour cream.",
+      "Fill the potatoes with that mixture, top with broccoli and cheddar cheese.",
+      "Return to the oven 10 more minutes, until the cheese melts."
+    ],
+    "tip": "Pierce the whole potato with a fork several times before baking. Skip it, and trapped steam can make it burst inside the oven.",
+    "tags": [
+      "potato",
+      "broccoli",
+      "cheddar",
+      "oven"
+    ]
+  },
+  "89": {
+    "nombre": "Roasted Pumpkin Soup",
+    "ingredientes": [
+      "1 medium pumpkin, cubed",
+      "1 onion",
+      "2 cloves garlic",
+      "4 cups vegetable stock",
+      "1/2 cup coconut milk",
+      "Toasted pumpkin seeds",
+      "Olive oil, salt and pepper"
+    ],
+    "pasos": [
+      "Roast the cubed pumpkin with olive oil at 200 °C / 390 °F for 30 minutes, until tender and golden at the edges.",
+      "Sauté the onion and garlic for 3 minutes in a pot.",
+      "Add the roasted pumpkin and vegetable stock. Cook 10 minutes.",
+      "Blend everything until completely smooth.",
+      "Return to the pot, add the coconut milk and warm through without boiling.",
+      "Serve with toasted pumpkin seeds on top."
+    ],
+    "tip": "Roast the pumpkin instead of boiling it. The oven concentrates its natural sweetness and gives it a much deeper flavor than boiling in water.",
+    "tags": [
+      "pumpkin",
+      "coconut",
+      "soup",
+      "seeds"
+    ]
   }
 }

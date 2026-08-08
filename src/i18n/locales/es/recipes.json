@@ -1959,5 +1959,264 @@
       "frijoles",
       "jalapeño"
     ]
+  },
+  "80": {
+    "nombre": "Waffles de avena y arándanos",
+    "ingredientes": [
+      "1 taza de harina de avena",
+      "1 taza de leche",
+      "2 huevos",
+      "1 cucharadita de polvo de hornear",
+      "1 taza de arándanos frescos",
+      "Miel de maple",
+      "Almendras en láminas"
+    ],
+    "pasos": [
+      "Mezcla la harina de avena con el polvo de hornear.",
+      "Bate los huevos con la leche y agrégalos a los secos, mezclando hasta que no queden grumos.",
+      "Incorpora la mitad de los arándanos a la masa con movimientos suaves.",
+      "Cocina en la waflera caliente hasta que doren, 4-5 minutos.",
+      "Sirve con el resto de los arándanos, miel de maple y almendras."
+    ],
+    "tip": "No abras la waflera antes de que salga vapor por los bordes. Es la señal de que ya se despegó sola; si la fuerzas antes, se parte a la mitad.",
+    "tags": [
+      "avena",
+      "arándanos",
+      "waffle",
+      "miel"
+    ]
+  },
+  "81": {
+    "nombre": "Bagel con queso crema y pepino",
+    "ingredientes": [
+      "2 bagels",
+      "1/2 taza de queso crema",
+      "1/2 pepino en rodajas finas",
+      "Cebollín picado",
+      "Semillas de sésamo y amapola",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Tuesta los bagels partidos por la mitad hasta que doren.",
+      "Unta una capa generosa de queso crema en cada mitad.",
+      "Acomoda las rodajas de pepino encima, superpuestas.",
+      "Espolvorea cebollín picado, semillas y sal.",
+      "Sirve enseguida, mientras el bagel sigue tibio."
+    ],
+    "tip": "Seca las rodajas de pepino con papel de cocina antes de ponerlas. El pepino suelta agua y humedece el queso crema si lo sirves recién cortado.",
+    "tags": [
+      "bagel",
+      "queso crema",
+      "pepino",
+      "sésamo"
+    ]
+  },
+  "82": {
+    "nombre": "Ensalada Waldorf con espinaca y queso de cabra",
+    "ingredientes": [
+      "4 tazas de espinaca baby",
+      "2 manzanas verdes en láminas",
+      "1/2 taza de nueces",
+      "100 g de queso de cabra desmoronado",
+      "1/4 taza de granada",
+      "Aceite de oliva y vinagre balsámico"
+    ],
+    "pasos": [
+      "Lava y seca bien la espinaca.",
+      "Corta las manzanas en láminas finas justo antes de armar la ensalada.",
+      "Mezcla la espinaca con las manzanas en un bowl grande.",
+      "Agrega las nueces, el queso de cabra y los granos de granada.",
+      "Aliña con aceite de oliva y vinagre balsámico al servir."
+    ],
+    "tip": "Rocía las láminas de manzana con un poco de limón si no vas a servir de inmediato. Se oxidan y oscurecen en minutos al aire libre.",
+    "tags": [
+      "espinaca",
+      "manzana",
+      "nueces",
+      "queso de cabra"
+    ]
+  },
+  "83": {
+    "nombre": "Empanadas de espinaca al horno",
+    "ingredientes": [
+      "12 discos de masa para empanadas",
+      "3 tazas de espinaca fresca",
+      "1 cebolla picada",
+      "200 g de queso feta desmoronado",
+      "2 dientes de ajo",
+      "Nuez moscada",
+      "1 huevo para pintar"
+    ],
+    "pasos": [
+      "Saltea la cebolla y el ajo 3 minutos, agrega la espinaca y cocina hasta que se marchite. Deja enfriar.",
+      "Mezcla la espinaca salteada con el queso feta y nuez moscada al gusto.",
+      "Rellena cada disco de masa con una cucharada de la mezcla.",
+      "Cierra las empanadas presionando los bordes con un tenedor.",
+      "Pinta con huevo batido y hornea a 200 °C por 20-25 minutos, hasta dorar."
+    ],
+    "tip": "Exprime bien la espinaca cocida antes de mezclarla con el queso. El exceso de agua es lo que hace que la masa se rompa al hornear.",
+    "tags": [
+      "espinaca",
+      "feta",
+      "empanada",
+      "horno"
+    ]
+  },
+  "84": {
+    "nombre": "Macarrones con queso",
+    "ingredientes": [
+      "350 g de macarrones o conchitas",
+      "3 tazas de queso cheddar rallado",
+      "2 tazas de leche",
+      "3 cucharadas de mantequilla",
+      "3 cucharadas de harina",
+      "Sal, pimienta y pimentón"
+    ],
+    "pasos": [
+      "Cocina la pasta en agua con sal hasta que esté al dente. Escurre.",
+      "Derrite la mantequilla, agrega la harina y cocina 1 minuto revolviendo, sin dejar que dore.",
+      "Vierte la leche de a poco, sin dejar de batir, hasta lograr una salsa espesa y sin grumos.",
+      "Retira del fuego y agrega el queso rallado, revolviendo hasta que se derrita por completo.",
+      "Mezcla con la pasta caliente y sirve enseguida con pimentón espolvoreado."
+    ],
+    "tip": "Agrega el queso fuera del fuego, nunca hirviendo. El calor directo hace que la grasa del queso se separe y la salsa quede aceitosa en vez de cremosa.",
+    "tags": [
+      "macarrones",
+      "queso cheddar",
+      "pasta",
+      "cremoso"
+    ]
+  },
+  "85": {
+    "nombre": "Pizza margarita casera",
+    "ingredientes": [
+      "1 base de pizza (masa cruda)",
+      "1/2 taza de salsa de tomate",
+      "200 g de mozzarella fresca en rodajas",
+      "Hojas de albahaca fresca",
+      "2 cucharadas de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "pasos": [
+      "Precalienta el horno a la temperatura más alta posible, mínimo 250 °C.",
+      "Estira la masa hasta dejarla delgada.",
+      "Extiende la salsa de tomate dejando el borde libre.",
+      "Reparte la mozzarella en rodajas sobre la salsa.",
+      "Hornea 10-12 minutos, hasta que el borde esté dorado y burbujeante.",
+      "Saca del horno, agrega las hojas de albahaca fresca y un hilo de aceite de oliva."
+    ],
+    "tip": "Pon la albahaca fresca después de hornear, nunca antes. El calor del horno la marchita y le quita todo el aroma.",
+    "tags": [
+      "pizza",
+      "mozzarella",
+      "albahaca",
+      "tomate"
+    ]
+  },
+  "86": {
+    "nombre": "Curry de camote y garbanzos",
+    "ingredientes": [
+      "2 camotes grandes en cubos",
+      "1 taza de garbanzos cocidos",
+      "1 lata de leche de coco",
+      "2 cucharadas de pasta de curry amarillo",
+      "1 cebolla picada",
+      "2 dientes de ajo",
+      "Arroz blanco para servir",
+      "Cilantro fresco"
+    ],
+    "pasos": [
+      "Sofríe la cebolla y el ajo 3 minutos.",
+      "Agrega la pasta de curry y cocina 1 minuto hasta que suelte aroma.",
+      "Incorpora el camote y saltea 2 minutos más.",
+      "Vierte la leche de coco y cocina a fuego medio 20 minutos, hasta que el camote esté tierno.",
+      "Agrega los garbanzos los últimos 5 minutos.",
+      "Sirve sobre arroz blanco con cilantro fresco encima."
+    ],
+    "tip": "Corta el camote en cubos parejos de 2 cm. Más grandes, el centro queda crudo mientras el exterior ya se deshace en el curry.",
+    "tags": [
+      "camote",
+      "garbanzo",
+      "coco",
+      "curry"
+    ]
+  },
+  "87": {
+    "nombre": "Bruschetta variada de tomate y pesto",
+    "ingredientes": [
+      "1 baguette",
+      "3 tomates maduros en cubos pequeños",
+      "1/4 taza de pesto de albahaca",
+      "1/2 taza de queso ricotta o mozzarella",
+      "Aceite de oliva",
+      "Ajo y sal"
+    ],
+    "pasos": [
+      "Corta la baguette en rodajas y tuéstalas hasta que doren.",
+      "Frota cada rodaja tostada con un diente de ajo cortado por la mitad.",
+      "Mezcla el tomate en cubos con sal, aceite de oliva y un poco de albahaca picada.",
+      "Cubre la mitad de las tostadas con la mezcla de tomate, y la otra mitad con pesto y ricotta.",
+      "Sirve enseguida, recién armadas."
+    ],
+    "tip": "Arma las bruschettas justo antes de servir, nunca con anticipación. El pan tostado se humedece con el tomate y pierde el crujiente en 10 minutos.",
+    "tags": [
+      "tomate",
+      "pesto",
+      "baguette",
+      "ricotta"
+    ]
+  },
+  "88": {
+    "nombre": "Papa al horno rellena de queso y brócoli",
+    "ingredientes": [
+      "4 papas grandes",
+      "2 tazas de brócoli en floretes",
+      "1 1/2 tazas de queso cheddar rallado",
+      "1/4 taza de crema agria",
+      "2 cucharadas de mantequilla",
+      "Cebollín picado"
+    ],
+    "pasos": [
+      "Hornea las papas enteras, pinchadas con un tenedor, a 200 °C por 45-50 minutos, hasta que estén tiernas por dentro.",
+      "Cocina el brócoli al vapor 5 minutos, que quede firme.",
+      "Corta cada papa por la mitad y ahueca un poco el centro.",
+      "Mezcla la pulpa retirada con mantequilla y crema agria.",
+      "Rellena las papas con esa mezcla, cubre con brócoli y queso cheddar.",
+      "Vuelve al horno 10 minutos más, hasta que el queso se derrita."
+    ],
+    "tip": "Pincha la papa entera con un tenedor antes de hornear, varias veces. Si no dejas salir el vapor, puede reventar dentro del horno.",
+    "tags": [
+      "papa",
+      "brócoli",
+      "cheddar",
+      "horno"
+    ]
+  },
+  "89": {
+    "nombre": "Sopa de calabaza asada",
+    "ingredientes": [
+      "1 calabaza mediana en cubos",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "4 tazas de caldo de vegetales",
+      "1/2 taza de leche de coco",
+      "Semillas de calabaza tostadas",
+      "Aceite de oliva, sal y pimienta"
+    ],
+    "pasos": [
+      "Asa la calabaza en cubos con aceite de oliva a 200 °C por 30 minutos, hasta que esté tierna y dorada en los bordes.",
+      "Sofríe la cebolla y el ajo 3 minutos en una olla.",
+      "Agrega la calabaza asada y el caldo de vegetales. Cocina 10 minutos.",
+      "Licúa todo hasta que quede completamente terso.",
+      "Vuelve a la olla, agrega la leche de coco y calienta sin dejar hervir.",
+      "Sirve con semillas de calabaza tostadas encima."
+    ],
+    "tip": "Asa la calabaza en vez de hervirla. El horno concentra el dulce natural y le da un sabor mucho más profundo que hervida en agua.",
+    "tags": [
+      "calabaza",
+      "coco",
+      "sopa",
+      "semillas"
+    ]
   }
 }
