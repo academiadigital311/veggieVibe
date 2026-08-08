@@ -2218,5 +2218,294 @@
       "sopa",
       "semillas"
     ]
+  },
+  "90": {
+    "nombre": "Avena overnight de chocolate y banano",
+    "ingredientes": [
+      "1 taza de avena en hojuelas",
+      "1 taza de leche de almendras",
+      "2 cucharadas de cacao en polvo",
+      "1 banano maduro",
+      "1 cucharada de miel de agave",
+      "Cacao nibs y mantequilla de maní para decorar"
+    ],
+    "pasos": [
+      "Machaca la mitad del banano hasta hacer puré.",
+      "Mezcla la avena, la leche, el cacao, el puré de banano y el agave en un frasco.",
+      "Revuelve bien hasta que no queden grumos de cacao.",
+      "Tapa y refrigera toda la noche, mínimo 6 horas.",
+      "Sirve con el resto del banano en rodajas, cacao nibs y una cucharada de mantequilla de maní."
+    ],
+    "tip": "Disuelve el cacao en polvo en la leche tibia antes de mezclarlo con la avena fría. En frío directo, el cacao deja grumos que no se deshacen durante el reposo.",
+    "tags": [
+      "avena",
+      "cacao",
+      "banano",
+      "chocolate"
+    ]
+  },
+  "91": {
+    "nombre": "Croissant caprese con pesto",
+    "ingredientes": [
+      "2 croissants",
+      "1 bola de queso mozzarella fresca",
+      "2 tomates maduros en rodajas",
+      "1 puñado de rúgula",
+      "2 cucharadas de pesto de albahaca",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Abre los croissants por la mitad, sin separarlos del todo.",
+      "Unta una capa de pesto en ambas caras internas.",
+      "Rellena con rodajas de tomate y mozzarella alternadas.",
+      "Agrega la rúgula fresca encima.",
+      "Sazona con sal y pimienta y cierra suavemente antes de servir."
+    ],
+    "tip": "Usa el croissant del día, nunca recalentado. Al recalentarlo pierde la capa crujiente que sostiene el relleno sin desarmarse.",
+    "tags": [
+      "croissant",
+      "mozzarella",
+      "tomate",
+      "pesto"
+    ]
+  },
+  "92": {
+    "nombre": "Tortilla española de papas",
+    "ingredientes": [
+      "5 papas medianas",
+      "1 cebolla grande",
+      "6 huevos",
+      "1 taza de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "pasos": [
+      "Pela y corta las papas y la cebolla en láminas finas.",
+      "Fríe las papas y la cebolla en aceite abundante a fuego medio-bajo, 20 minutos, hasta que estén tiernas sin dorar.",
+      "Escurre bien el aceite y mezcla las papas con los huevos batidos y sal.",
+      "Vierte todo en una sartén con un poco de aceite caliente.",
+      "Cocina 4 minutos, da vuelta la tortilla con un plato, y cocina 3 minutos más del otro lado."
+    ],
+    "tip": "Cocina las papas a fuego bajo, casi confitándolas, nunca a fuego alto. Es lo que las deja tiernas por dentro en vez de doradas y crujientes, que es el error más común.",
+    "tags": [
+      "papa",
+      "huevo",
+      "cebolla",
+      "tortilla"
+    ]
+  },
+  "93": {
+    "nombre": "Ensalada de garbanzos y vegetales",
+    "ingredientes": [
+      "2 tazas de garbanzos cocidos",
+      "1 pimentón rojo en cubos",
+      "1 taza de tomate cherry",
+      "1/2 cebolla morada",
+      "1 taza de lechuga romana",
+      "Jugo de 1 limón",
+      "Aceite de oliva y comino"
+    ],
+    "pasos": [
+      "Escurre bien los garbanzos y sécalos con papel de cocina.",
+      "Corta el pimentón, los tomates y la cebolla en trozos pequeños.",
+      "Mezcla los garbanzos con los vegetales y la lechuga en un bowl grande.",
+      "Aliña con jugo de limón, aceite de oliva, comino y sal.",
+      "Deja reposar 5 minutos antes de servir para que los sabores se integren."
+    ],
+    "tip": "Deja reposar la ensalada aliñada 5 minutos antes de comerla. El limón ablanda ligeramente los garbanzos y realza el sabor mucho más que recién mezclada.",
+    "tags": [
+      "garbanzo",
+      "pimentón",
+      "tomate",
+      "limón"
+    ]
+  },
+  "94": {
+    "nombre": "Gratín de coliflor con queso",
+    "ingredientes": [
+      "1 coliflor grande en floretes",
+      "2 tazas de queso gruyere o cheddar rallado",
+      "1 taza de leche",
+      "2 cucharadas de mantequilla",
+      "2 cucharadas de harina",
+      "Nuez moscada",
+      "Perejil fresco picado"
+    ],
+    "pasos": [
+      "Cocina la coliflor al vapor 8 minutos, hasta que esté tierna pero firme.",
+      "Derrite la mantequilla, agrega la harina y cocina 1 minuto.",
+      "Incorpora la leche de a poco batiendo, hasta lograr una salsa espesa.",
+      "Agrega la mitad del queso y la nuez moscada, revolviendo hasta que se derrita.",
+      "Acomoda la coliflor en una fuente, cubre con la salsa y el queso restante.",
+      "Hornea a 200 °C por 15-20 minutos, hasta gratinar."
+    ],
+    "tip": "Cocina la coliflor al vapor, nunca hervida. Hervida absorbe agua y aguada la salsa del gratín; al vapor se mantiene firme y seca.",
+    "tags": [
+      "coliflor",
+      "queso",
+      "gratín",
+      "horno"
+    ]
+  },
+  "95": {
+    "nombre": "Lasaña de calabacín gratinada",
+    "ingredientes": [
+      "4 calabacines grandes, en láminas finas",
+      "2 tazas de salsa de tomate",
+      "2 tazas de queso mozzarella rallado",
+      "1 taza de ricotta",
+      "1 huevo",
+      "Albahaca fresca",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Corta los calabacines en láminas finas a lo largo, con mandolina si tienes.",
+      "Ponlas sobre papel absorbente con sal 15 minutos, para que suelten el exceso de agua.",
+      "Mezcla la ricotta con el huevo y albahaca picada.",
+      "En una fuente, alterna capas: salsa de tomate, calabacín, ricotta, mozzarella. Repite.",
+      "Termina con salsa y mozzarella arriba.",
+      "Hornea a 190 °C por 35-40 minutos, hasta que burbujee y dore."
+    ],
+    "tip": "No te saltes el paso de salar el calabacín y dejarlo reposar. Es lo único que evita que la lasaña quede aguada al hornear.",
+    "tags": [
+      "calabacín",
+      "ricotta",
+      "mozzarella",
+      "tomate"
+    ]
+  },
+  "96": {
+    "nombre": "Sopa cremosa de maíz",
+    "ingredientes": [
+      "4 mazorcas de maíz (o 3 tazas de granos)",
+      "1 papa mediana en cubos",
+      "1 cebolla picada",
+      "4 tazas de caldo de vegetales",
+      "1/2 taza de crema de leche",
+      "Cilantro fresco",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Desgrana el maíz de las mazorcas, reservando algunos granos enteros para decorar.",
+      "Sofríe la cebolla 3 minutos, agrega el maíz y la papa, y cocina 2 minutos más.",
+      "Cubre con el caldo de vegetales y cocina 20 minutos, hasta que la papa esté tierna.",
+      "Licúa hasta que quede cremosa, dejando algo de textura si prefieres.",
+      "Vuelve a la olla, agrega la crema de leche y calienta sin hervir.",
+      "Sirve con los granos de maíz reservados y cilantro fresco."
+    ],
+    "tip": "Guarda algunos granos de maíz enteros antes de licuar la sopa. Le dan textura y hacen que se vea recién hecha, no una sopa de caja.",
+    "tags": [
+      "maíz",
+      "papa",
+      "crema",
+      "sopa"
+    ]
+  },
+  "97": {
+    "nombre": "Palitos de mozzarella empanizados",
+    "ingredientes": [
+      "8 barras de queso mozzarella para freír",
+      "1 taza de harina",
+      "2 huevos batidos",
+      "1 taza de pan rallado",
+      "1 cucharadita de orégano",
+      "Aceite para freír",
+      "Salsa marinara para acompañar"
+    ],
+    "pasos": [
+      "Congela las barras de mozzarella al menos 1 hora antes de empanizar.",
+      "Pasa cada barra por harina, luego por huevo batido, y luego por pan rallado con orégano.",
+      "Repite el paso del huevo y el pan rallado una segunda vez, para un empanizado más grueso.",
+      "Vuelve a congelar 20 minutos antes de freír.",
+      "Fríe en aceite bien caliente 1-2 minutos por lado, hasta dorar.",
+      "Sirve enseguida con salsa marinara caliente."
+    ],
+    "tip": "Congela el queso antes de freír, sin excepción. Si no está bien frío, se derrite y escapa por el empanizado antes de que este dore.",
+    "tags": [
+      "mozzarella",
+      "empanizado",
+      "frito",
+      "marinara"
+    ]
+  },
+  "98": {
+    "nombre": "Ensalada de frutas tropical en coco",
+    "ingredientes": [
+      "1 mango en láminas",
+      "1 banano en rodajas",
+      "1 taza de fresas",
+      "1/2 taza de granola",
+      "Yogur natural o de coco",
+      "Menta fresca",
+      "Jugo de limón"
+    ],
+    "pasos": [
+      "Corta el mango en láminas finas y el banano en rodajas.",
+      "Lava y parte las fresas por la mitad.",
+      "Sirve el yogur como base, en un bowl o media cáscara de coco.",
+      "Acomoda la fruta encima en secciones, por colores.",
+      "Espolvorea granola y decora con hojas de menta fresca.",
+      "Rocía un poco de jugo de limón sobre el banano para que no se oxide."
+    ],
+    "tip": "Corta la fruta justo antes de servir, nunca con horas de anticipación. El mango y el banano pierden textura y color muy rápido una vez cortados.",
+    "tags": [
+      "mango",
+      "banano",
+      "fresa",
+      "granola"
+    ]
+  },
+  "99": {
+    "nombre": "Tarta de manzana casera",
+    "ingredientes": [
+      "1 masa quebrada (para base y tapa)",
+      "6 manzanas verdes en láminas",
+      "1/2 taza de azúcar morena",
+      "1 cucharadita de canela",
+      "2 cucharadas de mantequilla",
+      "1 cucharada de harina",
+      "Jugo de 1/2 limón",
+      "1 huevo para pintar"
+    ],
+    "pasos": [
+      "Mezcla las manzanas con el azúcar, la canela, la harina y el jugo de limón.",
+      "Deja reposar 15 minutos para que suelten un poco de jugo.",
+      "Estira la primera masa y cubre un molde para tarta.",
+      "Rellena con las manzanas, distribuyendo trocitos de mantequilla encima.",
+      "Cubre con la segunda masa, sella los bordes y haz cortes para que salga el vapor.",
+      "Pinta con huevo batido y hornea a 190 °C por 45-50 minutos, hasta dorar."
+    ],
+    "tip": "Deja reposar la manzana con el azúcar 15 minutos antes de rellenar. Si la usas recién cortada, suelta demasiada agua durante el horneado y la base queda húmeda.",
+    "tags": [
+      "manzana",
+      "canela",
+      "masa",
+      "horno"
+    ]
+  },
+  "100": {
+    "nombre": "Smoothie bowl de pitaya",
+    "ingredientes": [
+      "2 paquetes de pulpa de pitaya congelada (200 g)",
+      "1 banano congelado",
+      "1/2 taza de leche de coco",
+      "Fresas en rodajas",
+      "Banano en rodajas",
+      "Granola",
+      "Coco rallado"
+    ],
+    "pasos": [
+      "Deja la pulpa de pitaya 2 minutos a temperatura ambiente para poder romperla en trozos.",
+      "Licúa la pitaya, el banano congelado y la leche de coco con poco líquido, hasta que quede espeso.",
+      "Empuja la mezcla hacia abajo con una espátula si se atasca la licuadora, sin agregar más líquido.",
+      "Sirve en un bowl frío.",
+      "Decora en secciones con fresa, banano, granola y coco rallado."
+    ],
+    "tip": "Usa muy poca leche de coco, casi ninguna. La pitaya congelada ya tiene bastante agua, y si te pasas de líquido el bowl queda como jugo en vez de sostener la fruta encima.",
+    "tags": [
+      "pitaya",
+      "banano",
+      "coco",
+      "granola"
+    ]
   }
 }

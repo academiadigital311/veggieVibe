@@ -2218,5 +2218,294 @@
       "soup",
       "seeds"
     ]
+  },
+  "90": {
+    "nombre": "Chocolate Banana Overnight Oats",
+    "ingredientes": [
+      "1 cup rolled oats",
+      "1 cup almond milk",
+      "2 tbsp cocoa powder",
+      "1 ripe banana",
+      "1 tbsp agave syrup",
+      "Cacao nibs and peanut butter to garnish"
+    ],
+    "pasos": [
+      "Mash half the banana into a puree.",
+      "Mix the oats, milk, cocoa, banana puree and agave in a jar.",
+      "Stir well until no cocoa lumps remain.",
+      "Cover and refrigerate overnight, at least 6 hours.",
+      "Serve with the remaining banana sliced, cacao nibs and a spoonful of peanut butter."
+    ],
+    "tip": "Dissolve the cocoa powder in warm milk before mixing it with the cold oats. Straight into cold liquid, cocoa leaves lumps that never break down overnight.",
+    "tags": [
+      "oats",
+      "cocoa",
+      "banana",
+      "chocolate"
+    ]
+  },
+  "91": {
+    "nombre": "Caprese Croissant with Pesto",
+    "ingredientes": [
+      "2 croissants",
+      "1 ball fresh mozzarella cheese",
+      "2 ripe tomatoes, sliced",
+      "1 handful arugula",
+      "2 tbsp basil pesto",
+      "Salt and pepper"
+    ],
+    "pasos": [
+      "Open the croissants in half, without fully separating them.",
+      "Spread a layer of pesto on both inner sides.",
+      "Fill with alternating slices of tomato and mozzarella.",
+      "Add fresh arugula on top.",
+      "Season with salt and pepper and close gently before serving."
+    ],
+    "tip": "Use same-day croissants, never reheated ones. Reheating breaks down the flaky layer that holds the filling without falling apart.",
+    "tags": [
+      "croissant",
+      "mozzarella",
+      "tomato",
+      "pesto"
+    ]
+  },
+  "92": {
+    "nombre": "Spanish Potato Tortilla",
+    "ingredientes": [
+      "5 medium potatoes",
+      "1 large onion",
+      "6 eggs",
+      "1 cup olive oil",
+      "Salt to taste"
+    ],
+    "pasos": [
+      "Peel and thinly slice the potatoes and onion.",
+      "Fry the potatoes and onion in plenty of oil over medium-low heat, 20 minutes, until tender without browning.",
+      "Drain the oil well and mix the potatoes with the beaten eggs and salt.",
+      "Pour it all into a pan with a little hot oil.",
+      "Cook 4 minutes, flip the tortilla using a plate, and cook 3 more minutes on the other side."
+    ],
+    "tip": "Cook the potatoes over low heat, almost confit-style, never high heat. That's what leaves them tender inside instead of browned and crispy, the most common mistake.",
+    "tags": [
+      "potato",
+      "egg",
+      "onion",
+      "tortilla"
+    ]
+  },
+  "93": {
+    "nombre": "Chickpea and Vegetable Salad",
+    "ingredientes": [
+      "2 cups cooked chickpeas",
+      "1 red bell pepper, diced",
+      "1 cup cherry tomatoes",
+      "1/2 red onion",
+      "1 cup romaine lettuce",
+      "Juice of 1 lemon",
+      "Olive oil and cumin"
+    ],
+    "pasos": [
+      "Drain the chickpeas well and pat dry with paper towel.",
+      "Cut the bell pepper, tomatoes and onion into small pieces.",
+      "Toss the chickpeas with the vegetables and lettuce in a large bowl.",
+      "Dress with lemon juice, olive oil, cumin and salt.",
+      "Let it sit 5 minutes before serving so the flavors come together."
+    ],
+    "tip": "Let the dressed salad rest 5 minutes before eating. The lemon slightly softens the chickpeas and brings out far more flavor than eating it right after mixing.",
+    "tags": [
+      "chickpea",
+      "bell pepper",
+      "tomato",
+      "lemon"
+    ]
+  },
+  "94": {
+    "nombre": "Cauliflower Cheese Gratin",
+    "ingredientes": [
+      "1 large cauliflower, in florets",
+      "2 cups shredded gruyere or cheddar",
+      "1 cup milk",
+      "2 tbsp butter",
+      "2 tbsp flour",
+      "Nutmeg",
+      "Fresh chopped parsley"
+    ],
+    "pasos": [
+      "Steam the cauliflower for 8 minutes, until tender but firm.",
+      "Melt the butter, add the flour and cook 1 minute.",
+      "Whisk in the milk gradually, until you get a thick sauce.",
+      "Add half the cheese and the nutmeg, stirring until melted.",
+      "Arrange the cauliflower in a baking dish, cover with the sauce and remaining cheese.",
+      "Bake at 200 °C / 390 °F for 15-20 minutes, until browned on top."
+    ],
+    "tip": "Steam the cauliflower, never boil it. Boiled, it soaks up water and waters down the gratin sauce; steamed, it stays firm and dry.",
+    "tags": [
+      "cauliflower",
+      "cheese",
+      "gratin",
+      "oven"
+    ]
+  },
+  "95": {
+    "nombre": "Baked Zucchini Lasagna",
+    "ingredientes": [
+      "4 large zucchini, thinly sliced",
+      "2 cups tomato sauce",
+      "2 cups shredded mozzarella",
+      "1 cup ricotta",
+      "1 egg",
+      "Fresh basil",
+      "Salt and pepper"
+    ],
+    "pasos": [
+      "Slice the zucchini thinly lengthwise, with a mandoline if you have one.",
+      "Lay them on paper towel with salt for 15 minutes, to release excess water.",
+      "Mix the ricotta with the egg and chopped basil.",
+      "In a baking dish, layer: tomato sauce, zucchini, ricotta, mozzarella. Repeat.",
+      "Finish with sauce and mozzarella on top.",
+      "Bake at 190 °C / 375 °F for 35-40 minutes, until bubbly and golden."
+    ],
+    "tip": "Don't skip salting the zucchini and letting it rest. It's the only thing standing between you and a watery lasagna after baking.",
+    "tags": [
+      "zucchini",
+      "ricotta",
+      "mozzarella",
+      "tomato"
+    ]
+  },
+  "96": {
+    "nombre": "Creamy Corn Soup",
+    "ingredientes": [
+      "4 ears of corn (or 3 cups kernels)",
+      "1 medium potato, cubed",
+      "1 onion, chopped",
+      "4 cups vegetable stock",
+      "1/2 cup heavy cream",
+      "Fresh cilantro",
+      "Salt and pepper"
+    ],
+    "pasos": [
+      "Cut the kernels off the cobs, saving some whole kernels for garnish.",
+      "Sauté the onion for 3 minutes, add the corn and potato, and cook 2 more minutes.",
+      "Cover with the vegetable stock and cook 20 minutes, until the potato is tender.",
+      "Blend until creamy, leaving some texture if you prefer.",
+      "Return to the pot, add the cream and warm through without boiling.",
+      "Serve with the reserved corn kernels and fresh cilantro."
+    ],
+    "tip": "Save some whole corn kernels before blending the soup. They add texture and make it look freshly made, not like a boxed soup.",
+    "tags": [
+      "corn",
+      "potato",
+      "cream",
+      "soup"
+    ]
+  },
+  "97": {
+    "nombre": "Breaded Mozzarella Sticks",
+    "ingredientes": [
+      "8 mozzarella cheese sticks for frying",
+      "1 cup flour",
+      "2 eggs, beaten",
+      "1 cup breadcrumbs",
+      "1 tsp oregano",
+      "Oil for frying",
+      "Marinara sauce to serve"
+    ],
+    "pasos": [
+      "Freeze the mozzarella sticks at least 1 hour before breading.",
+      "Coat each stick in flour, then beaten egg, then breadcrumbs mixed with oregano.",
+      "Repeat the egg and breadcrumb step a second time, for a thicker coating.",
+      "Freeze again for 20 minutes before frying.",
+      "Fry in very hot oil 1-2 minutes per side, until golden.",
+      "Serve right away with hot marinara sauce."
+    ],
+    "tip": "Freeze the cheese before frying, no exceptions. If it's not properly cold, it melts and escapes through the coating before it browns.",
+    "tags": [
+      "mozzarella",
+      "breaded",
+      "fried",
+      "marinara"
+    ]
+  },
+  "98": {
+    "nombre": "Tropical Fruit Salad in Coconut",
+    "ingredientes": [
+      "1 mango, sliced",
+      "1 banana, sliced",
+      "1 cup strawberries",
+      "1/2 cup granola",
+      "Plain or coconut yogurt",
+      "Fresh mint",
+      "Lemon juice"
+    ],
+    "pasos": [
+      "Slice the mango thinly and the banana into rounds.",
+      "Wash and halve the strawberries.",
+      "Serve the yogurt as a base, in a bowl or half coconut shell.",
+      "Arrange the fruit on top in sections, by color.",
+      "Sprinkle granola and garnish with fresh mint leaves.",
+      "Squeeze a little lemon juice over the banana so it doesn't brown."
+    ],
+    "tip": "Cut the fruit right before serving, never hours ahead. Mango and banana lose texture and color very fast once cut.",
+    "tags": [
+      "mango",
+      "banana",
+      "strawberry",
+      "granola"
+    ]
+  },
+  "99": {
+    "nombre": "Homemade Apple Pie",
+    "ingredientes": [
+      "1 shortcrust pastry (for base and top)",
+      "6 green apples, sliced",
+      "1/2 cup brown sugar",
+      "1 tsp cinnamon",
+      "2 tbsp butter",
+      "1 tbsp flour",
+      "Juice of 1/2 lemon",
+      "1 egg for brushing"
+    ],
+    "pasos": [
+      "Mix the apples with the sugar, cinnamon, flour and lemon juice.",
+      "Let sit 15 minutes so they release a bit of juice.",
+      "Roll out the first pastry and line a pie dish.",
+      "Fill with the apples, dotting butter pieces on top.",
+      "Cover with the second pastry, seal the edges and cut slits for steam to escape.",
+      "Brush with beaten egg and bake at 190 °C / 375 °F for 45-50 minutes, until golden."
+    ],
+    "tip": "Let the apples rest with the sugar for 15 minutes before filling. Used straight off the cutting board, they release too much water during baking and leave the base soggy.",
+    "tags": [
+      "apple",
+      "cinnamon",
+      "pastry",
+      "oven"
+    ]
+  },
+  "100": {
+    "nombre": "Dragon Fruit Smoothie Bowl",
+    "ingredientes": [
+      "2 packs frozen dragon fruit pulp (200 g)",
+      "1 frozen banana",
+      "1/2 cup coconut milk",
+      "Sliced strawberries",
+      "Sliced banana",
+      "Granola",
+      "Shredded coconut"
+    ],
+    "pasos": [
+      "Let the dragon fruit pulp sit 2 minutes at room temperature so you can break it into pieces.",
+      "Blend the dragon fruit, frozen banana and coconut milk with very little liquid, until thick.",
+      "If the blender stalls, push the mix down with a spatula instead of adding more liquid.",
+      "Serve in a chilled bowl.",
+      "Top in sections with strawberry, banana, granola and shredded coconut."
+    ],
+    "tip": "Use very little coconut milk, almost none. Frozen dragon fruit already holds plenty of water, and too much liquid turns the bowl into juice instead of something that holds the toppings up.",
+    "tags": [
+      "dragon fruit",
+      "banana",
+      "coconut",
+      "granola"
+    ]
   }
 }
