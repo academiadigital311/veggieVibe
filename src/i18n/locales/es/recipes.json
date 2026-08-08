@@ -1445,5 +1445,260 @@
       "tomate",
       "pimentón"
     ]
+  },
+  "60": {
+    "nombre": "Huevos rancheros vegetarianos",
+    "ingredientes": [
+      "4 huevos",
+      "4 tortillas de maíz",
+      "1 taza de frijoles negros refritos",
+      "1 taza de salsa roja (tomate, chile, cebolla)",
+      "1/2 taza de queso fresco desmoronado",
+      "Aguacate y cilantro para servir"
+    ],
+    "pasos": [
+      "Calienta los frijoles refritos y unta una capa en cada tortilla tostada.",
+      "Prepara la salsa roja: licúa tomate asado, chile y cebolla, y cocina 10 minutos hasta que espese.",
+      "Fríe los huevos al gusto, con la yema líquida.",
+      "Sirve la tortilla con frijoles, el huevo encima y baña con la salsa roja caliente.",
+      "Corona con queso fresco, aguacate y cilantro."
+    ],
+    "tip": "Tuesta la tortilla directamente sobre la llama unos segundos por lado antes de armar el plato. Le da un sabor ahumado que ninguna sartén logra.",
+    "tags": [
+      "huevo",
+      "frijoles",
+      "tortilla",
+      "salsa"
+    ]
+  },
+  "61": {
+    "nombre": "Pudín de chía con frutos rojos y nueces",
+    "ingredientes": [
+      "4 cucharadas de semillas de chía",
+      "1 taza de leche de almendras",
+      "1 cucharadita de miel de agave",
+      "1/2 taza de arándanos y frutos rojos",
+      "2 cucharadas de granola",
+      "Almendras y nueces al gusto"
+    ],
+    "pasos": [
+      "Mezcla la chía con la leche de almendras y el agave en un frasco.",
+      "Revuelve bien y deja reposar 5 minutos, luego revuelve de nuevo para que no se formen grumos.",
+      "Tapa y refrigera mínimo 4 horas o toda la noche.",
+      "Antes de servir, decora con los frutos rojos, la granola y las nueces."
+    ],
+    "tip": "Revuelve la mezcla dos veces en los primeros 10 minutos de refrigeración. Es el truco para que la chía no se asiente en grumos en el fondo del frasco.",
+    "tags": [
+      "chia",
+      "frutos rojos",
+      "almendra",
+      "granola"
+    ]
+  },
+  "62": {
+    "nombre": "Parfait de yogur y granola en frasco",
+    "ingredientes": [
+      "1 taza de yogur natural griego",
+      "1/2 taza de granola",
+      "1 kiwi en rodajas",
+      "1/2 taza de fresas en cubos",
+      "1 cucharada de miel",
+      "Semillas de girasol"
+    ],
+    "pasos": [
+      "En un frasco, pon una capa de granola en el fondo.",
+      "Agrega una capa de yogur.",
+      "Repite las capas alternando granola, yogur y fruta.",
+      "Termina con la fruta arriba, un hilo de miel y las semillas de girasol.",
+      "Sirve enseguida para que la granola no pierda el crujiente."
+    ],
+    "tip": "Arma el parfait justo antes de servir, no la noche anterior. La granola en contacto con el yogur por horas pierde toda la textura crocante.",
+    "tags": [
+      "yogur",
+      "granola",
+      "kiwi",
+      "fresa"
+    ]
+  },
+  "63": {
+    "nombre": "Ensalada griega con queso feta",
+    "ingredientes": [
+      "3 tomates maduros en trozos",
+      "1 pepino en rodajas",
+      "1/2 cebolla morada en pluma",
+      "1 pimentón verde en tiras",
+      "150 g de queso feta en bloque",
+      "Aceitunas kalamata",
+      "Aceite de oliva, orégano y sal"
+    ],
+    "pasos": [
+      "Corta el tomate, el pepino, la cebolla y el pimentón en trozos grandes y mézclalos en un bowl.",
+      "Agrega las aceitunas kalamata.",
+      "Pon el bloque de queso feta entero encima, sin desmoronarlo.",
+      "Rocía con aceite de oliva generoso, espolvorea orégano seco y sal.",
+      "Sirve con pan pita tibio."
+    ],
+    "tip": "No cortes el queso feta en cubos, ponlo en bloque encima de la ensalada. Así se ve y se sirve en cualquier taberna griega real.",
+    "tags": [
+      "tomate",
+      "pepino",
+      "feta",
+      "aceitunas"
+    ]
+  },
+  "64": {
+    "nombre": "Bowl de falafel con hummus y garbanzos",
+    "ingredientes": [
+      "2 tazas de garbanzos crudos remojados",
+      "1 cebolla pequeña",
+      "3 dientes de ajo",
+      "1 manojo de cilantro y perejil",
+      "1 cucharadita de comino",
+      "1 taza de hummus",
+      "Garbanzos salteados y ensalada fresca para servir"
+    ],
+    "pasos": [
+      "Licúa (sin agua) los garbanzos remojados de un día para otro con la cebolla, el ajo, las hierbas y el comino, hasta lograr una pasta gruesa.",
+      "Forma bolitas y fríelas en aceite caliente 3-4 minutos hasta dorar por fuera.",
+      "Sirve sobre una base de hummus.",
+      "Agrega garbanzos salteados y ensalada fresca alrededor.",
+      "Termina con un hilo de aceite de oliva y un toque de pimentón."
+    ],
+    "tip": "Usa garbanzos crudos remojados, no de lata. Los de lata tienen demasiada agua y las bolitas se desarman al freír.",
+    "tags": [
+      "garbanzo",
+      "falafel",
+      "hummus",
+      "cilantro"
+    ]
+  },
+  "65": {
+    "nombre": "Quesadillas de vegetales",
+    "ingredientes": [
+      "4 tortillas de harina grandes",
+      "2 tazas de queso mozzarella rallado",
+      "1 calabacín en tiras",
+      "1 pimentón rojo en tiras",
+      "1/2 taza de elote",
+      "Guacamole y pico de gallo para servir"
+    ],
+    "pasos": [
+      "Saltea el calabacín, el pimentón y el elote 5 minutos, hasta que estén tiernos pero firmes.",
+      "Extiende queso sobre media tortilla, agrega los vegetales salteados y más queso encima.",
+      "Dobla la tortilla por la mitad.",
+      "Cocina en sartén o comal 2-3 minutos por lado, hasta que el queso se derrita y la tortilla dore.",
+      "Corta en triángulos y sirve con guacamole y pico de gallo."
+    ],
+    "tip": "Pon queso abajo Y arriba de los vegetales, no solo de un lado. Así actúa como pegamento y la quesadilla no se desarma al cortarla.",
+    "tags": [
+      "queso",
+      "calabacín",
+      "pimentón",
+      "tortilla"
+    ]
+  },
+  "66": {
+    "nombre": "Sopa de vegetales de invierno",
+    "ingredientes": [
+      "2 papas en cubos",
+      "2 zanahorias en rodajas",
+      "1 taza de arvejas",
+      "1 nabo o calabaza en cubos",
+      "1 puerro",
+      "6 tazas de caldo de vegetales",
+      "Perejil fresco picado",
+      "Sal y pimienta"
+    ],
+    "pasos": [
+      "Sofríe el puerro picado en un poco de aceite 3 minutos.",
+      "Agrega las papas, zanahorias y el nabo, y cocina 5 minutos más.",
+      "Cubre con el caldo de vegetales y cocina a fuego medio 20 minutos.",
+      "Agrega las arvejas los últimos 5 minutos de cocción.",
+      "Sazona con sal y pimienta, y termina con perejil fresco picado."
+    ],
+    "tip": "Corta todos los vegetales del mismo tamaño. Así se cocinan parejo y no terminas con la papa deshecha mientras la zanahoria sigue dura.",
+    "tags": [
+      "papa",
+      "zanahoria",
+      "arvejas",
+      "caldo"
+    ]
+  },
+  "67": {
+    "nombre": "Curry panang de vegetales",
+    "ingredientes": [
+      "2 cucharadas de pasta de curry panang",
+      "1 lata de leche de coco",
+      "2 tazas de vegetales mixtos (pimentón, zanahoria, ejotes)",
+      "200 g de tofu firme en cubos",
+      "1 cucharada de salsa de soya",
+      "Hojas de albahaca tailandesa",
+      "Arroz jazmín para servir"
+    ],
+    "pasos": [
+      "Dora el tofu en aceite caliente hasta que esté firme por fuera. Reserva.",
+      "En una olla, saltea la pasta de curry en un poco de leche de coco espesa hasta que suelte aroma, 2 minutos.",
+      "Agrega el resto de la leche de coco y los vegetales. Cocina 8 minutos.",
+      "Devuelve el tofu, agrega la salsa de soya y cocina 3 minutos más.",
+      "Termina con hojas de albahaca fresca y sirve con arroz jazmín."
+    ],
+    "tip": "Saltea la pasta de curry en la parte espesa de la leche de coco (la que sube arriba de la lata), no en la líquida. Así se libera todo su aroma antes de aguar la salsa.",
+    "tags": [
+      "curry",
+      "coco",
+      "tofu",
+      "vegetales"
+    ]
+  },
+  "68": {
+    "nombre": "Rollitos vietnamitas frescos de vegetales",
+    "ingredientes": [
+      "8 obleas de papel de arroz",
+      "1 taza de fideos de arroz cocidos",
+      "1 zanahoria en juliana",
+      "1 pepino en juliana",
+      "1 aguacate en tiras",
+      "Hojas de menta y cilantro",
+      "Salsa de maní para acompañar"
+    ],
+    "pasos": [
+      "Remoja cada oblea de papel de arroz en agua tibia 10 segundos, hasta que se ablande.",
+      "Coloca sobre la oblea fideos, zanahoria, pepino, aguacate y las hierbas frescas.",
+      "Dobla los lados y enrolla firme, como un tamal.",
+      "Repite con el resto de las obleas.",
+      "Sirve con salsa de maní para mojar."
+    ],
+    "tip": "No remojes el papel de arroz de más. 10 segundos exactos: se sigue ablandando un poco más mientras lo rellenas, y si lo dejas más tiempo se rompe al enrollar.",
+    "tags": [
+      "papel de arroz",
+      "aguacate",
+      "zanahoria",
+      "menta"
+    ]
+  },
+  "69": {
+    "nombre": "Croquetas de papa al horno",
+    "ingredientes": [
+      "4 papas grandes cocidas y hechas puré",
+      "1/2 taza de queso rallado",
+      "2 cucharadas de cebollín picado",
+      "1 huevo",
+      "1 taza de pan rallado",
+      "Sal, pimienta y nuez moscada"
+    ],
+    "pasos": [
+      "Mezcla el puré de papa con el queso, el cebollín, sal, pimienta y nuez moscada.",
+      "Forma cilindros pequeños con las manos húmedas.",
+      "Pasa cada croqueta por huevo batido y luego por pan rallado.",
+      "Hornea a 200 °C por 20-25 minutos, girándolas a la mitad, hasta que doren parejo.",
+      "Sirve calientes con una ensalada fresca."
+    ],
+    "tip": "Refrigera las croquetas formadas 20 minutos antes de hornear. Frías, mantienen la forma; recién hechas, se aplanan en el horno.",
+    "tags": [
+      "papa",
+      "queso",
+      "pan rallado",
+      "horno"
+    ]
   }
 }

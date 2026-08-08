@@ -1445,5 +1445,260 @@
       "tomato",
       "bell pepper"
     ]
+  },
+  "60": {
+    "nombre": "Vegetarian Huevos Rancheros",
+    "ingredientes": [
+      "4 eggs",
+      "4 corn tortillas",
+      "1 cup refried black beans",
+      "1 cup red salsa (tomato, chile, onion)",
+      "1/2 cup crumbled fresh cheese",
+      "Avocado and cilantro to serve"
+    ],
+    "pasos": [
+      "Warm the refried beans and spread a layer over each toasted tortilla.",
+      "Make the red salsa: blend roasted tomato, chile and onion, and cook 10 minutes until it thickens.",
+      "Fry the eggs to your liking, with a runny yolk.",
+      "Serve the tortilla with beans, the egg on top, and cover with the hot red salsa.",
+      "Finish with fresh cheese, avocado and cilantro."
+    ],
+    "tip": "Toast the tortilla directly over the flame for a few seconds per side before assembling. It gives a smoky flavor no pan can match.",
+    "tags": [
+      "egg",
+      "beans",
+      "tortilla",
+      "salsa"
+    ]
+  },
+  "61": {
+    "nombre": "Chia Pudding with Berries and Nuts",
+    "ingredientes": [
+      "4 tbsp chia seeds",
+      "1 cup almond milk",
+      "1 tsp agave syrup",
+      "1/2 cup blueberries and mixed berries",
+      "2 tbsp granola",
+      "Almonds and walnuts to taste"
+    ],
+    "pasos": [
+      "Mix the chia with the almond milk and agave in a jar.",
+      "Stir well and let sit 5 minutes, then stir again so it doesn't clump.",
+      "Cover and refrigerate at least 4 hours or overnight.",
+      "Before serving, top with the berries, granola and nuts."
+    ],
+    "tip": "Stir the mixture twice within the first 10 minutes of chilling. That's the trick to keep the chia from clumping at the bottom of the jar.",
+    "tags": [
+      "chia",
+      "berries",
+      "almond",
+      "granola"
+    ]
+  },
+  "62": {
+    "nombre": "Yogurt and Granola Jar Parfait",
+    "ingredientes": [
+      "1 cup plain Greek yogurt",
+      "1/2 cup granola",
+      "1 kiwi, sliced",
+      "1/2 cup diced strawberries",
+      "1 tbsp honey",
+      "Sunflower seeds"
+    ],
+    "pasos": [
+      "In a jar, add a layer of granola at the bottom.",
+      "Add a layer of yogurt.",
+      "Repeat the layers alternating granola, yogurt and fruit.",
+      "Finish with fruit on top, a drizzle of honey and the sunflower seeds.",
+      "Serve right away so the granola stays crunchy."
+    ],
+    "tip": "Assemble the parfait right before serving, not the night before. Granola sitting in yogurt for hours loses all its crunch.",
+    "tags": [
+      "yogurt",
+      "granola",
+      "kiwi",
+      "strawberry"
+    ]
+  },
+  "63": {
+    "nombre": "Greek Salad with Feta Cheese",
+    "ingredientes": [
+      "3 ripe tomatoes, chunked",
+      "1 cucumber, sliced",
+      "1/2 red onion, thinly sliced",
+      "1 green bell pepper, in strips",
+      "150 g feta cheese block",
+      "Kalamata olives",
+      "Olive oil, oregano and salt"
+    ],
+    "pasos": [
+      "Cut the tomato, cucumber, onion and pepper into large chunks and toss in a bowl.",
+      "Add the kalamata olives.",
+      "Place the whole feta block on top, without crumbling it.",
+      "Drizzle generously with olive oil, sprinkle dried oregano and salt.",
+      "Serve with warm pita bread."
+    ],
+    "tip": "Don't cube the feta — set the whole block on top of the salad. That's how it's actually plated at any real Greek taverna.",
+    "tags": [
+      "tomato",
+      "cucumber",
+      "feta",
+      "olives"
+    ]
+  },
+  "64": {
+    "nombre": "Falafel Bowl with Hummus and Chickpeas",
+    "ingredientes": [
+      "2 cups raw soaked chickpeas",
+      "1 small onion",
+      "3 cloves garlic",
+      "1 bunch cilantro and parsley",
+      "1 tsp cumin",
+      "1 cup hummus",
+      "Sautéed chickpeas and fresh salad to serve"
+    ],
+    "pasos": [
+      "Blend (no water) the chickpeas soaked overnight with onion, garlic, herbs and cumin, until you get a coarse paste.",
+      "Form small balls and fry in hot oil 3-4 minutes until golden outside.",
+      "Serve over a base of hummus.",
+      "Add sautéed chickpeas and fresh salad around it.",
+      "Finish with a drizzle of olive oil and a touch of paprika."
+    ],
+    "tip": "Use raw soaked chickpeas, not canned. Canned ones hold too much water and the balls fall apart while frying.",
+    "tags": [
+      "chickpea",
+      "falafel",
+      "hummus",
+      "cilantro"
+    ]
+  },
+  "65": {
+    "nombre": "Vegetable Quesadillas",
+    "ingredientes": [
+      "4 large flour tortillas",
+      "2 cups shredded mozzarella",
+      "1 zucchini, in strips",
+      "1 red bell pepper, in strips",
+      "1/2 cup corn kernels",
+      "Guacamole and pico de gallo to serve"
+    ],
+    "pasos": [
+      "Sauté the zucchini, bell pepper and corn for 5 minutes, until tender but firm.",
+      "Spread cheese over half a tortilla, add the sautéed vegetables and more cheese on top.",
+      "Fold the tortilla in half.",
+      "Cook in a pan or griddle 2-3 minutes per side, until the cheese melts and the tortilla browns.",
+      "Cut into triangles and serve with guacamole and pico de gallo."
+    ],
+    "tip": "Put cheese both under AND over the vegetables, not just on one side. It acts as glue so the quesadilla doesn't fall apart when you cut it.",
+    "tags": [
+      "cheese",
+      "zucchini",
+      "bell pepper",
+      "tortilla"
+    ]
+  },
+  "66": {
+    "nombre": "Winter Vegetable Soup",
+    "ingredientes": [
+      "2 potatoes, cubed",
+      "2 carrots, sliced",
+      "1 cup peas",
+      "1 turnip or squash, cubed",
+      "1 leek",
+      "6 cups vegetable stock",
+      "Fresh chopped parsley",
+      "Salt and pepper"
+    ],
+    "pasos": [
+      "Sauté the chopped leek in a bit of oil for 3 minutes.",
+      "Add the potatoes, carrots and turnip, and cook 5 more minutes.",
+      "Cover with the vegetable stock and cook over medium heat for 20 minutes.",
+      "Add the peas in the last 5 minutes of cooking.",
+      "Season with salt and pepper, and finish with fresh chopped parsley."
+    ],
+    "tip": "Cut all the vegetables to the same size. That way they cook evenly and you won't end up with mushy potato while the carrot is still hard.",
+    "tags": [
+      "potato",
+      "carrot",
+      "peas",
+      "stock"
+    ]
+  },
+  "67": {
+    "nombre": "Vegetable Panang Curry",
+    "ingredientes": [
+      "2 tbsp panang curry paste",
+      "1 can coconut milk",
+      "2 cups mixed vegetables (bell pepper, carrot, green beans)",
+      "200 g firm tofu, cubed",
+      "1 tbsp soy sauce",
+      "Thai basil leaves",
+      "Jasmine rice to serve"
+    ],
+    "pasos": [
+      "Brown the tofu in hot oil until firm outside. Set aside.",
+      "In a pot, sauté the curry paste in a bit of the thick coconut cream until fragrant, 2 minutes.",
+      "Add the rest of the coconut milk and the vegetables. Cook 8 minutes.",
+      "Return the tofu, add the soy sauce and cook 3 more minutes.",
+      "Finish with fresh basil leaves and serve with jasmine rice."
+    ],
+    "tip": "Sauté the curry paste in the thick part of the coconut milk (the layer that rises to the top of the can), not the watery part. That's what releases its full aroma before it thins into a sauce.",
+    "tags": [
+      "curry",
+      "coconut",
+      "tofu",
+      "vegetables"
+    ]
+  },
+  "68": {
+    "nombre": "Fresh Vietnamese Vegetable Rolls",
+    "ingredientes": [
+      "8 rice paper wrappers",
+      "1 cup cooked rice noodles",
+      "1 carrot, julienned",
+      "1 cucumber, julienned",
+      "1 avocado, in strips",
+      "Mint and cilantro leaves",
+      "Peanut sauce to serve"
+    ],
+    "pasos": [
+      "Soak each rice paper wrapper in warm water for 10 seconds, until softened.",
+      "Place noodles, carrot, cucumber, avocado and fresh herbs on the wrapper.",
+      "Fold the sides in and roll tightly, like a tamale.",
+      "Repeat with the remaining wrappers.",
+      "Serve with peanut sauce for dipping."
+    ],
+    "tip": "Don't over-soak the rice paper. Exactly 10 seconds — it keeps softening a bit more while you fill it, and it tears when rolled if you leave it longer.",
+    "tags": [
+      "rice paper",
+      "avocado",
+      "carrot",
+      "mint"
+    ]
+  },
+  "69": {
+    "nombre": "Baked Potato Croquettes",
+    "ingredientes": [
+      "4 large potatoes, cooked and mashed",
+      "1/2 cup shredded cheese",
+      "2 tbsp chopped chives",
+      "1 egg",
+      "1 cup breadcrumbs",
+      "Salt, pepper and nutmeg"
+    ],
+    "pasos": [
+      "Mix the mashed potato with the cheese, chives, salt, pepper and nutmeg.",
+      "Shape into small cylinders with damp hands.",
+      "Dip each croquette in beaten egg, then in breadcrumbs.",
+      "Bake at 200 °C / 390 °F for 20-25 minutes, turning halfway, until evenly golden.",
+      "Serve hot with a fresh salad."
+    ],
+    "tip": "Chill the shaped croquettes 20 minutes before baking. Cold, they hold their shape; fresh out of the fridge, they flatten out in the oven.",
+    "tags": [
+      "potato",
+      "cheese",
+      "breadcrumbs",
+      "oven"
+    ]
   }
 }
