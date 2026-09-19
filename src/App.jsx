@@ -1179,7 +1179,7 @@ export default function App() {
 
       <header className="rv-hero">
         <div className="rv-hero-topbar">
-          <div className="rv-hero-badge"><Sparkles size={14} /> {t("hero.badge")}</div>
+          <div className="rv-hero-badge"><Sparkles size={14} /> {t("hero.badge", { total: RECETAS.length, free: RECETAS.length - PREMIUM_IDS.size, premium: PREMIUM_IDS.size })}</div>
           <div style={{ display: "flex", gap: 8 }}>
             <button className="rv-lang-btn" onClick={toggleLang}>
               <Globe size={13} /> {currentLang === "es" ? "EN" : "ES"}
