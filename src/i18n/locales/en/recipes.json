@@ -2507,5 +2507,490 @@
       "coconut",
       "granola"
     ]
+  },
+  "101": {
+    "nombre": "Oat and Banana Pancakes",
+    "ingredientes": [
+      "1 cup ground oats",
+      "2 ripe bananas",
+      "1 cup plant-based milk",
+      "1 tsp baking powder",
+      "1 tsp cinnamon",
+      "Coconut oil for the pan"
+    ],
+    "pasos": [
+      "Blend the oats, banana, plant-based milk, baking powder, and cinnamon until smooth.",
+      "Heat a pan with a little coconut oil over medium heat.",
+      "Pour portions of the batter and cook 2-3 minutes per side, until golden.",
+      "Stack and serve with more sliced banana and maple syrup."
+    ],
+    "tip": "If the batter is too thick, add a splash more plant-based milk: the pancakes should be fluffy, not dense.",
+    "tags": [
+      "oats",
+      "banana",
+      "vegan",
+      "breakfast"
+    ]
+  },
+  "102": {
+    "nombre": "Shakshuka with Feta",
+    "ingredientes": [
+      "4 eggs",
+      "4 chopped ripe tomatoes (or 1 can of crushed tomato)",
+      "1 chopped red bell pepper",
+      "1/2 chopped onion",
+      "2 garlic cloves",
+      "1 tsp cumin and 1 tsp paprika",
+      "Crumbled feta cheese",
+      "Olive oil, salt, and fresh parsley"
+    ],
+    "pasos": [
+      "Sauté the onion and bell pepper in olive oil until soft.",
+      "Add the garlic, cumin, and paprika; cook 1 more minute.",
+      "Add the tomato and simmer 10 minutes over medium-low heat.",
+      "Make small wells in the sauce and crack an egg into each; cover and cook until the whites set.",
+      "Sprinkle with feta and parsley before serving with bread."
+    ],
+    "tip": "Cover the pan at the end: the steam cooks the whites without drying out the yolk.",
+    "tags": [
+      "egg",
+      "tomato",
+      "feta",
+      "breakfast"
+    ]
+  },
+  "103": {
+    "nombre": "Chia Pudding with Mango and Coconut",
+    "ingredientes": [
+      "4 tbsp chia seeds",
+      "1 cup coconut milk",
+      "1 tsp vanilla extract",
+      "1 ripe mango, cubed",
+      "Shredded coconut to garnish",
+      "Agave syrup to taste"
+    ],
+    "pasos": [
+      "Mix the chia seeds with the coconut milk, vanilla, and agave.",
+      "Refrigerate at least 4 hours or overnight, stirring once halfway through.",
+      "Serve in a glass or jar, layering with the cubed mango.",
+      "Garnish with shredded coconut before serving."
+    ],
+    "tip": "Stir the pudding after 15 minutes in the fridge so the chia doesn't settle into clumps.",
+    "tags": [
+      "chia",
+      "mango",
+      "coconut",
+      "vegan"
+    ]
+  },
+  "104": {
+    "nombre": "Arepas Stuffed with Cheese and Avocado",
+    "ingredientes": [
+      "2 cups pre-cooked corn flour",
+      "2 1/2 cups warm water",
+      "1 tsp salt",
+      "Mozzarella or white cheese",
+      "1 avocado, sliced",
+      "Butter to spread"
+    ],
+    "pasos": [
+      "Mix the flour with the salt and warm water until you get a smooth, lump-free dough.",
+      "Shape into balls and flatten into 1 cm thick discs.",
+      "Cook on a griddle or pan 5-7 minutes per side until golden.",
+      "Split each arepa in half and fill with cheese and avocado."
+    ],
+    "tip": "Let the dough rest 5 minutes before shaping the arepas: it's easier to handle and won't crack.",
+    "tags": [
+      "corn",
+      "cheese",
+      "avocado",
+      "breakfast"
+    ]
+  },
+  "105": {
+    "nombre": "Berry Smoothie Bowl",
+    "ingredientes": [
+      "2 cups frozen berries",
+      "1 frozen banana",
+      "1/2 cup plant-based milk",
+      "Granola",
+      "Fresh fruit and seeds to garnish"
+    ],
+    "pasos": [
+      "Blend the berries, banana, and plant-based milk until thick and ice-cream-like.",
+      "Pour into a bowl.",
+      "Top with granola, fresh fruit, and seeds.",
+      "Serve immediately with a spoon."
+    ],
+    "tip": "Use well-frozen fruit and little liquid: this keeps the smoothie thick enough to eat with a spoon, not a straw.",
+    "tags": [
+      "berries",
+      "banana",
+      "vegan",
+      "breakfast"
+    ]
+  },
+  "106": {
+    "nombre": "Chickpea and Spinach Curry",
+    "ingredientes": [
+      "2 cups cooked chickpeas",
+      "3 cups fresh spinach",
+      "1 cup coconut milk",
+      "1/2 chopped onion",
+      "2 garlic cloves and 1 tbsp grated ginger",
+      "2 tbsp curry powder",
+      "Rice to serve"
+    ],
+    "pasos": [
+      "Sauté the onion, garlic, and ginger until fragrant.",
+      "Add the curry powder and cook 30 seconds to wake up the flavor.",
+      "Add the chickpeas and coconut milk, cook 10 minutes.",
+      "Stir in the spinach and cook until wilted.",
+      "Serve hot over rice."
+    ],
+    "tip": "Toast the curry powder in the oil before adding liquids: it intensifies the flavor a lot.",
+    "tags": [
+      "chickpea",
+      "spinach",
+      "curry",
+      "vegan"
+    ]
+  },
+  "107": {
+    "nombre": "Quinoa and Roasted Vegetable Buddha Bowl",
+    "ingredientes": [
+      "1 cup quinoa",
+      "1 sweet potato, cubed",
+      "1 cup broccoli",
+      "1 cup cooked chickpeas",
+      "Sliced avocado",
+      "Tahini, lemon, and water dressing"
+    ],
+    "pasos": [
+      "Cook the quinoa according to package instructions.",
+      "Roast the sweet potato, broccoli, and chickpeas with olive oil and salt at 200°C (400°F) for 20 minutes.",
+      "Build the bowl with quinoa as the base and the roasted vegetables on top.",
+      "Add avocado and drizzle with the tahini dressing."
+    ],
+    "tip": "Season each component separately before assembling the bowl: that way every bite has flavor, not just the final sauce.",
+    "tags": [
+      "quinoa",
+      "sweet potato",
+      "chickpea",
+      "vegan"
+    ]
+  },
+  "108": {
+    "nombre": "Mushroom Risotto",
+    "ingredientes": [
+      "1 1/2 cups arborio rice",
+      "300 g sliced mushrooms",
+      "1 liter hot vegetable broth",
+      "1/2 chopped onion",
+      "1/2 cup white wine (optional)",
+      "Parmesan cheese and butter"
+    ],
+    "pasos": [
+      "Sauté the mushrooms until browned and set aside.",
+      "In the same pot, sauté the onion, add the rice, and toast 2 minutes.",
+      "Add the wine and let it evaporate; then add the hot broth little by little, stirring constantly.",
+      "When the rice is creamy and al dente, stir in the mushrooms, parmesan, and butter."
+    ],
+    "tip": "Add the hot broth one ladle at a time and keep stirring: this releases the rice's starch so the risotto turns creamy without needing any cream.",
+    "tags": [
+      "mushrooms",
+      "rice",
+      "parmesan",
+      "lunch"
+    ]
+  },
+  "109": {
+    "nombre": "Vegetable Lasagna with Ricotta",
+    "ingredientes": [
+      "9 lasagna sheets",
+      "1 zucchini and 1 eggplant, sliced",
+      "2 cups tomato sauce",
+      "250 g ricotta",
+      "200 g shredded mozzarella",
+      "Fresh basil"
+    ],
+    "pasos": [
+      "Grill or sauté the zucchini and eggplant until tender.",
+      "Mix the ricotta with salt, pepper, and chopped basil.",
+      "In a baking dish, layer pasta, tomato sauce, vegetables, and ricotta.",
+      "Top with mozzarella and bake at 190°C (375°F) for 25-30 minutes until golden."
+    ],
+    "tip": "Let the lasagna rest 10 minutes before slicing: it firms up so the layers hold together on the plate.",
+    "tags": [
+      "eggplant",
+      "zucchini",
+      "ricotta",
+      "lunch"
+    ]
+  },
+  "110": {
+    "nombre": "Grilled Eggplant Sandwich with Goat Cheese",
+    "ingredientes": [
+      "1 eggplant, thickly sliced",
+      "Ciabatta or baguette bread",
+      "Goat cheese",
+      "Arugula",
+      "Honey and olive oil"
+    ],
+    "pasos": [
+      "Brush the eggplant slices with olive oil and grill or pan-sear until marked on both sides.",
+      "Lightly toast the bread.",
+      "Spread goat cheese on the bread and add the warm eggplant.",
+      "Add arugula and a drizzle of honey before closing the sandwich."
+    ],
+    "tip": "Salt the eggplant and let it rest 10 minutes before grilling: it releases excess water and turns out firmer and tastier.",
+    "tags": [
+      "eggplant",
+      "goat cheese",
+      "lunch"
+    ]
+  },
+  "111": {
+    "nombre": "Vegan Tofu Pad Thai",
+    "ingredientes": [
+      "200 g rice noodles",
+      "200 g firm tofu, cubed",
+      "2 carrots, julienned",
+      "2 cups bean sprouts",
+      "3 tbsp soy sauce, 2 tbsp tamarind sauce, and 1 tbsp brown sugar",
+      "Chopped peanuts and lime"
+    ],
+    "pasos": [
+      "Soak the rice noodles in hot water according to package instructions.",
+      "Brown the tofu in a wok until crispy outside.",
+      "Add the carrot and stir-fry 2 minutes.",
+      "Add the noodles, sauce mixture, and bean sprouts; stir-fry everything together 3 minutes.",
+      "Serve with chopped peanuts and a squeeze of lime."
+    ],
+    "tip": "Don't over-soak the rice noodles: they should stay firm, since they finish cooking when stir-fried in the wok.",
+    "tags": [
+      "tofu",
+      "rice noodles",
+      "vegan",
+      "dinner"
+    ]
+  },
+  "112": {
+    "nombre": "Meatless Black Bean Chili",
+    "ingredientes": [
+      "2 cups cooked black beans",
+      "1 cup corn",
+      "1 can crushed tomato",
+      "1 chopped bell pepper and 1/2 chopped onion",
+      "2 tbsp chili powder and 1 tsp cumin",
+      "Fresh cilantro to serve"
+    ],
+    "pasos": [
+      "Sauté the onion and bell pepper until soft.",
+      "Add the chili powder and cumin, cook 1 minute.",
+      "Add the crushed tomato, beans, and corn.",
+      "Cook over medium-low heat 20 minutes, stirring occasionally.",
+      "Serve hot with fresh cilantro."
+    ],
+    "tip": "Let the chili rest a few minutes off the heat before serving: the flavors settle and it improves a lot.",
+    "tags": [
+      "black beans",
+      "corn",
+      "vegan",
+      "dinner"
+    ]
+  },
+  "113": {
+    "nombre": "Quinoa-Stuffed Peppers",
+    "ingredientes": [
+      "4 large bell peppers",
+      "1 cup cooked quinoa",
+      "1 cup corn",
+      "1/2 cup black beans",
+      "1 chopped tomato",
+      "Spices: cumin, paprika, salt"
+    ],
+    "pasos": [
+      "Cut the tops off the peppers and remove the seeds.",
+      "Mix the cooked quinoa with the corn, beans, tomato, and spices.",
+      "Fill the peppers with the mixture.",
+      "Bake at 190°C (375°F) for 25-30 minutes until the peppers are tender."
+    ],
+    "tip": "Bake the empty peppers for 5 minutes before filling them: they turn out tender inside without losing their shape.",
+    "tags": [
+      "bell pepper",
+      "quinoa",
+      "vegan",
+      "dinner"
+    ]
+  },
+  "114": {
+    "nombre": "Creamy Mushroom and Spinach Pasta",
+    "ingredientes": [
+      "300 g short pasta",
+      "250 g sliced mushrooms",
+      "2 cups fresh spinach",
+      "1 cup heavy cream or plant-based cream",
+      "2 garlic cloves",
+      "Parmesan cheese"
+    ],
+    "pasos": [
+      "Cook the pasta al dente according to package instructions.",
+      "Sauté the garlic and mushrooms until browned.",
+      "Add the spinach and cook until wilted.",
+      "Stir in the cream and let it thicken 3-4 minutes.",
+      "Toss with the pasta and finish with parmesan."
+    ],
+    "tip": "Save a bit of pasta cooking water: if the sauce turns out too thick, loosen it with a splash for a silky finish.",
+    "tags": [
+      "mushrooms",
+      "spinach",
+      "pasta",
+      "dinner"
+    ]
+  },
+  "115": {
+    "nombre": "Eggplant Parmesan",
+    "ingredientes": [
+      "2 large eggplants, sliced",
+      "2 cups tomato sauce",
+      "200 g mozzarella cheese",
+      "Grated parmesan cheese",
+      "Fresh basil",
+      "Olive oil"
+    ],
+    "pasos": [
+      "Salt the eggplant slices and let them rest 10 minutes; pat dry with paper towel.",
+      "Roast or pan-sear with a little oil until golden on both sides.",
+      "In a baking dish, alternate layers of eggplant, tomato sauce, and mozzarella.",
+      "Sprinkle with parmesan and bake at 190°C (375°F) for 20 minutes until golden.",
+      "Garnish with fresh basil before serving."
+    ],
+    "tip": "Salt and drain the eggplant well before cooking: this keeps the dish from turning watery.",
+    "tags": [
+      "eggplant",
+      "mozzarella",
+      "parmesan",
+      "dinner"
+    ]
+  },
+  "116": {
+    "nombre": "Beet Hummus with Crudités",
+    "ingredientes": [
+      "1 medium cooked beet",
+      "1 1/2 cups cooked chickpeas",
+      "2 tbsp tahini",
+      "1 garlic clove",
+      "Juice of 1 lemon",
+      "Carrot, celery, and cucumber sticks"
+    ],
+    "pasos": [
+      "Blend the beet, chickpeas, tahini, garlic, and lemon juice until smooth.",
+      "Adjust the salt and add a splash of olive oil if it's too thick.",
+      "Serve in a bowl with a drizzle of olive oil.",
+      "Serve with carrot, celery, and cucumber sticks."
+    ],
+    "tip": "Cook the beet with the skin on and peel it afterward: it keeps its color and natural sweetness better.",
+    "tags": [
+      "beet",
+      "chickpea",
+      "tahini",
+      "snack"
+    ]
+  },
+  "117": {
+    "nombre": "Date and Cacao Energy Balls",
+    "ingredientes": [
+      "1 cup pitted dates",
+      "1 cup walnuts or almonds",
+      "2 tbsp cocoa powder",
+      "1 tsp vanilla extract",
+      "Shredded coconut to coat"
+    ],
+    "pasos": [
+      "Process the dates and nuts in a food processor until a sticky mixture forms.",
+      "Add the cocoa and vanilla, process until combined.",
+      "Shape into small balls with your hands.",
+      "Roll each ball in shredded coconut before refrigerating."
+    ],
+    "tip": "If the dates are too dry, soak them in warm water for 10 minutes before processing: the mixture will hold together better.",
+    "tags": [
+      "dates",
+      "cacao",
+      "vegan",
+      "snack"
+    ]
+  },
+  "118": {
+    "nombre": "Vegetarian Nachos with Melted Cheese",
+    "ingredientes": [
+      "1 bag of corn tortilla chips",
+      "1 cup refried beans",
+      "1 cup shredded cheese (mozzarella or cheddar)",
+      "1/2 cup corn",
+      "Chopped tomato, red onion, and cilantro",
+      "Guacamole and sour cream to serve"
+    ],
+    "pasos": [
+      "Spread the tortilla chips on a baking tray.",
+      "Distribute the beans, corn, and shredded cheese on top.",
+      "Bake at 200°C (400°F) for 8-10 minutes until the cheese melts.",
+      "Top with tomato, red onion, and cilantro; serve with guacamole and sour cream."
+    ],
+    "tip": "Bake the chips in a single layer, not piled up: that way they all get melted cheese and don't turn soggy underneath.",
+    "tags": [
+      "tortilla chips",
+      "cheese",
+      "beans",
+      "snack"
+    ]
+  },
+  "119": {
+    "nombre": "Avocado Toast with Poached Egg",
+    "ingredientes": [
+      "2 slices of whole-grain bread",
+      "1 ripe avocado",
+      "2 eggs",
+      "1 tsp white vinegar",
+      "Lemon juice, salt, pepper, and chili flakes"
+    ],
+    "pasos": [
+      "Toast the whole-grain bread.",
+      "Mash the avocado with lemon juice, salt, and pepper; spread on the toast.",
+      "Bring water to a gentle simmer, add the vinegar, and create a whirlpool; slide the egg in and cook 3 minutes.",
+      "Remove the poached egg with a slotted spoon and place it on the avocado toast.",
+      "Sprinkle with chili flakes before serving."
+    ],
+    "tip": "The water whirlpool before adding the egg helps the white wrap around the yolk instead of spreading out.",
+    "tags": [
+      "avocado",
+      "egg",
+      "whole-grain bread",
+      "snack"
+    ]
+  },
+  "120": {
+    "nombre": "Cheese and Spinach Croquettes",
+    "ingredientes": [
+      "2 cups chopped fresh spinach",
+      "1 cup shredded cheese",
+      "1/2 cup breadcrumbs, plus extra for coating",
+      "1 egg",
+      "1 chopped garlic clove",
+      "Oil for frying"
+    ],
+    "pasos": [
+      "Sauté the spinach with the garlic until wilted; drain the excess liquid well.",
+      "Mix the spinach with the cheese, breadcrumbs, and egg until a moldable mixture forms.",
+      "Shape into small croquettes and coat in breadcrumbs.",
+      "Fry in hot oil until golden on all sides, or bake at 200°C (400°F) for 20 minutes."
+    ],
+    "tip": "Drain the spinach very well before mixing: excess water is what makes the croquettes fall apart when frying.",
+    "tags": [
+      "spinach",
+      "cheese",
+      "croquettes",
+      "snack"
+    ]
   }
 }

@@ -3207,5 +3207,630 @@
       "Decora en secciones con fresa, banano, granola y coco rallado."
     ],
     "tip": "Usa muy poca leche de coco, casi ninguna. La pitaya congelada ya tiene bastante agua, y si te pasas de líquido el bowl queda como jugo en vez de sostener la fruta encima."
+  },
+  {
+    "id": 101,
+    "nombre": "Pancakes de avena y banana",
+    "tipo": "vegana",
+    "comida": "desayuno",
+    "dificultad": 1,
+    "tiempo": "15 min",
+    "emoji": "🥞",
+    "imagen": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "1 taza de avena molida",
+      "2 bananas maduras",
+      "1 taza de leche vegetal",
+      "1 cdta de polvo de hornear",
+      "1 cdta de canela",
+      "Aceite de coco para la sartén"
+    ],
+    "pasos": [
+      "Licúa la avena, la banana, la leche vegetal, el polvo de hornear y la canela hasta obtener una mezcla homogénea.",
+      "Calienta una sartén con un poco de aceite de coco a fuego medio.",
+      "Vierte porciones de la mezcla y cocina 2-3 minutos por lado, hasta que se doren.",
+      "Sirve apilados con más banana en rodajas y sirope de arce."
+    ],
+    "tip": "Si la mezcla queda muy espesa, agrega un chorrito más de leche vegetal: los panqueques deben quedar esponjosos, no densos.",
+    "tags": [
+      "avena",
+      "banana",
+      "vegano",
+      "desayuno"
+    ]
+  },
+  {
+    "id": 102,
+    "nombre": "Shakshuka con feta",
+    "tipo": "vegetariana",
+    "comida": "desayuno",
+    "dificultad": 2,
+    "tiempo": "25 min",
+    "emoji": "🍳",
+    "imagen": "https://images.unsplash.com/photo-1590412200988-a436970781fa?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "4 huevos",
+      "4 tomates maduros picados (o 1 lata de tomate triturado)",
+      "1 pimiento rojo picado",
+      "1/2 cebolla picada",
+      "2 dientes de ajo",
+      "1 cdta de comino y 1 cdta de pimentón",
+      "Queso feta desmenuzado",
+      "Aceite de oliva, sal y perejil fresco"
+    ],
+    "pasos": [
+      "Sofríe la cebolla y el pimiento en aceite de oliva hasta ablandar.",
+      "Agrega el ajo, el comino y el pimentón, cocina 1 minuto más.",
+      "Incorpora el tomate y deja reducir 10 minutos a fuego medio-bajo.",
+      "Haz pequeños huecos en la salsa y casca un huevo en cada uno; tapa y cocina hasta que la clara cuaje.",
+      "Espolvorea feta y perejil antes de servir con pan."
+    ],
+    "tip": "Tapa la sartén al final: el vapor cocina la clara sin resecar la yema.",
+    "tags": [
+      "huevo",
+      "tomate",
+      "feta",
+      "desayuno"
+    ]
+  },
+  {
+    "id": 103,
+    "nombre": "Pudín de chía con mango y coco",
+    "tipo": "vegana",
+    "comida": "desayuno",
+    "dificultad": 1,
+    "tiempo": "10 min",
+    "emoji": "🥭",
+    "imagen": "https://images.unsplash.com/photo-1552528352-59648b345866?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "4 cdas de semillas de chía",
+      "1 taza de leche de coco",
+      "1 cdta de esencia de vainilla",
+      "1 mango maduro en cubos",
+      "Coco rallado para decorar",
+      "Miel de agave al gusto"
+    ],
+    "pasos": [
+      "Mezcla la chía con la leche de coco, la vainilla y el agave.",
+      "Refrigera mínimo 4 horas o toda la noche, revolviendo una vez a la mitad.",
+      "Sirve en un vaso o frasco alternando capas con el mango en cubos.",
+      "Decora con coco rallado antes de servir."
+    ],
+    "tip": "Revuelve el pudín a los 15 minutos de refrigeración para que la chía no se asiente en grumos.",
+    "tags": [
+      "chia",
+      "mango",
+      "coco",
+      "vegano"
+    ]
+  },
+  {
+    "id": 104,
+    "nombre": "Arepas rellenas de queso y aguacate",
+    "tipo": "vegetariana",
+    "comida": "desayuno",
+    "dificultad": 2,
+    "tiempo": "30 min",
+    "emoji": "🫓",
+    "imagen": "https://images.unsplash.com/photo-1587603366933-aa6947174c65?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "2 tazas de harina de maíz precocida",
+      "2 y 1/2 tazas de agua tibia",
+      "1 cdta de sal",
+      "Queso mozzarella o queso blanco",
+      "1 aguacate en láminas",
+      "Mantequilla para untar"
+    ],
+    "pasos": [
+      "Mezcla la harina con la sal y el agua tibia hasta formar una masa suave sin grumos.",
+      "Forma bolas y aplánalas en discos de 1 cm de grosor.",
+      "Cocina en un budare o sartén 5-7 minutos por lado hasta dorar.",
+      "Abre cada arepa por la mitad y rellena con queso y aguacate."
+    ],
+    "tip": "Deja reposar la masa 5 minutos antes de formar las arepas: se maneja mejor y no se agrieta.",
+    "tags": [
+      "maiz",
+      "queso",
+      "aguacate",
+      "desayuno"
+    ]
+  },
+  {
+    "id": 105,
+    "nombre": "Smoothie bowl de frutos rojos",
+    "tipo": "vegana",
+    "comida": "desayuno",
+    "dificultad": 1,
+    "tiempo": "10 min",
+    "emoji": "🍓",
+    "imagen": "https://images.unsplash.com/photo-1627308594190-a057cd4bfac8?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "2 tazas de frutos rojos congelados",
+      "1 banana congelada",
+      "1/2 taza de leche vegetal",
+      "Granola",
+      "Frutas frescas y semillas para decorar"
+    ],
+    "pasos": [
+      "Licúa los frutos rojos, la banana y la leche vegetal hasta lograr una textura espesa tipo helado.",
+      "Vierte en un bowl.",
+      "Decora con granola, frutas frescas y semillas.",
+      "Sirve de inmediato con una cuchara."
+    ],
+    "tip": "Usa fruta bien congelada y poco líquido: así el smoothie queda firme y se puede comer con cuchara, no con pitillo.",
+    "tags": [
+      "frutos rojos",
+      "banana",
+      "vegano",
+      "desayuno"
+    ]
+  },
+  {
+    "id": 106,
+    "nombre": "Curry de garbanzos y espinaca",
+    "tipo": "vegana",
+    "comida": "almuerzo",
+    "dificultad": 2,
+    "tiempo": "30 min",
+    "emoji": "🍛",
+    "imagen": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "2 tazas de garbanzos cocidos",
+      "3 tazas de espinaca fresca",
+      "1 taza de leche de coco",
+      "1/2 cebolla picada",
+      "2 dientes de ajo y 1 cda de jengibre rallado",
+      "2 cdas de curry en polvo",
+      "Arroz para acompañar"
+    ],
+    "pasos": [
+      "Sofríe la cebolla, el ajo y el jengibre hasta que estén fragantes.",
+      "Agrega el curry en polvo y cocina 30 segundos para despertar el sabor.",
+      "Incorpora los garbanzos y la leche de coco, cocina 10 minutos.",
+      "Añade la espinaca y cocina hasta que se marchite.",
+      "Sirve caliente sobre arroz."
+    ],
+    "tip": "Tuesta el curry en polvo en el aceite antes de agregar líquidos: intensifica muchísimo el sabor.",
+    "tags": [
+      "garbanzo",
+      "espinaca",
+      "curry",
+      "vegano"
+    ]
+  },
+  {
+    "id": 107,
+    "nombre": "Buddha bowl de quinoa y vegetales asados",
+    "tipo": "vegana",
+    "comida": "almuerzo",
+    "dificultad": 2,
+    "tiempo": "35 min",
+    "emoji": "🥗",
+    "imagen": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "1 taza de quinoa",
+      "1 batata en cubos",
+      "1 taza de brócoli",
+      "1 taza de garbanzos cocidos",
+      "Aguacate en láminas",
+      "Aderezo de tahini, limón y agua"
+    ],
+    "pasos": [
+      "Cocina la quinoa según las instrucciones del paquete.",
+      "Asa la batata, el brócoli y los garbanzos con aceite de oliva y sal a 200°C por 20 minutos.",
+      "Arma el bowl con la quinoa como base y los vegetales asados encima.",
+      "Agrega aguacate y baña con el aderezo de tahini."
+    ],
+    "tip": "Sazona cada componente por separado antes de armar el bowl: así cada bocado tiene sabor, no solo la salsa final.",
+    "tags": [
+      "quinoa",
+      "batata",
+      "garbanzo",
+      "vegano"
+    ]
+  },
+  {
+    "id": 108,
+    "nombre": "Risotto de champiñones",
+    "tipo": "vegetariana",
+    "comida": "almuerzo",
+    "dificultad": 3,
+    "tiempo": "40 min",
+    "emoji": "🍄",
+    "imagen": "https://images.unsplash.com/photo-1609770424775-39ec362f2d94?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "1 y 1/2 taza de arroz arborio",
+      "300 g de champiñones laminados",
+      "1 litro de caldo de vegetales caliente",
+      "1/2 cebolla picada",
+      "1/2 taza de vino blanco (opcional)",
+      "Queso parmesano y mantequilla"
+    ],
+    "pasos": [
+      "Sofríe los champiñones hasta dorar y reserva.",
+      "En la misma olla, sofríe la cebolla, agrega el arroz y tuesta 2 minutos.",
+      "Añade el vino y deja evaporar; luego incorpora el caldo caliente de a poco, revolviendo constantemente.",
+      "Cuando el arroz esté cremoso y al dente, mezcla los champiñones, el parmesano y la mantequilla."
+    ],
+    "tip": "Agrega el caldo caliente de a un cucharón y no dejes de revolver: así el almidón del arroz suelta y el risotto queda cremoso sin necesidad de crema.",
+    "tags": [
+      "champiñones",
+      "arroz",
+      "parmesano",
+      "almuerzo"
+    ]
+  },
+  {
+    "id": 109,
+    "nombre": "Lasaña de vegetales con ricotta",
+    "tipo": "vegetariana",
+    "comida": "almuerzo",
+    "dificultad": 3,
+    "tiempo": "50 min",
+    "emoji": "🍆",
+    "imagen": "https://images.unsplash.com/photo-1586197138382-e1d1479fbb14?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "9 láminas de pasta para lasaña",
+      "1 calabacín y 1 berenjena en láminas",
+      "2 tazas de salsa de tomate",
+      "250 g de ricotta",
+      "200 g de queso mozzarella rallado",
+      "Albahaca fresca"
+    ],
+    "pasos": [
+      "Asa o saltea el calabacín y la berenjena hasta que estén tiernos.",
+      "Mezcla la ricotta con sal, pimienta y albahaca picada.",
+      "En un molde, arma capas alternando pasta, salsa de tomate, vegetales y ricotta.",
+      "Termina con mozzarella y hornea a 190°C por 25-30 minutos hasta gratinar."
+    ],
+    "tip": "Deja reposar la lasaña 10 minutos antes de cortarla: se afirma y las capas no se desarman en el plato.",
+    "tags": [
+      "berenjena",
+      "calabacin",
+      "ricotta",
+      "almuerzo"
+    ]
+  },
+  {
+    "id": 110,
+    "nombre": "Sándwich de berenjena a la parrilla con queso de cabra",
+    "tipo": "vegetariana",
+    "comida": "almuerzo",
+    "dificultad": 1,
+    "tiempo": "20 min",
+    "emoji": "🥪",
+    "imagen": "https://images.unsplash.com/photo-1655279562015-047c3da9a271?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "1 berenjena en láminas gruesas",
+      "Pan ciabatta o baguette",
+      "Queso de cabra",
+      "Rúcula",
+      "Miel y aceite de oliva"
+    ],
+    "pasos": [
+      "Pincela las láminas de berenjena con aceite de oliva y ásalas en parrilla o sartén hasta marcar por ambos lados.",
+      "Tuesta el pan ligeramente.",
+      "Unta queso de cabra en el pan y agrega la berenjena caliente.",
+      "Añade rúcula y un hilo de miel antes de cerrar el sándwich."
+    ],
+    "tip": "Sala la berenjena y déjala reposar 10 minutos antes de asarla: suelta el exceso de agua y queda más firme y sabrosa.",
+    "tags": [
+      "berenjena",
+      "queso de cabra",
+      "almuerzo"
+    ]
+  },
+  {
+    "id": 111,
+    "nombre": "Pad thai vegano de tofu",
+    "tipo": "vegana",
+    "comida": "cena",
+    "dificultad": 2,
+    "tiempo": "25 min",
+    "emoji": "🍜",
+    "imagen": "https://images.unsplash.com/photo-1637806930600-37fa8892069d?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "200 g de fideos de arroz",
+      "200 g de tofu firme en cubos",
+      "2 zanahorias en tiras",
+      "2 tazas de brotes de soya",
+      "3 cdas de salsa de soya, 2 de salsa de tamarindo y 1 de azúcar morena",
+      "Maní picado y limón"
+    ],
+    "pasos": [
+      "Remoja los fideos de arroz en agua caliente según las instrucciones del paquete.",
+      "Dora el tofu en un wok hasta que esté crujiente por fuera.",
+      "Agrega la zanahoria y saltea 2 minutos.",
+      "Incorpora los fideos, la mezcla de salsas y los brotes de soya; saltea todo junto 3 minutos.",
+      "Sirve con maní picado y un toque de limón."
+    ],
+    "tip": "No remojes de más los fideos de arroz: deben quedar firmes, porque terminan de cocinarse al saltearlos en el wok.",
+    "tags": [
+      "tofu",
+      "fideos de arroz",
+      "vegano",
+      "cena"
+    ]
+  },
+  {
+    "id": 112,
+    "nombre": "Chili sin carne con frijoles negros",
+    "tipo": "vegana",
+    "comida": "cena",
+    "dificultad": 2,
+    "tiempo": "35 min",
+    "emoji": "🌶️",
+    "imagen": "https://images.unsplash.com/photo-1638329389022-daef2efb71b3?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "2 tazas de frijoles negros cocidos",
+      "1 taza de maíz",
+      "1 lata de tomate triturado",
+      "1 pimiento y 1/2 cebolla picados",
+      "2 cdas de chili en polvo y 1 cdta de comino",
+      "Cilantro fresco para servir"
+    ],
+    "pasos": [
+      "Sofríe la cebolla y el pimiento hasta ablandar.",
+      "Agrega el chili en polvo y el comino, cocina 1 minuto.",
+      "Incorpora el tomate triturado, los frijoles y el maíz.",
+      "Cocina a fuego medio-bajo 20 minutos, revolviendo de vez en cuando.",
+      "Sirve caliente con cilantro fresco."
+    ],
+    "tip": "Deja el chili reposar unos minutos fuera del fuego antes de servir: los sabores se asientan y mejora mucho.",
+    "tags": [
+      "frijoles negros",
+      "maiz",
+      "vegano",
+      "cena"
+    ]
+  },
+  {
+    "id": 113,
+    "nombre": "Pimientos rellenos de quinoa",
+    "tipo": "vegana",
+    "comida": "cena",
+    "dificultad": 2,
+    "tiempo": "40 min",
+    "emoji": "🫑",
+    "imagen": "https://images.unsplash.com/photo-1673646960062-9aeb2188335f?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "4 pimientos grandes",
+      "1 taza de quinoa cocida",
+      "1 taza de maíz",
+      "1/2 taza de frijoles negros",
+      "1 tomate picado",
+      "Especias: comino, pimentón, sal"
+    ],
+    "pasos": [
+      "Corta la parte superior de los pimientos y retira las semillas.",
+      "Mezcla la quinoa cocida con el maíz, los frijoles, el tomate y las especias.",
+      "Rellena los pimientos con la mezcla.",
+      "Hornea a 190°C por 25-30 minutos hasta que los pimientos estén tiernos."
+    ],
+    "tip": "Hornea los pimientos vacíos 5 minutos antes de rellenarlos: así quedan tiernos por dentro sin perder su forma.",
+    "tags": [
+      "pimiento",
+      "quinoa",
+      "vegano",
+      "cena"
+    ]
+  },
+  {
+    "id": 114,
+    "nombre": "Pasta cremosa de champiñones y espinaca",
+    "tipo": "vegetariana",
+    "comida": "cena",
+    "dificultad": 2,
+    "tiempo": "25 min",
+    "emoji": "🍝",
+    "imagen": "https://images.unsplash.com/photo-1608219992759-8d74ed8d76eb?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "300 g de pasta corta",
+      "250 g de champiñones laminados",
+      "2 tazas de espinaca fresca",
+      "1 taza de crema de leche o crema vegetal",
+      "2 dientes de ajo",
+      "Queso parmesano"
+    ],
+    "pasos": [
+      "Cocina la pasta al dente según las instrucciones del paquete.",
+      "Sofríe el ajo y los champiñones hasta dorar.",
+      "Agrega la espinaca y cocina hasta que se marchite.",
+      "Incorpora la crema y deja espesar 3-4 minutos.",
+      "Mezcla con la pasta y termina con parmesano."
+    ],
+    "tip": "Reserva un poco de agua de cocción de la pasta: si la salsa queda muy espesa, aclárala con un chorrito para que quede sedosa.",
+    "tags": [
+      "champiñones",
+      "espinaca",
+      "pasta",
+      "cena"
+    ]
+  },
+  {
+    "id": 115,
+    "nombre": "Berenjenas a la parmesana",
+    "tipo": "vegetariana",
+    "comida": "cena",
+    "dificultad": 3,
+    "tiempo": "45 min",
+    "emoji": "🍆",
+    "imagen": "https://images.unsplash.com/photo-1632229095740-8c75082087c5?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "2 berenjenas grandes en láminas",
+      "2 tazas de salsa de tomate",
+      "200 g de queso mozzarella",
+      "Queso parmesano rallado",
+      "Albahaca fresca",
+      "Aceite de oliva"
+    ],
+    "pasos": [
+      "Sala las láminas de berenjena y déjalas reposar 10 minutos; seca con papel absorbente.",
+      "Ásalas en el horno o sartén con un poco de aceite hasta dorar por ambos lados.",
+      "En un molde, alterna capas de berenjena, salsa de tomate y mozzarella.",
+      "Espolvorea parmesano y hornea a 190°C por 20 minutos hasta gratinar.",
+      "Decora con albahaca fresca antes de servir."
+    ],
+    "tip": "Sala y escurre bien la berenjena antes de cocinarla: evita que el plato quede aguado.",
+    "tags": [
+      "berenjena",
+      "mozzarella",
+      "parmesano",
+      "cena"
+    ]
+  },
+  {
+    "id": 116,
+    "nombre": "Hummus de remolacha con crudités",
+    "tipo": "vegana",
+    "comida": "snack",
+    "dificultad": 1,
+    "tiempo": "15 min",
+    "emoji": "🥣",
+    "imagen": "https://images.unsplash.com/photo-1637949385162-e416fb15b2ce?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "1 remolacha mediana cocida",
+      "1 y 1/2 taza de garbanzos cocidos",
+      "2 cdas de tahini",
+      "1 diente de ajo",
+      "Jugo de 1 limón",
+      "Zanahoria, apio y pepino en bastones"
+    ],
+    "pasos": [
+      "Licúa la remolacha, los garbanzos, el tahini, el ajo y el jugo de limón hasta obtener una crema homogénea.",
+      "Ajusta sal y agrega un chorrito de aceite de oliva si queda muy espeso.",
+      "Sirve en un bowl con un hilo de aceite de oliva.",
+      "Acompaña con bastones de zanahoria, apio y pepino."
+    ],
+    "tip": "Cocina la remolacha con piel y pélala después: conserva mejor su color y dulzura natural.",
+    "tags": [
+      "remolacha",
+      "garbanzo",
+      "tahini",
+      "snack"
+    ]
+  },
+  {
+    "id": 117,
+    "nombre": "Energy balls de dátiles y cacao",
+    "tipo": "vegana",
+    "comida": "snack",
+    "dificultad": 1,
+    "tiempo": "15 min",
+    "emoji": "🍫",
+    "imagen": "https://images.unsplash.com/photo-1678554500191-3885a6fbf8c2?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "1 taza de dátiles sin semilla",
+      "1 taza de nueces o almendras",
+      "2 cdas de cacao en polvo",
+      "1 cdta de esencia de vainilla",
+      "Coco rallado para decorar"
+    ],
+    "pasos": [
+      "Procesa los dátiles y las nueces en un procesador de alimentos hasta formar una masa pegajosa.",
+      "Agrega el cacao y la vainilla, procesa hasta integrar.",
+      "Forma bolitas con las manos.",
+      "Pasa cada bolita por coco rallado antes de refrigerar."
+    ],
+    "tip": "Si los dátiles están muy secos, remójalos 10 minutos en agua tibia antes de procesarlos: así la masa se compacta mejor.",
+    "tags": [
+      "datiles",
+      "cacao",
+      "vegano",
+      "snack"
+    ]
+  },
+  {
+    "id": 118,
+    "nombre": "Nachos vegetarianos con queso fundido",
+    "tipo": "vegetariana",
+    "comida": "snack",
+    "dificultad": 1,
+    "tiempo": "20 min",
+    "emoji": "🧀",
+    "imagen": "https://images.unsplash.com/photo-1775708856908-aafcf9baa5d0?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "1 bolsa de totopos de maíz",
+      "1 taza de frijoles refritos",
+      "1 taza de queso rallado (mozzarella o cheddar)",
+      "1/2 taza de maíz",
+      "Jitomate, cebolla morada y cilantro picados",
+      "Guacamole y crema para servir"
+    ],
+    "pasos": [
+      "Extiende los totopos en una bandeja para horno.",
+      "Distribuye el frijol, el maíz y el queso rallado por encima.",
+      "Hornea a 200°C por 8-10 minutos hasta que el queso funda.",
+      "Decora con tomate, cebolla morada y cilantro; sirve con guacamole y crema."
+    ],
+    "tip": "Hornea los totopos en una sola capa, no amontonados: así todos quedan con queso fundido y no se ablandan por debajo.",
+    "tags": [
+      "totopos",
+      "queso",
+      "frijoles",
+      "snack"
+    ]
+  },
+  {
+    "id": 119,
+    "nombre": "Tostadas de aguacate y huevo poché",
+    "tipo": "vegetariana",
+    "comida": "snack",
+    "dificultad": 2,
+    "tiempo": "15 min",
+    "emoji": "🥑",
+    "imagen": "https://images.unsplash.com/photo-1613769049987-b31b641f25b1?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "2 rebanadas de pan integral",
+      "1 aguacate maduro",
+      "2 huevos",
+      "1 cdta de vinagre blanco",
+      "Jugo de limón, sal, pimienta y hojuelas de chile"
+    ],
+    "pasos": [
+      "Tuesta el pan integral.",
+      "Machaca el aguacate con jugo de limón, sal y pimienta; unta sobre el pan.",
+      "Lleva agua a punto de ebullición suave, agrega el vinagre y crea un remolino; desliza el huevo dentro y cocina 3 minutos.",
+      "Retira el huevo poché con una espumadera y colócalo sobre la tostada de aguacate.",
+      "Espolvorea hojuelas de chile antes de servir."
+    ],
+    "tip": "El remolino de agua antes de agregar el huevo ayuda a que la clara se enrolle alrededor de la yema en vez de dispersarse.",
+    "tags": [
+      "aguacate",
+      "huevo",
+      "pan integral",
+      "snack"
+    ]
+  },
+  {
+    "id": 120,
+    "nombre": "Croquetas de queso y espinaca",
+    "tipo": "vegetariana",
+    "comida": "snack",
+    "dificultad": 2,
+    "tiempo": "30 min",
+    "emoji": "🧆",
+    "imagen": "https://images.unsplash.com/photo-1683694062041-cc62c5390b13?w=600&h=400&fit=crop&auto=format&q=80",
+    "ingredientes": [
+      "2 tazas de espinaca fresca picada",
+      "1 taza de queso rallado",
+      "1/2 taza de pan rallado, más extra para empanizar",
+      "1 huevo",
+      "1 diente de ajo picado",
+      "Aceite para freír"
+    ],
+    "pasos": [
+      "Saltea la espinaca con el ajo hasta que se marchite; escurre bien el exceso de líquido.",
+      "Mezcla la espinaca con el queso, el pan rallado y el huevo hasta formar una masa moldeable.",
+      "Forma croquetas pequeñas y pásalas por pan rallado.",
+      "Fríe en aceite caliente hasta dorar por todos lados, o hornea a 200°C por 20 minutos."
+    ],
+    "tip": "Escurre muy bien la espinaca antes de mezclarla: el exceso de agua es lo que hace que las croquetas se desarmen al freírlas.",
+    "tags": [
+      "espinaca",
+      "queso",
+      "croquetas",
+      "snack"
+    ]
   }
 ]
