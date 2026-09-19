@@ -2533,28 +2533,26 @@
     ]
   },
   "102": {
-    "nombre": "Shakshuka with Feta",
+    "nombre": "Zucchini and Feta Frittata",
     "ingredientes": [
-      "4 eggs",
-      "4 chopped ripe tomatoes (or 1 can of crushed tomato)",
-      "1 chopped red bell pepper",
-      "1/2 chopped onion",
-      "2 garlic cloves",
-      "1 tsp cumin and 1 tsp paprika",
-      "Crumbled feta cheese",
-      "Olive oil, salt, and fresh parsley"
+      "6 eggs",
+      "2 zucchini, grated",
+      "100 g crumbled feta cheese",
+      "1/4 chopped onion",
+      "2 tbsp fresh dill or mint",
+      "Salt, pepper, and olive oil"
     ],
     "pasos": [
-      "Sauté the onion and bell pepper in olive oil until soft.",
-      "Add the garlic, cumin, and paprika; cook 1 more minute.",
-      "Add the tomato and simmer 10 minutes over medium-low heat.",
-      "Make small wells in the sauce and crack an egg into each; cover and cook until the whites set.",
-      "Sprinkle with feta and parsley before serving with bread."
+      "Squeeze the grated zucchini to remove excess water.",
+      "Beat the eggs with salt, pepper, and the fresh herbs.",
+      "Sauté the onion, add the zucchini, and cook 3 minutes.",
+      "Pour in the beaten eggs, add the feta, and cook covered over low heat 8-10 minutes until set.",
+      "Finish under the broiler for 2 minutes if you want a golden top."
     ],
-    "tip": "Cover the pan at the end: the steam cooks the whites without drying out the yolk.",
+    "tip": "Squeeze the zucchini well before mixing it in: this is the step that keeps the frittata from turning watery inside.",
     "tags": [
+      "zucchini",
       "egg",
-      "tomato",
       "feta",
       "breakfast"
     ]
@@ -2608,52 +2606,55 @@
     ]
   },
   "105": {
-    "nombre": "Berry Smoothie Bowl",
+    "nombre": "Vegan Banana Walnut Muffins",
     "ingredientes": [
-      "2 cups frozen berries",
-      "1 frozen banana",
-      "1/2 cup plant-based milk",
-      "Granola",
-      "Fresh fruit and seeds to garnish"
+      "2 mashed ripe bananas",
+      "1 1/2 cups all-purpose flour",
+      "1/3 cup vegetable oil",
+      "1/2 cup brown sugar",
+      "1 tsp baking powder",
+      "1/2 cup chopped walnuts",
+      "1 tbsp ground flaxseed mixed with 3 tbsp water (egg substitute)"
     ],
     "pasos": [
-      "Blend the berries, banana, and plant-based milk until thick and ice-cream-like.",
-      "Pour into a bowl.",
-      "Top with granola, fresh fruit, and seeds.",
-      "Serve immediately with a spoon."
+      "Mix the ground flaxseed with water and let sit 5 minutes.",
+      "Combine the mashed banana, oil, sugar, and flax mixture.",
+      "Fold in the flour and baking powder without overmixing.",
+      "Add the chopped walnuts and mix gently.",
+      "Pour into muffin tins and bake at 180°C (350°F) for 20-22 minutes."
     ],
-    "tip": "Use well-frozen fruit and little liquid: this keeps the smoothie thick enough to eat with a spoon, not a straw.",
+    "tip": "Don't overmix the batter once the flour goes in: mixing just until combined is what keeps the muffins fluffy.",
     "tags": [
-      "berries",
       "banana",
+      "walnut",
       "vegan",
       "breakfast"
     ]
   },
   "106": {
-    "nombre": "Chickpea and Spinach Curry",
+    "nombre": "Soba Noodles with Peanut Sauce",
     "ingredientes": [
-      "2 cups cooked chickpeas",
-      "3 cups fresh spinach",
-      "1 cup coconut milk",
-      "1/2 chopped onion",
-      "2 garlic cloves and 1 tbsp grated ginger",
-      "2 tbsp curry powder",
-      "Rice to serve"
+      "200 g soba noodles",
+      "3 tbsp peanut butter",
+      "2 tbsp soy sauce",
+      "1 tbsp rice vinegar",
+      "1 tsp sesame oil",
+      "1 carrot and 1 cucumber, julienned",
+      "Scallions and sesame seeds to garnish"
     ],
     "pasos": [
-      "Sauté the onion, garlic, and ginger until fragrant.",
-      "Add the curry powder and cook 30 seconds to wake up the flavor.",
-      "Add the chickpeas and coconut milk, cook 10 minutes.",
-      "Stir in the spinach and cook until wilted.",
-      "Serve hot over rice."
+      "Cook the soba noodles according to package instructions and rinse under cold water.",
+      "Mix the peanut butter, soy sauce, rice vinegar, and sesame oil into a smooth sauce.",
+      "Add a little warm water to the sauce if it's too thick.",
+      "Toss the noodles with the sauce, carrot, and cucumber.",
+      "Garnish with scallions and sesame seeds before serving."
     ],
-    "tip": "Toast the curry powder in the oil before adding liquids: it intensifies the flavor a lot.",
+    "tip": "Rinse the soba noodles in cold water as soon as you drain them: it stops the cooking and keeps them from sticking together.",
     "tags": [
-      "chickpea",
-      "spinach",
-      "curry",
-      "vegan"
+      "soba",
+      "peanut",
+      "vegan",
+      "lunch"
     ]
   },
   "107": {
@@ -2681,26 +2682,27 @@
     ]
   },
   "108": {
-    "nombre": "Mushroom Risotto",
+    "nombre": "Leek and Cheese Tart",
     "ingredientes": [
-      "1 1/2 cups arborio rice",
-      "300 g sliced mushrooms",
-      "1 liter hot vegetable broth",
-      "1/2 chopped onion",
-      "1/2 cup white wine (optional)",
-      "Parmesan cheese and butter"
+      "1 shortcrust pastry base",
+      "2 leeks, thinly sliced",
+      "3 eggs",
+      "1 cup heavy cream",
+      "1 cup shredded gruyère cheese",
+      "Salt, pepper, and nutmeg"
     ],
     "pasos": [
-      "Sauté the mushrooms until browned and set aside.",
-      "In the same pot, sauté the onion, add the rice, and toast 2 minutes.",
-      "Add the wine and let it evaporate; then add the hot broth little by little, stirring constantly.",
-      "When the rice is creamy and al dente, stir in the mushrooms, parmesan, and butter."
+      "Line a tart pan with the shortcrust pastry and prick the base with a fork.",
+      "Sauté the leek in butter until tender and translucent.",
+      "Beat the eggs with the cream, salt, pepper, and nutmeg.",
+      "Spread the leek and cheese over the pastry and pour in the egg mixture.",
+      "Bake at 180°C (350°F) for 30-35 minutes until set and golden."
     ],
-    "tip": "Add the hot broth one ladle at a time and keep stirring: this releases the rice's starch so the risotto turns creamy without needing any cream.",
+    "tip": "Cook the leek thoroughly before baking the tart: if it's undercooked it releases water and makes the crust soggy.",
     "tags": [
-      "mushrooms",
-      "rice",
-      "parmesan",
+      "leek",
+      "cheese",
+      "tart",
       "lunch"
     ]
   },
@@ -2729,73 +2731,77 @@
     ]
   },
   "110": {
-    "nombre": "Grilled Eggplant Sandwich with Goat Cheese",
+    "nombre": "Caprese Sandwich with Mozzarella and Pesto",
     "ingredientes": [
-      "1 eggplant, thickly sliced",
-      "Ciabatta or baguette bread",
-      "Goat cheese",
-      "Arugula",
-      "Honey and olive oil"
+      "Ciabatta bread",
+      "Fresh mozzarella, sliced",
+      "2 tomatoes, sliced",
+      "Fresh basil leaves",
+      "2 tbsp pesto",
+      "Olive oil and salt"
     ],
     "pasos": [
-      "Brush the eggplant slices with olive oil and grill or pan-sear until marked on both sides.",
-      "Lightly toast the bread.",
-      "Spread goat cheese on the bread and add the warm eggplant.",
-      "Add arugula and a drizzle of honey before closing the sandwich."
+      "Lightly toast the ciabatta bread.",
+      "Spread pesto generously on both sides of the bread.",
+      "Layer the mozzarella, tomato, and basil.",
+      "Drizzle with a little olive oil and salt.",
+      "Close the sandwich and press lightly before serving."
     ],
-    "tip": "Salt the eggplant and let it rest 10 minutes before grilling: it releases excess water and turns out firmer and tastier.",
+    "tip": "Pat the tomato slices dry with paper towel before assembling: it keeps the bread from getting soggy.",
     "tags": [
-      "eggplant",
-      "goat cheese",
+      "mozzarella",
+      "tomato",
+      "pesto",
       "lunch"
     ]
   },
   "111": {
-    "nombre": "Vegan Tofu Pad Thai",
+    "nombre": "Teriyaki Tofu with Wok Vegetables",
     "ingredientes": [
-      "200 g rice noodles",
-      "200 g firm tofu, cubed",
-      "2 carrots, julienned",
-      "2 cups bean sprouts",
-      "3 tbsp soy sauce, 2 tbsp tamarind sauce, and 1 tbsp brown sugar",
-      "Chopped peanuts and lime"
+      "300 g firm tofu, cubed",
+      "1 bell pepper and 1 cup broccoli",
+      "1/4 cup soy sauce",
+      "2 tbsp brown sugar",
+      "1 tbsp grated ginger",
+      "1 tsp cornstarch dissolved in water",
+      "Rice to serve"
     ],
     "pasos": [
-      "Soak the rice noodles in hot water according to package instructions.",
-      "Brown the tofu in a wok until crispy outside.",
-      "Add the carrot and stir-fry 2 minutes.",
-      "Add the noodles, sauce mixture, and bean sprouts; stir-fry everything together 3 minutes.",
-      "Serve with chopped peanuts and a squeeze of lime."
+      "Brown the tofu in a wok with a little oil until crispy; set aside.",
+      "In the same wok, stir-fry the bell pepper and broccoli 3-4 minutes.",
+      "Mix the soy sauce, brown sugar, and ginger; add to the wok.",
+      "Stir in the dissolved cornstarch and cook until the sauce thickens.",
+      "Return the tofu to the wok, toss well, and serve over rice."
     ],
-    "tip": "Don't over-soak the rice noodles: they should stay firm, since they finish cooking when stir-fried in the wok.",
+    "tip": "Pat the tofu dry with paper towel before browning it: that's what makes it crispy outside instead of releasing water in the wok.",
     "tags": [
       "tofu",
-      "rice noodles",
+      "teriyaki",
       "vegan",
       "dinner"
     ]
   },
   "112": {
-    "nombre": "Meatless Black Bean Chili",
+    "nombre": "Vegan Lentil Meatballs in Tomato Sauce",
     "ingredientes": [
-      "2 cups cooked black beans",
-      "1 cup corn",
-      "1 can crushed tomato",
-      "1 chopped bell pepper and 1/2 chopped onion",
-      "2 tbsp chili powder and 1 tsp cumin",
-      "Fresh cilantro to serve"
+      "2 cups cooked lentils",
+      "1/2 cup breadcrumbs",
+      "1 chopped garlic clove",
+      "1 tsp cumin and oregano",
+      "2 cups tomato sauce",
+      "Fresh parsley"
     ],
     "pasos": [
-      "Sauté the onion and bell pepper until soft.",
-      "Add the chili powder and cumin, cook 1 minute.",
-      "Add the crushed tomato, beans, and corn.",
-      "Cook over medium-low heat 20 minutes, stirring occasionally.",
-      "Serve hot with fresh cilantro."
+      "Mash the cooked lentils into a paste with some texture left.",
+      "Mix with the breadcrumbs, garlic, cumin, and oregano.",
+      "Shape into balls and bake at 200°C (400°F) for 15 minutes, or brown them in a pan.",
+      "Heat the tomato sauce and add the meatballs to finish cooking for 10 minutes.",
+      "Serve hot with fresh parsley."
     ],
-    "tip": "Let the chili rest a few minutes off the heat before serving: the flavors settle and it improves a lot.",
+    "tip": "Don't puree the lentils completely: leaving some texture is what keeps the meatballs from falling apart.",
     "tags": [
-      "black beans",
-      "corn",
+      "lentils",
+      "tomato",
       "vegan",
       "dinner"
     ]
@@ -2850,27 +2856,27 @@
     ]
   },
   "115": {
-    "nombre": "Eggplant Parmesan",
+    "nombre": "Spinach and Ricotta Cannelloni",
     "ingredientes": [
-      "2 large eggplants, sliced",
-      "2 cups tomato sauce",
-      "200 g mozzarella cheese",
-      "Grated parmesan cheese",
-      "Fresh basil",
-      "Olive oil"
+      "12 cannelloni (pasta tubes)",
+      "250 g ricotta",
+      "2 cups cooked and drained spinach",
+      "1 egg",
+      "Nutmeg",
+      "2 cups tomato sauce and parmesan cheese"
     ],
     "pasos": [
-      "Salt the eggplant slices and let them rest 10 minutes; pat dry with paper towel.",
-      "Roast or pan-sear with a little oil until golden on both sides.",
-      "In a baking dish, alternate layers of eggplant, tomato sauce, and mozzarella.",
-      "Sprinkle with parmesan and bake at 190°C (375°F) for 20 minutes until golden.",
-      "Garnish with fresh basil before serving."
+      "Cook the cannelloni according to package instructions (or use no-boil ones).",
+      "Mix the ricotta with the chopped spinach, egg, and a pinch of nutmeg.",
+      "Fill the cannelloni with the mixture using a piping bag or spoon.",
+      "Place in a baking dish with tomato sauce underneath and on top.",
+      "Sprinkle with parmesan and bake at 190°C (375°F) for 25 minutes."
     ],
-    "tip": "Salt and drain the eggplant well before cooking: this keeps the dish from turning watery.",
+    "tip": "Drain the spinach very well before mixing it with the ricotta: the filling should be firm, not watery.",
     "tags": [
-      "eggplant",
-      "mozzarella",
-      "parmesan",
+      "cannelloni",
+      "ricotta",
+      "spinach",
       "dinner"
     ]
   },
@@ -2899,73 +2905,72 @@
     ]
   },
   "117": {
-    "nombre": "Date and Cacao Energy Balls",
+    "nombre": "Baked Sweet Potato Chips",
     "ingredientes": [
-      "1 cup pitted dates",
-      "1 cup walnuts or almonds",
-      "2 tbsp cocoa powder",
-      "1 tsp vanilla extract",
-      "Shredded coconut to coat"
+      "2 medium sweet potatoes",
+      "2 tbsp olive oil",
+      "1 tsp smoked paprika",
+      "Salt to taste"
     ],
     "pasos": [
-      "Process the dates and nuts in a food processor until a sticky mixture forms.",
-      "Add the cocoa and vanilla, process until combined.",
-      "Shape into small balls with your hands.",
-      "Roll each ball in shredded coconut before refrigerating."
+      "Cut the sweet potatoes into very thin slices with a mandoline or sharp knife.",
+      "Toss with the olive oil, paprika, and salt.",
+      "Spread on a tray without overlapping the slices.",
+      "Bake at 180°C (350°F) for 20-25 minutes, flipping halfway, until crispy."
     ],
-    "tip": "If the dates are too dry, soak them in warm water for 10 minutes before processing: the mixture will hold together better.",
+    "tip": "Cut the slices as thin and even as possible: that's the key to even browning and a crispy result.",
     "tags": [
-      "dates",
-      "cacao",
+      "sweet potato",
+      "baked",
       "vegan",
       "snack"
     ]
   },
   "118": {
-    "nombre": "Vegetarian Nachos with Melted Cheese",
+    "nombre": "Cheesy Garlic Bread",
     "ingredientes": [
-      "1 bag of corn tortilla chips",
-      "1 cup refried beans",
-      "1 cup shredded cheese (mozzarella or cheddar)",
-      "1/2 cup corn",
-      "Chopped tomato, red onion, and cilantro",
-      "Guacamole and sour cream to serve"
+      "1 baguette",
+      "4 tbsp butter",
+      "3 chopped garlic cloves",
+      "1 cup shredded mozzarella",
+      "Chopped fresh parsley"
     ],
     "pasos": [
-      "Spread the tortilla chips on a baking tray.",
-      "Distribute the beans, corn, and shredded cheese on top.",
-      "Bake at 200°C (400°F) for 8-10 minutes until the cheese melts.",
-      "Top with tomato, red onion, and cilantro; serve with guacamole and sour cream."
+      "Cut the baguette in half lengthwise.",
+      "Mix the melted butter with the chopped garlic and spread over the bread.",
+      "Distribute the mozzarella cheese on top.",
+      "Bake at 200°C (400°F) for 8-10 minutes until the cheese melts and browns.",
+      "Sprinkle with fresh parsley before serving."
     ],
-    "tip": "Bake the chips in a single layer, not piled up: that way they all get melted cheese and don't turn soggy underneath.",
+    "tip": "Mince the garlic finely and mix it into already-melted butter: it spreads evenly and won't burn in concentrated spots.",
     "tags": [
-      "tortilla chips",
+      "bread",
+      "garlic",
       "cheese",
-      "beans",
       "snack"
     ]
   },
   "119": {
-    "nombre": "Avocado Toast with Poached Egg",
+    "nombre": "Thin Tomato and Goat Cheese Tart",
     "ingredientes": [
-      "2 slices of whole-grain bread",
-      "1 ripe avocado",
-      "2 eggs",
-      "1 tsp white vinegar",
-      "Lemon juice, salt, pepper, and chili flakes"
+      "1 sheet of puff pastry",
+      "3 medium tomatoes, sliced",
+      "100 g goat cheese",
+      "1 tbsp dijon mustard",
+      "Fresh thyme and olive oil"
     ],
     "pasos": [
-      "Toast the whole-grain bread.",
-      "Mash the avocado with lemon juice, salt, and pepper; spread on the toast.",
-      "Bring water to a gentle simmer, add the vinegar, and create a whirlpool; slide the egg in and cook 3 minutes.",
-      "Remove the poached egg with a slotted spoon and place it on the avocado toast.",
-      "Sprinkle with chili flakes before serving."
+      "Roll out the puff pastry on a tray and prick with a fork, leaving a border.",
+      "Spread a thin layer of dijon mustard over the pastry.",
+      "Arrange the tomato slices and pieces of goat cheese.",
+      "Drizzle with olive oil and fresh thyme.",
+      "Bake at 200°C (400°F) for 20-25 minutes until the pastry is golden."
     ],
-    "tip": "The water whirlpool before adding the egg helps the white wrap around the yolk instead of spreading out.",
+    "tip": "Let the tomato slices drain on paper towel for a few minutes before using them: it keeps the pastry from turning soggy.",
     "tags": [
-      "avocado",
-      "egg",
-      "whole-grain bread",
+      "tomato",
+      "goat cheese",
+      "puff pastry",
       "snack"
     ]
   },

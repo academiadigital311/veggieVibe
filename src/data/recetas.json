@@ -502,7 +502,7 @@
     "dificultad": 1,
     "tiempo": "35 min",
     "emoji": "🍲",
-    "imagen": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=600&h=400&fit=crop&auto=format&q=80",
+    "imagen": "https://images.unsplash.com/photo-1605909388460-74ec8b204127?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
       "1 taza de lentejas",
       "1 zanahoria",
@@ -3216,7 +3216,7 @@
     "dificultad": 1,
     "tiempo": "15 min",
     "emoji": "🥞",
-    "imagen": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=600&h=400&fit=crop&auto=format&q=80",
+    "imagen": "https://images.unsplash.com/photo-1597249637214-a85d31f434d6?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
       "1 taza de avena molida",
       "2 bananas maduras",
@@ -3241,34 +3241,32 @@
   },
   {
     "id": 102,
-    "nombre": "Shakshuka con feta",
+    "nombre": "Frittata de calabacín y queso feta",
     "tipo": "vegetariana",
     "comida": "desayuno",
     "dificultad": 2,
     "tiempo": "25 min",
     "emoji": "🍳",
-    "imagen": "https://images.unsplash.com/photo-1590412200988-a436970781fa?w=600&h=400&fit=crop&auto=format&q=80",
+    "imagen": "https://images.unsplash.com/photo-1622823837857-c7030094f152?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "4 huevos",
-      "4 tomates maduros picados (o 1 lata de tomate triturado)",
-      "1 pimiento rojo picado",
-      "1/2 cebolla picada",
-      "2 dientes de ajo",
-      "1 cdta de comino y 1 cdta de pimentón",
-      "Queso feta desmenuzado",
-      "Aceite de oliva, sal y perejil fresco"
+      "6 huevos",
+      "2 calabacines rallados",
+      "100 g de queso feta desmenuzado",
+      "1/4 de cebolla picada",
+      "2 cdas de eneldo o menta fresca",
+      "Sal, pimienta y aceite de oliva"
     ],
     "pasos": [
-      "Sofríe la cebolla y el pimiento en aceite de oliva hasta ablandar.",
-      "Agrega el ajo, el comino y el pimentón, cocina 1 minuto más.",
-      "Incorpora el tomate y deja reducir 10 minutos a fuego medio-bajo.",
-      "Haz pequeños huecos en la salsa y casca un huevo en cada uno; tapa y cocina hasta que la clara cuaje.",
-      "Espolvorea feta y perejil antes de servir con pan."
+      "Exprime el calabacín rallado para quitar el exceso de agua.",
+      "Bate los huevos con sal, pimienta y las hierbas frescas.",
+      "Sofríe la cebolla, agrega el calabacín y cocina 3 minutos.",
+      "Vierte los huevos batidos, agrega el feta y cocina a fuego bajo tapado 8-10 minutos hasta que cuaje.",
+      "Termina bajo el grill 2 minutos si quieres la superficie dorada."
     ],
-    "tip": "Tapa la sartén al final: el vapor cocina la clara sin resecar la yema.",
+    "tip": "Exprime bien el calabacín antes de mezclarlo: es el paso que evita que la frittata quede aguada por dentro.",
     "tags": [
+      "calabacin",
       "huevo",
-      "tomate",
       "feta",
       "desayuno"
     ]
@@ -3281,7 +3279,7 @@
     "dificultad": 1,
     "tiempo": "10 min",
     "emoji": "🥭",
-    "imagen": "https://images.unsplash.com/photo-1552528352-59648b345866?w=600&h=400&fit=crop&auto=format&q=80",
+    "imagen": "https://images.unsplash.com/photo-1551239447-8a7ca0190245?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
       "4 cdas de semillas de chía",
       "1 taza de leche de coco",
@@ -3337,65 +3335,68 @@
   },
   {
     "id": 105,
-    "nombre": "Smoothie bowl de frutos rojos",
+    "nombre": "Muffins veganos de banana y nuez",
     "tipo": "vegana",
     "comida": "desayuno",
-    "dificultad": 1,
-    "tiempo": "10 min",
-    "emoji": "🍓",
-    "imagen": "https://images.unsplash.com/photo-1627308594190-a057cd4bfac8?w=600&h=400&fit=crop&auto=format&q=80",
+    "dificultad": 2,
+    "tiempo": "30 min",
+    "emoji": "🧁",
+    "imagen": "https://images.unsplash.com/photo-1770110757082-7b5488a8732f?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "2 tazas de frutos rojos congelados",
-      "1 banana congelada",
-      "1/2 taza de leche vegetal",
-      "Granola",
-      "Frutas frescas y semillas para decorar"
+      "2 bananas maduras machacadas",
+      "1 y 1/2 taza de harina de trigo",
+      "1/3 taza de aceite vegetal",
+      "1/2 taza de azúcar morena",
+      "1 cdta de polvo de hornear",
+      "1/2 taza de nueces picadas",
+      "1 cda de linaza molida con 3 cdas de agua (sustituto de huevo)"
     ],
     "pasos": [
-      "Licúa los frutos rojos, la banana y la leche vegetal hasta lograr una textura espesa tipo helado.",
-      "Vierte en un bowl.",
-      "Decora con granola, frutas frescas y semillas.",
-      "Sirve de inmediato con una cuchara."
+      "Mezcla la linaza molida con el agua y deja reposar 5 minutos.",
+      "Combina la banana machacada, el aceite, el azúcar y la mezcla de linaza.",
+      "Incorpora la harina y el polvo de hornear sin batir de más.",
+      "Agrega las nueces picadas y mezcla suave.",
+      "Vierte en moldes para muffins y hornea a 180°C por 20-22 minutos."
     ],
-    "tip": "Usa fruta bien congelada y poco líquido: así el smoothie queda firme y se puede comer con cuchara, no con pitillo.",
+    "tip": "No batas la masa de más una vez agregada la harina: mezclar solo hasta integrar es lo que mantiene los muffins esponjosos.",
     "tags": [
-      "frutos rojos",
       "banana",
+      "nuez",
       "vegano",
       "desayuno"
     ]
   },
   {
     "id": 106,
-    "nombre": "Curry de garbanzos y espinaca",
+    "nombre": "Fideos soba con salsa de maní",
     "tipo": "vegana",
     "comida": "almuerzo",
     "dificultad": 2,
-    "tiempo": "30 min",
-    "emoji": "🍛",
-    "imagen": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?w=600&h=400&fit=crop&auto=format&q=80",
+    "tiempo": "20 min",
+    "emoji": "🥢",
+    "imagen": "https://images.unsplash.com/photo-1679279726940-be5ce80c632c?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "2 tazas de garbanzos cocidos",
-      "3 tazas de espinaca fresca",
-      "1 taza de leche de coco",
-      "1/2 cebolla picada",
-      "2 dientes de ajo y 1 cda de jengibre rallado",
-      "2 cdas de curry en polvo",
-      "Arroz para acompañar"
+      "200 g de fideos soba",
+      "3 cdas de crema de maní",
+      "2 cdas de salsa de soya",
+      "1 cda de vinagre de arroz",
+      "1 cdta de aceite de sésamo",
+      "1 zanahoria y 1 pepino en tiras",
+      "Cebollín y sésamo para decorar"
     ],
     "pasos": [
-      "Sofríe la cebolla, el ajo y el jengibre hasta que estén fragantes.",
-      "Agrega el curry en polvo y cocina 30 segundos para despertar el sabor.",
-      "Incorpora los garbanzos y la leche de coco, cocina 10 minutos.",
-      "Añade la espinaca y cocina hasta que se marchite.",
-      "Sirve caliente sobre arroz."
+      "Cocina los fideos soba según las instrucciones del paquete y enfríalos bajo agua fría.",
+      "Mezcla la crema de maní, la salsa de soya, el vinagre de arroz y el aceite de sésamo hasta lograr una salsa homogénea.",
+      "Agrega un poco de agua tibia a la salsa si queda muy espesa.",
+      "Mezcla los fideos con la salsa, la zanahoria y el pepino.",
+      "Decora con cebollín y sésamo antes de servir."
     ],
-    "tip": "Tuesta el curry en polvo en el aceite antes de agregar líquidos: intensifica muchísimo el sabor.",
+    "tip": "Enjuaga los fideos soba con agua fría apenas los cueles: para la cocción y evita que se peguen entre sí.",
     "tags": [
-      "garbanzo",
-      "espinaca",
-      "curry",
-      "vegano"
+      "soba",
+      "mani",
+      "vegano",
+      "almuerzo"
     ]
   },
   {
@@ -3406,7 +3407,7 @@
     "dificultad": 2,
     "tiempo": "35 min",
     "emoji": "🥗",
-    "imagen": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=600&h=400&fit=crop&auto=format&q=80",
+    "imagen": "https://images.unsplash.com/photo-1729769218931-435e9a261149?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
       "1 taza de quinoa",
       "1 batata en cubos",
@@ -3431,32 +3432,33 @@
   },
   {
     "id": 108,
-    "nombre": "Risotto de champiñones",
+    "nombre": "Tarta salada de puerro y queso",
     "tipo": "vegetariana",
     "comida": "almuerzo",
     "dificultad": 3,
-    "tiempo": "40 min",
-    "emoji": "🍄",
-    "imagen": "https://images.unsplash.com/photo-1609770424775-39ec362f2d94?w=600&h=400&fit=crop&auto=format&q=80",
+    "tiempo": "45 min",
+    "emoji": "🥧",
+    "imagen": "https://images.unsplash.com/photo-1687722129680-267194e2bc5a?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "1 y 1/2 taza de arroz arborio",
-      "300 g de champiñones laminados",
-      "1 litro de caldo de vegetales caliente",
-      "1/2 cebolla picada",
-      "1/2 taza de vino blanco (opcional)",
-      "Queso parmesano y mantequilla"
+      "1 base de masa quebrada",
+      "2 puerros en rodajas finas",
+      "3 huevos",
+      "1 taza de crema de leche",
+      "1 taza de queso gruyere rallado",
+      "Sal, pimienta y nuez moscada"
     ],
     "pasos": [
-      "Sofríe los champiñones hasta dorar y reserva.",
-      "En la misma olla, sofríe la cebolla, agrega el arroz y tuesta 2 minutos.",
-      "Añade el vino y deja evaporar; luego incorpora el caldo caliente de a poco, revolviendo constantemente.",
-      "Cuando el arroz esté cremoso y al dente, mezcla los champiñones, el parmesano y la mantequilla."
+      "Cubre un molde con la masa quebrada y pincha la base con un tenedor.",
+      "Sofríe el puerro en mantequilla hasta que esté tierno y translúcido.",
+      "Bate los huevos con la crema, sal, pimienta y nuez moscada.",
+      "Distribuye el puerro y el queso sobre la masa y vierte la mezcla de huevo.",
+      "Hornea a 180°C por 30-35 minutos hasta que cuaje y dore."
     ],
-    "tip": "Agrega el caldo caliente de a un cucharón y no dejes de revolver: así el almidón del arroz suelta y el risotto queda cremoso sin necesidad de crema.",
+    "tip": "Cocina bien el puerro antes de hornear la tarta: si queda crudo suelta agua y humedece la masa.",
     "tags": [
-      "champiñones",
-      "arroz",
-      "parmesano",
+      "puerro",
+      "queso",
+      "tarta",
       "almuerzo"
     ]
   },
@@ -3468,7 +3470,7 @@
     "dificultad": 3,
     "tiempo": "50 min",
     "emoji": "🍆",
-    "imagen": "https://images.unsplash.com/photo-1586197138382-e1d1479fbb14?w=600&h=400&fit=crop&auto=format&q=80",
+    "imagen": "https://images.unsplash.com/photo-1633436374961-09b92742047b?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
       "9 láminas de pasta para lasaña",
       "1 calabacín y 1 berenjena en láminas",
@@ -3493,93 +3495,97 @@
   },
   {
     "id": 110,
-    "nombre": "Sándwich de berenjena a la parrilla con queso de cabra",
+    "nombre": "Sándwich caprese de mozzarella y pesto",
     "tipo": "vegetariana",
     "comida": "almuerzo",
     "dificultad": 1,
-    "tiempo": "20 min",
+    "tiempo": "15 min",
     "emoji": "🥪",
-    "imagen": "https://images.unsplash.com/photo-1655279562015-047c3da9a271?w=600&h=400&fit=crop&auto=format&q=80",
+    "imagen": "https://images.unsplash.com/photo-1539252554453-80ab65ce3586?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "1 berenjena en láminas gruesas",
-      "Pan ciabatta o baguette",
-      "Queso de cabra",
-      "Rúcula",
-      "Miel y aceite de oliva"
+      "Pan ciabatta",
+      "Queso mozzarella fresco en láminas",
+      "2 tomates en rodajas",
+      "Hojas de albahaca fresca",
+      "2 cdas de pesto",
+      "Aceite de oliva y sal"
     ],
     "pasos": [
-      "Pincela las láminas de berenjena con aceite de oliva y ásalas en parrilla o sartén hasta marcar por ambos lados.",
-      "Tuesta el pan ligeramente.",
-      "Unta queso de cabra en el pan y agrega la berenjena caliente.",
-      "Añade rúcula y un hilo de miel antes de cerrar el sándwich."
+      "Tuesta ligeramente el pan ciabatta.",
+      "Unta pesto generosamente en ambas caras del pan.",
+      "Coloca capas de mozzarella, tomate y albahaca.",
+      "Rocía con un poco de aceite de oliva y sal.",
+      "Cierra el sándwich y presiona ligeramente antes de servir."
     ],
-    "tip": "Sala la berenjena y déjala reposar 10 minutos antes de asarla: suelta el exceso de agua y queda más firme y sabrosa.",
+    "tip": "Seca las rodajas de tomate con papel absorbente antes de armar el sándwich: evita que el pan se humedezca.",
     "tags": [
-      "berenjena",
-      "queso de cabra",
+      "mozzarella",
+      "tomate",
+      "pesto",
       "almuerzo"
     ]
   },
   {
     "id": 111,
-    "nombre": "Pad thai vegano de tofu",
+    "nombre": "Tofu teriyaki con vegetales al wok",
     "tipo": "vegana",
     "comida": "cena",
     "dificultad": 2,
     "tiempo": "25 min",
-    "emoji": "🍜",
-    "imagen": "https://images.unsplash.com/photo-1637806930600-37fa8892069d?w=600&h=400&fit=crop&auto=format&q=80",
+    "emoji": "🥢",
+    "imagen": "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "200 g de fideos de arroz",
-      "200 g de tofu firme en cubos",
-      "2 zanahorias en tiras",
-      "2 tazas de brotes de soya",
-      "3 cdas de salsa de soya, 2 de salsa de tamarindo y 1 de azúcar morena",
-      "Maní picado y limón"
+      "300 g de tofu firme en cubos",
+      "1 pimiento y 1 taza de brócoli",
+      "1/4 taza de salsa de soya",
+      "2 cdas de azúcar morena",
+      "1 cda de jengibre rallado",
+      "1 cdta de maicena disuelta en agua",
+      "Arroz para acompañar"
     ],
     "pasos": [
-      "Remoja los fideos de arroz en agua caliente según las instrucciones del paquete.",
-      "Dora el tofu en un wok hasta que esté crujiente por fuera.",
-      "Agrega la zanahoria y saltea 2 minutos.",
-      "Incorpora los fideos, la mezcla de salsas y los brotes de soya; saltea todo junto 3 minutos.",
-      "Sirve con maní picado y un toque de limón."
+      "Dora el tofu en un wok con un poco de aceite hasta que esté crujiente; reserva.",
+      "En el mismo wok, saltea el pimiento y el brócoli 3-4 minutos.",
+      "Mezcla la salsa de soya, el azúcar morena y el jengibre; agrega al wok.",
+      "Incorpora la maicena disuelta y cocina hasta que la salsa espese.",
+      "Regresa el tofu al wok, mezcla bien y sirve sobre arroz."
     ],
-    "tip": "No remojes de más los fideos de arroz: deben quedar firmes, porque terminan de cocinarse al saltearlos en el wok.",
+    "tip": "Seca bien el tofu con papel absorbente antes de dorarlo: así queda crujiente por fuera en vez de soltar agua en el wok.",
     "tags": [
       "tofu",
-      "fideos de arroz",
+      "teriyaki",
       "vegano",
       "cena"
     ]
   },
   {
     "id": 112,
-    "nombre": "Chili sin carne con frijoles negros",
+    "nombre": "Albóndigas veganas de lentejas en salsa de tomate",
     "tipo": "vegana",
     "comida": "cena",
     "dificultad": 2,
     "tiempo": "35 min",
-    "emoji": "🌶️",
-    "imagen": "https://images.unsplash.com/photo-1638329389022-daef2efb71b3?w=600&h=400&fit=crop&auto=format&q=80",
+    "emoji": "🍲",
+    "imagen": "https://images.unsplash.com/photo-1552404571-35fa4fcfdc57?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "2 tazas de frijoles negros cocidos",
-      "1 taza de maíz",
-      "1 lata de tomate triturado",
-      "1 pimiento y 1/2 cebolla picados",
-      "2 cdas de chili en polvo y 1 cdta de comino",
-      "Cilantro fresco para servir"
+      "2 tazas de lentejas cocidas",
+      "1/2 taza de pan rallado",
+      "1 diente de ajo picado",
+      "1 cdta de comino y orégano",
+      "2 tazas de salsa de tomate",
+      "Perejil fresco"
     ],
     "pasos": [
-      "Sofríe la cebolla y el pimiento hasta ablandar.",
-      "Agrega el chili en polvo y el comino, cocina 1 minuto.",
-      "Incorpora el tomate triturado, los frijoles y el maíz.",
-      "Cocina a fuego medio-bajo 20 minutos, revolviendo de vez en cuando.",
-      "Sirve caliente con cilantro fresco."
+      "Machaca las lentejas cocidas hasta formar una pasta con algo de textura.",
+      "Mezcla con el pan rallado, el ajo, el comino y el orégano.",
+      "Forma bolitas y hornea a 200°C por 15 minutos, o dóralas en sartén.",
+      "Calienta la salsa de tomate y añade las albóndigas para que terminen de cocinarse 10 minutos.",
+      "Sirve caliente con perejil fresco."
     ],
-    "tip": "Deja el chili reposar unos minutos fuera del fuego antes de servir: los sabores se asientan y mejora mucho.",
+    "tip": "No hagas puré completo de las lentejas: dejar algo de textura es lo que evita que las albóndigas se desarmen.",
     "tags": [
-      "frijoles negros",
-      "maiz",
+      "lentejas",
+      "tomate",
       "vegano",
       "cena"
     ]
@@ -3649,33 +3655,33 @@
   },
   {
     "id": 115,
-    "nombre": "Berenjenas a la parmesana",
+    "nombre": "Canelones de ricotta y espinaca",
     "tipo": "vegetariana",
     "comida": "cena",
     "dificultad": 3,
-    "tiempo": "45 min",
-    "emoji": "🍆",
-    "imagen": "https://images.unsplash.com/photo-1632229095740-8c75082087c5?w=600&h=400&fit=crop&auto=format&q=80",
+    "tiempo": "50 min",
+    "emoji": "🍝",
+    "imagen": "https://images.unsplash.com/photo-1654048210685-d8248bb9e161?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "2 berenjenas grandes en láminas",
-      "2 tazas de salsa de tomate",
-      "200 g de queso mozzarella",
-      "Queso parmesano rallado",
-      "Albahaca fresca",
-      "Aceite de oliva"
+      "12 canelones (tubos de pasta)",
+      "250 g de ricotta",
+      "2 tazas de espinaca cocida y escurrida",
+      "1 huevo",
+      "Nuez moscada",
+      "2 tazas de salsa de tomate y queso parmesano"
     ],
     "pasos": [
-      "Sala las láminas de berenjena y déjalas reposar 10 minutos; seca con papel absorbente.",
-      "Ásalas en el horno o sartén con un poco de aceite hasta dorar por ambos lados.",
-      "En un molde, alterna capas de berenjena, salsa de tomate y mozzarella.",
-      "Espolvorea parmesano y hornea a 190°C por 20 minutos hasta gratinar.",
-      "Decora con albahaca fresca antes de servir."
+      "Cocina los canelones según las instrucciones del paquete (o usa los de cocción directa).",
+      "Mezcla la ricotta con la espinaca picada, el huevo y una pizca de nuez moscada.",
+      "Rellena los canelones con la mezcla usando una manga o cuchara.",
+      "Coloca en un molde con salsa de tomate debajo y encima.",
+      "Espolvorea parmesano y hornea a 190°C por 25 minutos."
     ],
-    "tip": "Sala y escurre bien la berenjena antes de cocinarla: evita que el plato quede aguado.",
+    "tip": "Escurre muy bien la espinaca antes de mezclarla con la ricotta: el relleno debe quedar firme, no aguado.",
     "tags": [
-      "berenjena",
-      "mozzarella",
-      "parmesano",
+      "canelones",
+      "ricotta",
+      "espinaca",
       "cena"
     ]
   },
@@ -3712,93 +3718,92 @@
   },
   {
     "id": 117,
-    "nombre": "Energy balls de dátiles y cacao",
+    "nombre": "Chips de camote al horno",
     "tipo": "vegana",
     "comida": "snack",
     "dificultad": 1,
-    "tiempo": "15 min",
-    "emoji": "🍫",
-    "imagen": "https://images.unsplash.com/photo-1678554500191-3885a6fbf8c2?w=600&h=400&fit=crop&auto=format&q=80",
+    "tiempo": "25 min",
+    "emoji": "🍠",
+    "imagen": "https://images.unsplash.com/photo-1598679253544-2c97992403ea?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "1 taza de dátiles sin semilla",
-      "1 taza de nueces o almendras",
-      "2 cdas de cacao en polvo",
-      "1 cdta de esencia de vainilla",
-      "Coco rallado para decorar"
+      "2 camotes medianos",
+      "2 cdas de aceite de oliva",
+      "1 cdta de pimentón ahumado",
+      "Sal al gusto"
     ],
     "pasos": [
-      "Procesa los dátiles y las nueces en un procesador de alimentos hasta formar una masa pegajosa.",
-      "Agrega el cacao y la vainilla, procesa hasta integrar.",
-      "Forma bolitas con las manos.",
-      "Pasa cada bolita por coco rallado antes de refrigerar."
+      "Corta los camotes en rodajas muy finas con una mandolina o cuchillo afilado.",
+      "Mezcla con el aceite de oliva, el pimentón y la sal.",
+      "Extiende en una bandeja sin encimar las rodajas.",
+      "Hornea a 180°C por 20-25 minutos, volteando a la mitad, hasta que estén crujientes."
     ],
-    "tip": "Si los dátiles están muy secos, remójalos 10 minutos en agua tibia antes de procesarlos: así la masa se compacta mejor.",
+    "tip": "Corta las rodajas lo más finas y parejas posible: es la clave para que se doren parejo y queden crujientes.",
     "tags": [
-      "datiles",
-      "cacao",
+      "camote",
+      "horno",
       "vegano",
       "snack"
     ]
   },
   {
     "id": 118,
-    "nombre": "Nachos vegetarianos con queso fundido",
+    "nombre": "Pan de ajo con queso gratinado",
     "tipo": "vegetariana",
     "comida": "snack",
     "dificultad": 1,
-    "tiempo": "20 min",
-    "emoji": "🧀",
-    "imagen": "https://images.unsplash.com/photo-1775708856908-aafcf9baa5d0?w=600&h=400&fit=crop&auto=format&q=80",
+    "tiempo": "15 min",
+    "emoji": "🧄",
+    "imagen": "https://images.unsplash.com/photo-1761344788266-5f6957aeea33?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "1 bolsa de totopos de maíz",
-      "1 taza de frijoles refritos",
-      "1 taza de queso rallado (mozzarella o cheddar)",
-      "1/2 taza de maíz",
-      "Jitomate, cebolla morada y cilantro picados",
-      "Guacamole y crema para servir"
+      "1 baguette",
+      "4 cdas de mantequilla",
+      "3 dientes de ajo picados",
+      "1 taza de queso mozzarella rallado",
+      "Perejil fresco picado"
     ],
     "pasos": [
-      "Extiende los totopos en una bandeja para horno.",
-      "Distribuye el frijol, el maíz y el queso rallado por encima.",
-      "Hornea a 200°C por 8-10 minutos hasta que el queso funda.",
-      "Decora con tomate, cebolla morada y cilantro; sirve con guacamole y crema."
+      "Corta la baguette por la mitad a lo largo.",
+      "Mezcla la mantequilla derretida con el ajo picado y unta sobre el pan.",
+      "Distribuye el queso mozzarella por encima.",
+      "Hornea a 200°C por 8-10 minutos hasta que el queso funda y dore.",
+      "Espolvorea perejil fresco antes de servir."
     ],
-    "tip": "Hornea los totopos en una sola capa, no amontonados: así todos quedan con queso fundido y no se ablandan por debajo.",
+    "tip": "Pica el ajo bien fino y mézclalo con la mantequilla ya derretida: se reparte parejo y no se quema en puntos concentrados.",
     "tags": [
-      "totopos",
+      "pan",
+      "ajo",
       "queso",
-      "frijoles",
       "snack"
     ]
   },
   {
     "id": 119,
-    "nombre": "Tostadas de aguacate y huevo poché",
+    "nombre": "Tarta fina de tomate y queso de cabra",
     "tipo": "vegetariana",
     "comida": "snack",
     "dificultad": 2,
-    "tiempo": "15 min",
-    "emoji": "🥑",
-    "imagen": "https://images.unsplash.com/photo-1613769049987-b31b641f25b1?w=600&h=400&fit=crop&auto=format&q=80",
+    "tiempo": "30 min",
+    "emoji": "🍅",
+    "imagen": "https://images.unsplash.com/photo-1788172406580-7a0417c9e53b?w=600&h=400&fit=crop&auto=format&q=80",
     "ingredientes": [
-      "2 rebanadas de pan integral",
-      "1 aguacate maduro",
-      "2 huevos",
-      "1 cdta de vinagre blanco",
-      "Jugo de limón, sal, pimienta y hojuelas de chile"
+      "1 lámina de masa de hojaldre",
+      "3 tomates medianos en rodajas",
+      "100 g de queso de cabra",
+      "1 cda de mostaza dijon",
+      "Tomillo fresco y aceite de oliva"
     ],
     "pasos": [
-      "Tuesta el pan integral.",
-      "Machaca el aguacate con jugo de limón, sal y pimienta; unta sobre el pan.",
-      "Lleva agua a punto de ebullición suave, agrega el vinagre y crea un remolino; desliza el huevo dentro y cocina 3 minutos.",
-      "Retira el huevo poché con una espumadera y colócalo sobre la tostada de aguacate.",
-      "Espolvorea hojuelas de chile antes de servir."
+      "Extiende el hojaldre en una bandeja y pincha con un tenedor, dejando un borde libre.",
+      "Unta una capa fina de mostaza dijon sobre el hojaldre.",
+      "Distribuye las rodajas de tomate y trozos de queso de cabra.",
+      "Rocía con aceite de oliva y tomillo fresco.",
+      "Hornea a 200°C por 20-25 minutos hasta que el hojaldre esté dorado."
     ],
-    "tip": "El remolino de agua antes de agregar el huevo ayuda a que la clara se enrolle alrededor de la yema en vez de dispersarse.",
+    "tip": "Deja escurrir las rodajas de tomate sobre papel absorbente unos minutos antes de usarlas: evita que el hojaldre quede empapado.",
     "tags": [
-      "aguacate",
-      "huevo",
-      "pan integral",
+      "tomate",
+      "queso de cabra",
+      "hojaldre",
       "snack"
     ]
   },
